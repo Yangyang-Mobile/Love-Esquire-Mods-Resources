@@ -1,0 +1,221 @@
+
+CGBeatriceIndividualEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-CORNEA
+  rotate: false
+  xy: 3986, 3938
+  size: 101, 148
+  orig: 101, 148
+  offset: 0, 0
+  index: -1
+BEATRICE-CURL1
+  rotate: true
+  xy: 1983, 8
+  size: 673, 1585
+  orig: 673, 1585
+  offset: 0, 0
+  index: -1
+BEATRICE-CURL2
+  rotate: true
+  xy: 2811, 710
+  size: 717, 1088
+  orig: 717, 1088
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS
+  rotate: true
+  xy: 3986, 3734
+  size: 196, 62
+  orig: 196, 62
+  offset: 0, 0
+  index: -1
+BEATRICE-EYELASH
+  rotate: true
+  xy: 3907, 1204
+  size: 223, 178
+  orig: 223, 178
+  offset: 0, 0
+  index: -1
+BEATRICE-EYES
+  rotate: true
+  xy: 3907, 684
+  size: 149, 166
+  orig: 149, 166
+  offset: 0, 0
+  index: -1
+BEATRICE-EYESHINE
+  rotate: false
+  xy: 3896, 553
+  size: 138, 123
+  orig: 138, 123
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: false
+  xy: 3576, 10
+  size: 207, 372
+  orig: 207, 372
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: false
+  xy: 2811, 1435
+  size: 1265, 1488
+  orig: 1265, 1488
+  offset: 0, 0
+  index: -1
+BEATRICE-NECKLACE
+  rotate: true
+  xy: 8, 16
+  size: 481, 268
+  orig: 481, 268
+  offset: 0, 0
+  index: -1
+BEATRICE-ROBE2
+  rotate: false
+  xy: 8, 505
+  size: 1909, 3581
+  orig: 1909, 3581
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 1983, 2931
+  size: 1995, 1155
+  orig: 1995, 1155
+  offset: 0, 0
+  index: -1
+CURTAIN
+  rotate: false
+  xy: 1925, 689
+  size: 878, 2234
+  orig: 878, 2234
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 840, 35
+  size: 798, 462
+  orig: 798, 462
+  offset: 0, 0
+  index: -1
+LIGHTING-GOLDS
+  rotate: false
+  xy: 1646, 35
+  size: 329, 462
+  orig: 329, 462
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY1
+  rotate: true
+  xy: 284, 17
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY2
+  rotate: true
+  xy: 562, 17
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+LIGHTING-SPARKLE
+  rotate: false
+  xy: 3576, 390
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+THRONE-SM
+  rotate: true
+  xy: 3907, 841
+  size: 355, 177
+  orig: 355, 177
+  offset: 0, 0
+  index: -1
+
+CGBeatriceIndividualEpilogue2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM11
+  rotate: true
+  xy: 2702, 113
+  size: 842, 769
+  orig: 842, 769
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM12
+  rotate: true
+  xy: 1607, 8
+  size: 947, 1087
+  orig: 947, 1087
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY
+  rotate: false
+  xy: 8, 169
+  size: 1591, 2534
+  orig: 1591, 2534
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: true
+  xy: 3403, 3291
+  size: 761, 558
+  orig: 761, 558
+  offset: 0, 0
+  index: -1
+BEATRICE-ROBE3
+  rotate: false
+  xy: 1607, 963
+  size: 2433, 1740
+  orig: 2433, 1740
+  offset: 0, 0
+  index: -1
+CROWN-SM
+  rotate: false
+  xy: 8, 2711
+  size: 3387, 1341
+  orig: 3387, 1341
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: true
+  xy: 3479, 187
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+
+CGBeatriceIndividualEpilogue3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-CROWN
+  rotate: false
+  xy: 2543, 333
+  size: 1227, 1398
+  orig: 1227, 1398
+  offset: 0, 0
+  index: -1
+BEATRICE-ROBE1
+  rotate: true
+  xy: 8, 11
+  size: 1720, 2527
+  orig: 1720, 2527
+  offset: 0, 0
+  index: -1
+PILLAR-SM
+  rotate: true
+  xy: 2543, 8
+  size: 317, 1155
+  orig: 317, 1155
+  offset: 0, 0
+  index: -1

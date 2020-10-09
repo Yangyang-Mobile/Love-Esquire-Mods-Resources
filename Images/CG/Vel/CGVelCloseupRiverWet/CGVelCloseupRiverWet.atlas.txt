@@ -1,0 +1,250 @@
+
+CGVelCloseupRiverWet.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-WATER1
+  rotate: true
+  xy: 2747, 1676
+  size: 2396, 948
+  orig: 2396, 948
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: false
+  xy: 2025, 8
+  size: 425, 500
+  orig: 425, 500
+  offset: 0, 0
+  index: -1
+VEL-ARM22
+  rotate: true
+  xy: 1280, 165
+  size: 343, 737
+  orig: 343, 737
+  offset: 0, 0
+  index: -1
+VEL-BODY
+  rotate: true
+  xy: 8, 516
+  size: 1856, 2457
+  orig: 1856, 2457
+  offset: 0, 0
+  index: -1
+VEL-DROPLET1
+  rotate: false
+  xy: 3703, 3179
+  size: 215, 893
+  orig: 215, 893
+  offset: 0, 0
+  index: -1
+VEL-DROPLET10
+  rotate: true
+  xy: 3703, 1731
+  size: 240, 350
+  orig: 240, 350
+  offset: 0, 0
+  index: -1
+VEL-DROPLET11
+  rotate: true
+  xy: 2677, 2024
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+VEL-DROPLET12
+  rotate: false
+  xy: 3869, 453
+  size: 198, 168
+  orig: 198, 168
+  offset: 0, 0
+  index: -1
+VEL-DROPLET2
+  rotate: false
+  xy: 2677, 2083
+  size: 46, 289
+  orig: 46, 289
+  offset: 0, 0
+  index: -1
+VEL-DROPLET3
+  rotate: false
+  xy: 3926, 3382
+  size: 106, 690
+  orig: 106, 690
+  offset: 0, 0
+  index: -1
+VEL-DROPLET4
+  rotate: false
+  xy: 3869, 1312
+  size: 121, 411
+  orig: 121, 411
+  offset: 0, 0
+  index: -1
+VEL-DROPLET5
+  rotate: false
+  xy: 3703, 2470
+  size: 97, 701
+  orig: 97, 701
+  offset: 0, 0
+  index: -1
+VEL-DROPLET6
+  rotate: true
+  xy: 2473, 1677
+  size: 72, 115
+  orig: 72, 115
+  offset: 0, 0
+  index: -1
+VEL-DROPLET7
+  rotate: false
+  xy: 3869, 290
+  size: 197, 155
+  orig: 197, 155
+  offset: 0, 0
+  index: -1
+VEL-DROPLET8
+  rotate: false
+  xy: 3869, 165
+  size: 140, 117
+  orig: 140, 117
+  offset: 0, 0
+  index: -1
+VEL-DROPLET9
+  rotate: false
+  xy: 3808, 2671
+  size: 107, 500
+  orig: 107, 500
+  offset: 0, 0
+  index: -1
+VEL-HAIR1
+  rotate: false
+  xy: 2473, 1757
+  size: 196, 615
+  orig: 196, 615
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: true
+  xy: 1280, 12
+  size: 145, 642
+  orig: 145, 642
+  offset: 0, 0
+  index: -1
+VEL-HAIR3
+  rotate: false
+  xy: 3703, 1979
+  size: 160, 483
+  orig: 160, 483
+  offset: 0, 0
+  index: -1
+VEL-HAIR4
+  rotate: false
+  xy: 3869, 957
+  size: 139, 347
+  orig: 139, 347
+  offset: 0, 0
+  index: -1
+VEL-HAIR5
+  rotate: false
+  xy: 3923, 2744
+  size: 78, 427
+  orig: 78, 427
+  offset: 0, 0
+  index: -1
+VEL-HEAD
+  rotate: false
+  xy: 8, 41
+  size: 1264, 467
+  orig: 1264, 467
+  offset: 0, 0
+  index: -1
+VEL-LIGHTRAY2
+  rotate: true
+  xy: 2473, 16
+  size: 1652, 1388
+  orig: 1652, 1388
+  offset: 0, 0
+  index: -1
+VEL-LIGHTRAY3
+  rotate: false
+  xy: 8, 2380
+  size: 2731, 1692
+  orig: 2731, 1692
+  offset: 0, 0
+  index: -1
+VEL-MOUTH
+  rotate: true
+  xy: 3869, 629
+  size: 320, 216
+  orig: 320, 216
+  offset: 0, 0
+  index: -1
+
+CGVelCloseupRiverWet2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-LANDSMLL
+  rotate: false
+  xy: 8, 2697
+  size: 2394, 1387
+  orig: 2394, 1387
+  offset: 0, 0
+  index: -1
+BG-WATER21
+  rotate: true
+  xy: 8, 293
+  size: 2396, 948
+  orig: 2396, 948
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: false
+  xy: 3405, 759
+  size: 551, 2267
+  orig: 551, 2267
+  offset: 0, 0
+  index: -1
+VEL-ARM12
+  rotate: true
+  xy: 964, 153
+  size: 782, 1957
+  orig: 782, 1957
+  offset: 0, 0
+  index: -1
+VEL-ARM23
+  rotate: true
+  xy: 2410, 2383
+  size: 643, 987
+  orig: 643, 987
+  offset: 0, 0
+  index: -1
+VEL-BOOBS
+  rotate: false
+  xy: 2410, 3034
+  size: 1390, 1050
+  orig: 1390, 1050
+  offset: 0, 0
+  index: -1
+VEL-LIGHTING
+  rotate: false
+  xy: 8, 8
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+VEL-LIGHTRAY1
+  rotate: true
+  xy: 964, 943
+  size: 1746, 1388
+  orig: 1746, 1388
+  offset: 0, 0
+  index: -1
+VEL-NECK
+  rotate: false
+  xy: 2360, 1723
+  size: 709, 652
+  orig: 709, 652
+  offset: 0, 0
+  index: -1

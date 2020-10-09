@@ -1,0 +1,285 @@
+
+CGKamalaFriendshipEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-BODY
+  rotate: true
+  xy: 1505, 1044
+  size: 1620, 1732
+  orig: 1620, 1732
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS2
+  rotate: true
+  xy: 3184, 42
+  size: 270, 565
+  orig: 270, 565
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS
+  rotate: true
+  xy: 3757, 79
+  size: 233, 29
+  orig: 233, 29
+  offset: 0, 0
+  index: -1
+BEATRICE-EYES
+  rotate: true
+  xy: 1301, 1289
+  size: 252, 179
+  orig: 252, 179
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: false
+  xy: 3245, 971
+  size: 547, 1693
+  orig: 547, 1693
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: false
+  xy: 3203, 320
+  size: 613, 643
+  orig: 613, 643
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR3
+  rotate: false
+  xy: 8, 8
+  size: 1285, 1533
+  orig: 1285, 1533
+  offset: 0, 0
+  index: -1
+BG-DOOR
+  rotate: true
+  xy: 1301, 34
+  size: 341, 1875
+  orig: 341, 1875
+  offset: 0, 0
+  index: -1
+BG-WALLSSM
+  rotate: false
+  xy: 1505, 2672
+  size: 2395, 1386
+  orig: 2395, 1386
+  offset: 0, 0
+  index: -1
+KAMALA-ACCESSORY
+  rotate: false
+  xy: 3908, 3773
+  size: 47, 99
+  orig: 47, 99
+  offset: 0, 0
+  index: -1
+KAMALA-EYE
+  rotate: false
+  xy: 3908, 3880
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+KAMALA-EYE2
+  rotate: false
+  xy: 3800, 971
+  size: 118, 93
+  orig: 118, 93
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS
+  rotate: false
+  xy: 3800, 1072
+  size: 156, 129
+  orig: 156, 129
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: false
+  xy: 8, 1549
+  size: 1489, 2509
+  orig: 1489, 2509
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3800, 1209
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY1
+  rotate: true
+  xy: 3800, 2184
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY2
+  rotate: true
+  xy: 3800, 1696
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY
+  rotate: true
+  xy: 1301, 383
+  size: 653, 1894
+  orig: 653, 1894
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH
+  rotate: false
+  xy: 1301, 1136
+  size: 136, 145
+  orig: 136, 145
+  offset: 0, 0
+  index: -1
+SQUIRE-NOSE
+  rotate: false
+  xy: 3964, 1128
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+
+CGKamalaFriendshipEpilogue2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM20
+  rotate: true
+  xy: 1703, 1385
+  size: 773, 1252
+  orig: 773, 1252
+  offset: 0, 0
+  index: -1
+BEATRICE-BLUSH
+  rotate: true
+  xy: 2484, 712
+  size: 665, 538
+  orig: 665, 538
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS1
+  rotate: false
+  xy: 8, 1382
+  size: 1224, 1351
+  orig: 1224, 1351
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR4
+  rotate: false
+  xy: 1240, 1418
+  size: 455, 1315
+  orig: 455, 1315
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR5
+  rotate: false
+  xy: 1125, 300
+  size: 664, 1074
+  orig: 664, 1074
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR6
+  rotate: false
+  xy: 8, 8
+  size: 1109, 1366
+  orig: 1109, 1366
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD1
+  rotate: false
+  xy: 8, 2741
+  size: 1378, 1321
+  orig: 1378, 1321
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD2
+  rotate: false
+  xy: 1797, 275
+  size: 606, 452
+  orig: 606, 452
+  offset: 0, 0
+  index: -1
+BG-LIGHTING1
+  rotate: false
+  xy: 1125, 15
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: true
+  xy: 1394, 2833
+  size: 1229, 1342
+  orig: 1229, 1342
+  offset: 0, 0
+  index: -1
+KAMALA-ARM11
+  rotate: false
+  xy: 1703, 2166
+  size: 1033, 659
+  orig: 1033, 659
+  offset: 0, 0
+  index: -1
+KAMALA-ARM21
+  rotate: false
+  xy: 3030, 911
+  size: 472, 529
+  orig: 472, 529
+  offset: 0, 0
+  index: -1
+KAMALA-BLUSH
+  rotate: false
+  xy: 1797, 735
+  size: 679, 642
+  orig: 679, 642
+  offset: 0, 0
+  index: -1
+KAMALA-BODY
+  rotate: true
+  xy: 2744, 2445
+  size: 1617, 847
+  orig: 1617, 847
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR
+  rotate: false
+  xy: 3599, 2206
+  size: 481, 1856
+  orig: 481, 1856
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: true
+  xy: 2411, 262
+  size: 442, 750
+  orig: 442, 750
+  offset: 0, 0
+  index: -1
+SQUIRE-BLUSH
+  rotate: false
+  xy: 2963, 1448
+  size: 406, 283
+  orig: 406, 283
+  offset: 0, 0
+  index: -1
+SQUIRE-HAND12
+  rotate: false
+  xy: 3576, 1656
+  size: 507, 542
+  orig: 507, 542
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: true
+  xy: 2963, 1739
+  size: 698, 605
+  orig: 698, 605
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,312 @@
+
+CGKamalaCloseupRiverWet.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM11DRIP
+  rotate: false
+  xy: 2546, 1735
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+KAMALA-ARM11DRIP1
+  rotate: false
+  xy: 2709, 126
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12DRIP
+  rotate: false
+  xy: 2407, 1770
+  size: 171, 520
+  orig: 171, 520
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12DRIP1
+  rotate: false
+  xy: 4013, 3641
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12DRIP2
+  rotate: false
+  xy: 2507, 43
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+KAMALA-ARM13DRIP
+  rotate: false
+  xy: 3591, 106
+  size: 478, 705
+  orig: 478, 705
+  offset: 0, 0
+  index: -1
+KAMALA-ARM21
+  rotate: false
+  xy: 2507, 175
+  size: 1076, 1489
+  orig: 1076, 1489
+  offset: 0, 0
+  index: -1
+KAMALA-ARM21DRIP
+  rotate: true
+  xy: 2586, 2068
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22DRIP1
+  rotate: true
+  xy: 2407, 1675
+  size: 87, 131
+  orig: 87, 131
+  offset: 0, 0
+  index: -1
+KAMALA-BRA3DRIP
+  rotate: false
+  xy: 4, 4
+  size: 2495, 891
+  orig: 2495, 891
+  offset: 0, 0
+  index: -1
+KAMALA-BRA3DRIP1
+  rotate: false
+  xy: 2586, 2118
+  size: 40, 172
+  orig: 40, 172
+  offset: 0, 0
+  index: -1
+KAMALA-BRA3DRIP2
+  rotate: false
+  xy: 4013, 3756
+  size: 62, 311
+  orig: 62, 311
+  offset: 0, 0
+  index: -1
+KAMALA-BRA3DRIP3
+  rotate: false
+  xy: 3591, 819
+  size: 470, 845
+  orig: 470, 845
+  offset: 0, 0
+  index: -1
+KAMALA-BRA3WDRIP
+  rotate: false
+  xy: 4, 2298
+  size: 2628, 1769
+  orig: 2628, 1769
+  offset: 0, 0
+  index: -1
+KAMALA-NECKLACE2
+  rotate: true
+  xy: 2507, 116
+  size: 51, 194
+  orig: 51, 194
+  offset: 0, 0
+  index: -1
+KAMALA-NECKLACE2LIGHT
+  rotate: false
+  xy: 2407, 1562
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1
+WATER4RIPPLE
+  rotate: true
+  xy: 2640, 1672
+  size: 2395, 1365
+  orig: 2395, 1365
+  offset: 0, 0
+  index: -1
+WATER5BG
+  rotate: false
+  xy: 4, 903
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupRiverWet2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM13
+  rotate: false
+  xy: 4, 844
+  size: 1284, 2224
+  orig: 1284, 2224
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22
+  rotate: false
+  xy: 1296, 2176
+  size: 1049, 892
+  orig: 1049, 892
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22DRIP
+  rotate: false
+  xy: 1276, 102
+  size: 675, 601
+  orig: 675, 601
+  offset: 0, 0
+  index: -1
+KAMALA-ARM23
+  rotate: true
+  xy: 1296, 711
+  size: 1284, 1857
+  orig: 1284, 1857
+  offset: 0, 0
+  index: -1
+KAMALA-BODY
+  rotate: true
+  xy: 2517, 13
+  size: 690, 448
+  orig: 690, 448
+  offset: 0, 0
+  index: -1
+KAMALA-BODY1
+  rotate: true
+  xy: 2465, 2003
+  size: 2079, 1310
+  orig: 2079, 1310
+  offset: 0, 0
+  index: -1
+KAMALA-BODY1DRIP
+  rotate: false
+  xy: 3783, 2123
+  size: 286, 189
+  orig: 286, 189
+  offset: 0, 0
+  index: -1
+KAMALA-BRA3DRIP4
+  rotate: false
+  xy: 3783, 2739
+  size: 239, 529
+  orig: 239, 529
+  offset: 0, 0
+  index: -1
+KAMALA-FLARE1
+  rotate: false
+  xy: 1959, 172
+  size: 550, 531
+  orig: 550, 531
+  offset: 0, 0
+  index: -1
+KAMALA-GOLDACCLIGHT
+  rotate: true
+  xy: 3783, 3276
+  size: 806, 297
+  orig: 806, 297
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTING
+  rotate: true
+  xy: 3797, 71
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTRAY1
+  rotate: false
+  xy: 4, 4
+  size: 1264, 832
+  orig: 1264, 832
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTRAY2
+  rotate: true
+  xy: 3161, 558
+  size: 1437, 832
+  orig: 1437, 832
+  offset: 0, 0
+  index: -1
+KAMALA-NECKLACE1
+  rotate: false
+  xy: 2973, 24
+  size: 816, 526
+  orig: 816, 526
+  offset: 0, 0
+  index: -1
+WATER21
+  rotate: true
+  xy: 3783, 2320
+  size: 411, 202
+  orig: 411, 202
+  offset: 0, 0
+  index: -1
+WATER3
+  rotate: false
+  xy: 4, 3076
+  size: 2453, 1006
+  orig: 2453, 1006
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupRiverWet3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM11
+  rotate: false
+  xy: 4, 627
+  size: 1131, 1416
+  orig: 1131, 1416
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12
+  rotate: true
+  xy: 1143, 1115
+  size: 928, 871
+  orig: 928, 871
+  offset: 0, 0
+  index: -1
+KAMALA-ARM23DRIP
+  rotate: false
+  xy: 351, 18
+  size: 406, 601
+  orig: 406, 601
+  offset: 0, 0
+  index: -1
+KAMALA-BRA1
+  rotate: false
+  xy: 765, 48
+  size: 380, 571
+  orig: 380, 571
+  offset: 0, 0
+  index: -1
+KAMALA-BRA2
+  rotate: false
+  xy: 1556, 610
+  size: 410, 497
+  orig: 410, 497
+  offset: 0, 0
+  index: -1
+WATER11
+  rotate: true
+  xy: 1143, 649
+  size: 458, 405
+  orig: 458, 405
+  offset: 0, 0
+  index: -1
+WATER12
+  rotate: true
+  xy: 4, 4
+  size: 615, 339
+  orig: 615, 339
+  offset: 0, 0
+  index: -1
+WATER22
+  rotate: false
+  xy: 1153, 225
+  size: 721, 377
+  orig: 721, 377
+  offset: 0, 0
+  index: -1

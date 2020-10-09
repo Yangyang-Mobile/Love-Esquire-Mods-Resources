@@ -1,0 +1,173 @@
+
+CGVelArchivesPanty.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SMLL
+  rotate: false
+  xy: 4, 1769
+  size: 3992, 2312
+  orig: 3992, 2312
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: false
+  xy: 3379, 837
+  size: 638, 924
+  orig: 638, 924
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: true
+  xy: 3379, 4
+  size: 825, 652
+  orig: 825, 652
+  offset: 0, 0
+  index: -1
+VEL-CORNEA
+  rotate: false
+  xy: 573, 112
+  size: 457, 131
+  orig: 457, 131
+  offset: 0, 0
+  index: -1
+VEL-EYELIGHTS
+  rotate: false
+  xy: 1038, 62
+  size: 315, 181
+  orig: 315, 181
+  offset: 0, 0
+  index: -1
+VEL-HAIR3
+  rotate: true
+  xy: 1892, 63
+  size: 1698, 1479
+  orig: 1698, 1479
+  offset: 0, 0
+  index: -1
+VEL-MOUTH
+  rotate: true
+  xy: 1361, 88
+  size: 155, 116
+  orig: 155, 116
+  offset: 0, 0
+  index: -1
+VEL-SKIRTBACK
+  rotate: false
+  xy: 4, 251
+  size: 1880, 1510
+  orig: 1880, 1510
+  offset: 0, 0
+  index: -1
+lens flare
+  rotate: false
+  xy: 4, 116
+  size: 561, 127
+  orig: 561, 127
+  offset: 0, 0
+  index: -1
+
+CGVelArchivesPanty2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VEL-ANTENA
+  rotate: false
+  xy: 4, 2118
+  size: 1281, 742
+  orig: 1281, 742
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: true
+  xy: 3353, 3181
+  size: 771, 535
+  orig: 771, 535
+  offset: 0, 0
+  index: -1
+VEL-ARMS
+  rotate: false
+  xy: 4, 1300
+  size: 920, 810
+  orig: 920, 810
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS
+  rotate: false
+  xy: 2288, 2785
+  size: 531, 290
+  orig: 531, 290
+  offset: 0, 0
+  index: -1
+VEL-EYELASHES
+  rotate: false
+  xy: 2827, 2708
+  size: 531, 367
+  orig: 531, 367
+  offset: 0, 0
+  index: -1
+VEL-HAIR1
+  rotate: false
+  xy: 4, 474
+  size: 858, 818
+  orig: 858, 818
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: false
+  xy: 1293, 2128
+  size: 809, 732
+  orig: 809, 732
+  offset: 0, 0
+  index: -1
+VEL-HEAD
+  rotate: false
+  xy: 1380, 1625
+  size: 507, 495
+  orig: 507, 495
+  offset: 0, 0
+  index: -1
+VEL-LIGHTING
+  rotate: false
+  xy: 4, 4
+  size: 798, 462
+  orig: 798, 462
+  offset: 0, 0
+  index: -1
+VEL-LOWERLIGHTING
+  rotate: false
+  xy: 932, 1281
+  size: 496, 289
+  orig: 496, 289
+  offset: 0, 0
+  index: -1
+VEL-SCLERA
+  rotate: false
+  xy: 3366, 2862
+  size: 510, 311
+  orig: 510, 311
+  offset: 0, 0
+  index: -1
+VEL-TORSO
+  rotate: false
+  xy: 4, 2868
+  size: 2276, 1084
+  orig: 2276, 1084
+  offset: 0, 0
+  index: -1
+VEL-TORSO1
+  rotate: false
+  xy: 2288, 3083
+  size: 1057, 869
+  orig: 1057, 869
+  offset: 0, 0
+  index: -1
+VEL-TORSO2
+  rotate: true
+  xy: 932, 1578
+  size: 532, 440
+  orig: 532, 440
+  offset: 0, 0
+  index: -1

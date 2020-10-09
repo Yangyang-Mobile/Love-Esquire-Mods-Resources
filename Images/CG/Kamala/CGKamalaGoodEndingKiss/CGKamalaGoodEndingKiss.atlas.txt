@@ -1,0 +1,417 @@
+
+CGKamalaGoodEndingKiss.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: false
+  xy: 8, 2700
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+KAMALA-ARM11
+  rotate: false
+  xy: 683, 83
+  size: 972, 1005
+  orig: 972, 1005
+  offset: 0, 0
+  index: -1
+KAMALA-CIRCLET1
+  rotate: true
+  xy: 833, 33
+  size: 42, 169
+  orig: 42, 169
+  offset: 0, 0
+  index: -1
+KAMALA-CORNEA
+  rotate: false
+  xy: 2325, 9
+  size: 389, 261
+  orig: 389, 261
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS3
+  rotate: false
+  xy: 3424, 1416
+  size: 186, 216
+  orig: 186, 216
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS6
+  rotate: true
+  xy: 3151, 1938
+  size: 690, 914
+  orig: 690, 914
+  offset: 0, 0
+  index: -1
+KAMALA-EARRINGS1
+  rotate: false
+  xy: 3974, 1267
+  size: 79, 298
+  orig: 79, 298
+  offset: 0, 0
+  index: -1
+KAMALA-EARRINGS3
+  rotate: true
+  xy: 1663, 8
+  size: 73, 99
+  orig: 73, 99
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS1
+  rotate: true
+  xy: 2398, 2035
+  size: 593, 163
+  orig: 593, 163
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS31
+  rotate: true
+  xy: 2569, 2035
+  size: 593, 163
+  orig: 593, 163
+  offset: 0, 0
+  index: -1
+KAMALA-EYELASHES1
+  rotate: true
+  xy: 2837, 1414
+  size: 638, 303
+  orig: 638, 303
+  offset: 0, 0
+  index: -1
+KAMALA-FACE2
+  rotate: true
+  xy: 2325, 810
+  size: 287, 497
+  orig: 287, 497
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR1
+  rotate: true
+  xy: 2837, 21
+  size: 1385, 1129
+  orig: 1385, 1129
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR2
+  rotate: false
+  xy: 8, 20
+  size: 667, 1068
+  orig: 667, 1068
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR3
+  rotate: false
+  xy: 1663, 89
+  size: 654, 999
+  orig: 654, 999
+  offset: 0, 0
+  index: -1
+KAMALA-HAND1
+  rotate: true
+  xy: 1947, 2032
+  size: 660, 443
+  orig: 660, 443
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD1
+  rotate: true
+  xy: 8, 1096
+  size: 1596, 1931
+  orig: 1596, 1931
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH1
+  rotate: false
+  xy: 3974, 1573
+  size: 105, 357
+  orig: 105, 357
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH31
+  rotate: false
+  xy: 3148, 1445
+  size: 160, 120
+  orig: 160, 120
+  offset: 0, 0
+  index: -1
+KAMALA-NECKLACE1
+  rotate: true
+  xy: 683, 25
+  size: 50, 142
+  orig: 50, 142
+  offset: 0, 0
+  index: -1
+LIGHTING-SPARKLE
+  rotate: true
+  xy: 2325, 278
+  size: 524, 491
+  orig: 524, 491
+  offset: 0, 0
+  index: -1
+SQUIRE-BLUSH
+  rotate: true
+  xy: 3148, 1579
+  size: 351, 268
+  orig: 351, 268
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY
+  rotate: false
+  xy: 3424, 1640
+  size: 537, 290
+  orig: 537, 290
+  offset: 0, 0
+  index: -1
+SQUIRE-HOOD1
+  rotate: false
+  xy: 2411, 2636
+  size: 1663, 1451
+  orig: 1663, 1451
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH1
+  rotate: true
+  xy: 1770, 12
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH3
+  rotate: true
+  xy: 3618, 1447
+  size: 185, 327
+  orig: 185, 327
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK2
+  rotate: false
+  xy: 1947, 1105
+  size: 882, 919
+  orig: 882, 919
+  offset: 0, 0
+  index: -1
+SQUIRE-SHOULDER4
+  rotate: false
+  xy: 2740, 2060
+  size: 403, 568
+  orig: 403, 568
+  offset: 0, 0
+  index: -1
+
+CGKamalaGoodEndingKiss2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM21
+  rotate: false
+  xy: 3178, 1281
+  size: 600, 1477
+  orig: 600, 1477
+  offset: 0, 0
+  index: -1
+KAMALA-BLUSH21
+  rotate: false
+  xy: 3065, 755
+  size: 857, 518
+  orig: 857, 518
+  offset: 0, 0
+  index: -1
+KAMALA-BODY
+  rotate: false
+  xy: 8, 2783
+  size: 1805, 1299
+  orig: 1805, 1299
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS1
+  rotate: true
+  xy: 3786, 1542
+  size: 303, 299
+  orig: 303, 299
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS2
+  rotate: true
+  xy: 2961, 440
+  size: 307, 827
+  orig: 307, 827
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS4
+  rotate: false
+  xy: 857, 8
+  size: 336, 994
+  orig: 336, 994
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS5
+  rotate: true
+  xy: 1838, 603
+  size: 376, 1115
+  orig: 376, 1115
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS7
+  rotate: false
+  xy: 3786, 2241
+  size: 187, 517
+  orig: 187, 517
+  offset: 0, 0
+  index: -1
+KAMALA-EYELASHES12
+  rotate: true
+  xy: 3796, 226
+  size: 521, 292
+  orig: 521, 292
+  offset: 0, 0
+  index: -1
+KAMALA-EYELIGHTS
+  rotate: false
+  xy: 2958, 193
+  size: 458, 239
+  orig: 458, 239
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR4
+  rotate: true
+  xy: 1838, 123
+  size: 472, 884
+  orig: 472, 884
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR5
+  rotate: false
+  xy: 1174, 1188
+  size: 888, 1587
+  orig: 888, 1587
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH21
+  rotate: true
+  xy: 3786, 1291
+  size: 243, 281
+  orig: 243, 281
+  offset: 0, 0
+  index: -1
+KAMALA-NECKLACE
+  rotate: false
+  xy: 8, 103
+  size: 841, 899
+  orig: 841, 899
+  offset: 0, 0
+  index: -1
+KAMALA-SCLERA
+  rotate: true
+  xy: 2730, 134
+  size: 461, 220
+  orig: 461, 220
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 1201, 13
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY2
+  rotate: false
+  xy: 3424, 155
+  size: 344, 277
+  orig: 344, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR1
+  rotate: true
+  xy: 1821, 2901
+  size: 1181, 1442
+  orig: 1181, 1442
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR2
+  rotate: false
+  xy: 8, 1010
+  size: 1158, 1765
+  orig: 1158, 1765
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD1
+  rotate: false
+  xy: 2070, 1374
+  size: 1100, 1519
+  orig: 1100, 1519
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD2
+  rotate: true
+  xy: 2958, 10
+  size: 175, 276
+  orig: 175, 276
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK1
+  rotate: false
+  xy: 2070, 987
+  size: 987, 379
+  orig: 987, 379
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK3
+  rotate: false
+  xy: 3786, 1853
+  size: 265, 380
+  orig: 265, 380
+  offset: 0, 0
+  index: -1
+SQUIRE-SHOULDER1
+  rotate: true
+  xy: 3271, 2766
+  size: 1316, 754
+  orig: 1316, 754
+  offset: 0, 0
+  index: -1
+SQUIRE-SHOULDER3
+  rotate: true
+  xy: 1201, 298
+  size: 882, 629
+  orig: 882, 629
+  offset: 0, 0
+  index: -1
+
+CGKamalaGoodEndingKiss3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LIGHTING-RAY-SM
+  rotate: false
+  xy: 688, 426
+  size: 689, 554
+  orig: 689, 554
+  offset: 0, 0
+  index: -1
+SQUIRE-HOOD2
+  rotate: false
+  xy: 8, 383
+  size: 672, 597
+  orig: 672, 597
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH2
+  rotate: false
+  xy: 8, 8
+  size: 196, 367
+  orig: 196, 367
+  offset: 0, 0
+  index: -1
+SQUIRE-SHOULDER2
+  rotate: false
+  xy: 1385, 734
+  size: 261, 246
+  orig: 261, 246
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,173 @@
+
+CGVelFirstMeet.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM
+  rotate: true
+  xy: 3380, 2068
+  size: 852, 658
+  orig: 852, 658
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: true
+  xy: 2076, 1782
+  size: 2304, 1296
+  orig: 2304, 1296
+  offset: 0, 0
+  index: -1
+BLUSH1
+  rotate: false
+  xy: 8, 18
+  size: 954, 831
+  orig: 954, 831
+  offset: 0, 0
+  index: -1
+BLUSH2
+  rotate: true
+  xy: 3484, 851
+  size: 941, 551
+  orig: 941, 551
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: false
+  xy: 8, 2373
+  size: 2060, 1713
+  orig: 2060, 1713
+  offset: 0, 0
+  index: -1
+BODY-DRESS
+  rotate: false
+  xy: 3913, 3771
+  size: 139, 315
+  orig: 139, 315
+  offset: 0, 0
+  index: -1
+EYE2
+  rotate: true
+  xy: 3484, 72
+  size: 771, 456
+  orig: 771, 456
+  offset: 0, 0
+  index: -1
+EYEBROW1
+  rotate: true
+  xy: 1706, 120
+  size: 574, 289
+  orig: 574, 289
+  offset: 0, 0
+  index: -1
+EYEBROW2
+  rotate: true
+  xy: 1802, 702
+  size: 549, 159
+  orig: 549, 159
+  offset: 0, 0
+  index: -1
+EYETEARS
+  rotate: true
+  xy: 1802, 1685
+  size: 680, 228
+  orig: 680, 228
+  offset: 0, 0
+  index: -1
+HAIR-ANTENNA1
+  rotate: false
+  xy: 2038, 75
+  size: 1438, 1699
+  orig: 1438, 1699
+  offset: 0, 0
+  index: -1
+HAIR-ANTENNA2
+  rotate: false
+  xy: 8, 857
+  size: 1786, 1508
+  orig: 1786, 1508
+  offset: 0, 0
+  index: -1
+HAIR3
+  rotate: false
+  xy: 3380, 2928
+  size: 525, 1158
+  orig: 525, 1158
+  offset: 0, 0
+  index: -1
+HAIR4
+  rotate: false
+  xy: 970, 8
+  size: 728, 841
+  orig: 728, 841
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 3380, 1800
+  size: 460, 260
+  orig: 460, 260
+  offset: 0, 0
+  index: -1
+MOUTH2
+  rotate: true
+  xy: 1802, 1259
+  size: 418, 227
+  orig: 418, 227
+  offset: 0, 0
+  index: -1
+
+CGVelFirstMeet2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE1
+  rotate: false
+  xy: 2483, 3462
+  size: 740, 363
+  orig: 740, 363
+  offset: 0, 0
+  index: -1
+EYESHINE
+  rotate: true
+  xy: 2021, 1727
+  size: 589, 392
+  orig: 589, 392
+  offset: 0, 0
+  index: -1
+HAIR1
+  rotate: false
+  xy: 8, 8
+  size: 985, 1217
+  orig: 985, 1217
+  offset: 0, 0
+  index: -1
+HAIR2
+  rotate: false
+  xy: 1140, 1575
+  size: 873, 741
+  orig: 873, 741
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 1140, 2324
+  size: 1335, 1501
+  orig: 1335, 1501
+  offset: 0, 0
+  index: -1
+MOUTH1
+  rotate: false
+  xy: 1140, 1289
+  size: 373, 278
+  orig: 373, 278
+  offset: 0, 0
+  index: -1
+SQUIRE
+  rotate: false
+  xy: 8, 1233
+  size: 1124, 2592
+  orig: 1124, 2592
+  offset: 0, 0
+  index: -1

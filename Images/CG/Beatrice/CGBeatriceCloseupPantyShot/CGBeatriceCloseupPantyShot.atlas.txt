@@ -1,0 +1,178 @@
+
+CGBeatriceCloseupPantyShot.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-DRESS2
+  rotate: false
+  xy: 4, 1189
+  size: 3433, 609
+  orig: 3433, 609
+  offset: 0, 0
+  index: -1
+BEATRICE-HAND
+  rotate: true
+  xy: 3481, 637
+  size: 541, 354
+  orig: 541, 354
+  offset: 0, 0
+  index: -1
+BEATRICE-LEGS12
+  rotate: false
+  xy: 3509, 1842
+  size: 532, 1053
+  orig: 532, 1053
+  offset: 0, 0
+  index: -1
+BEATRICE-LIGHTING
+  rotate: true
+  xy: 3481, 150
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+BEATRICE-LIGHTRAYS1
+  rotate: false
+  xy: 3481, 4
+  size: 239, 138
+  orig: 239, 138
+  offset: 0, 0
+  index: -1
+BEATRICE-LIGHTRAYS2
+  rotate: false
+  xy: 3728, 4
+  size: 239, 138
+  orig: 239, 138
+  offset: 0, 0
+  index: -1
+BEATRICE-PANTIE1
+  rotate: false
+  xy: 3509, 1186
+  size: 513, 648
+  orig: 513, 648
+  offset: 0, 0
+  index: -1
+BEATRICE-SADDLE
+  rotate: false
+  xy: 4, 42
+  size: 3469, 1136
+  orig: 3469, 1136
+  offset: 0, 0
+  index: -1
+BEATRICE-SASH1
+  rotate: false
+  xy: 4, 1806
+  size: 3497, 2199
+  orig: 3497, 2199
+  offset: 0, 0
+  index: -1
+BEATRICE-UPPERLIGHT
+  rotate: true
+  xy: 3509, 2903
+  size: 1102, 579
+  orig: 1102, 579
+  offset: 0, 0
+  index: -1
+BG-SKYSmll
+  rotate: true
+  xy: 3766, 390
+  size: 239, 138
+  orig: 239, 138
+  offset: 0, 0
+  index: -1
+
+CGBeatriceCloseupPantyShot2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-DRESS3
+  rotate: false
+  xy: 4, 1306
+  size: 3016, 2776
+  orig: 3016, 2776
+  offset: 0, 0
+  index: -1
+BEATRICE-FLARE1
+  rotate: true
+  xy: 3028, 1362
+  size: 765, 757
+  orig: 765, 757
+  offset: 0, 0
+  index: -1
+BEATRICE-PANTIE2
+  rotate: true
+  xy: 3028, 2848
+  size: 1234, 808
+  orig: 1234, 808
+  offset: 0, 0
+  index: -1
+BEATRICE-SASH2
+  rotate: true
+  xy: 3028, 2135
+  size: 705, 888
+  orig: 705, 888
+  offset: 0, 0
+  index: -1
+BG-CLOUD1
+  rotate: true
+  xy: 4, 4
+  size: 1294, 1887
+  orig: 1294, 1887
+  offset: 0, 0
+  index: -1
+BG-TREE
+  rotate: true
+  xy: 1899, 177
+  size: 1121, 1344
+  orig: 1121, 1344
+  offset: 0, 0
+  index: -1
+
+CGBeatriceCloseupPantyShot3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-DRESS4
+  rotate: true
+  xy: 2030, 4
+  size: 1772, 1470
+  orig: 1772, 1470
+  offset: 0, 0
+  index: -1
+BEATRICE-LEGS11
+  rotate: false
+  xy: 4, 1784
+  size: 2955, 2157
+  orig: 2955, 2157
+  offset: 0, 0
+  index: -1
+BEATRICE-LEGS2
+  rotate: true
+  xy: 4, 49
+  size: 1727, 2018
+  orig: 1727, 2018
+  offset: 0, 0
+  index: -1
+
+CGBeatriceCloseupPantyShot4.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-DRESS1
+  rotate: false
+  xy: 1478, 355
+  size: 1131, 1147
+  orig: 1131, 1147
+  offset: 0, 0
+  index: -1
+BG-CLOUD2
+  rotate: false
+  xy: 4, 4
+  size: 1466, 1498
+  orig: 1466, 1498
+  offset: 0, 0
+  index: -1

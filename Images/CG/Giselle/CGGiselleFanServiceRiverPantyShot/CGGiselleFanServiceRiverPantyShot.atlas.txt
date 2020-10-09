@@ -1,0 +1,68 @@
+
+CGGiselleFanServiceRiverPantyShot.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: true
+  xy: 2363, 1209
+  size: 2394, 1386
+  orig: 2394, 1386
+  offset: 0, 0
+  index: -1
+GISELLE-BUTT
+  rotate: false
+  xy: 2, 831
+  size: 2359, 2772
+  orig: 2359, 2772
+  offset: 0, 0
+  index: -1
+GISELLE-WATERDROP1
+  rotate: true
+  xy: 2, 281
+  size: 548, 1368
+  orig: 548, 1368
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3751, 3124
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY1
+  rotate: false
+  xy: 2, 2
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY2
+  rotate: false
+  xy: 1372, 552
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+WATER-SM
+  rotate: false
+  xy: 2363, 840
+  size: 957, 367
+  orig: 957, 367
+  offset: 0, 0
+  index: -1
+
+CGGiselleFanServiceRiverPantyShot2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-BUTTWATER
+  rotate: false
+  xy: 2, 2
+  size: 2359, 2772
+  orig: 2359, 2772
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,179 @@
+
+CGBeatriceFaces.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-EYE2
+  rotate: true
+  xy: 1735, 842
+  size: 1140, 876
+  orig: 1140, 876
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS1
+  rotate: false
+  xy: 2408, 8
+  size: 1312, 405
+  orig: 1312, 405
+  offset: 0, 0
+  index: -1
+BEATRICE-EYESHINE
+  rotate: true
+  xy: 1735, 19
+  size: 815, 418
+  orig: 815, 418
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: true
+  xy: 2619, 538
+  size: 1131, 1435
+  orig: 1131, 1435
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: false
+  xy: 8, 30
+  size: 1719, 1952
+  orig: 1719, 1952
+  offset: 0, 0
+  index: -1
+BEATRICE-LIGHTING
+  rotate: false
+  xy: 2161, 337
+  size: 239, 138
+  orig: 239, 138
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH1
+  rotate: true
+  xy: 2440, 421
+  size: 225, 159
+  orig: 225, 159
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH2
+  rotate: false
+  xy: 2161, 483
+  size: 271, 163
+  orig: 271, 163
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH3
+  rotate: false
+  xy: 2161, 654
+  size: 325, 180
+  orig: 325, 180
+  offset: 0, 0
+  index: -1
+BEATRICE-TORSO
+  rotate: false
+  xy: 8, 1990
+  size: 2610, 2083
+  orig: 2610, 2083
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: true
+  xy: 2626, 1677
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+
+CGBeatriceFaces2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-BLUSH
+  rotate: false
+  xy: 8, 2067
+  size: 1719, 1952
+  orig: 1719, 1952
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS2
+  rotate: true
+  xy: 3584, 2707
+  size: 1312, 405
+  orig: 1312, 405
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS3
+  rotate: false
+  xy: 2743, 8
+  size: 1312, 405
+  orig: 1312, 405
+  offset: 0, 0
+  index: -1
+BEATRICE-EYECORNEA
+  rotate: false
+  xy: 2803, 421
+  size: 927, 707
+  orig: 927, 707
+  offset: 0, 0
+  index: -1
+BEATRICE-EYESCLERA
+  rotate: false
+  xy: 1735, 11
+  size: 1000, 735
+  orig: 1000, 735
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: false
+  xy: 1735, 2542
+  size: 1841, 1477
+  orig: 1841, 1477
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR4
+  rotate: false
+  xy: 1735, 754
+  size: 1060, 1780
+  orig: 1060, 1780
+  offset: 0, 0
+  index: -1
+BEATRICE-HEADSHADOW
+  rotate: false
+  xy: 8, 107
+  size: 1719, 1952
+  orig: 1719, 1952
+  offset: 0, 0
+  index: -1
+BEATRICE-LFUR
+  rotate: false
+  xy: 2803, 1136
+  size: 1061, 1398
+  orig: 1061, 1398
+  offset: 0, 0
+  index: -1
+
+CGBeatriceFaces3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-HAIR3
+  rotate: false
+  xy: 8, 8
+  size: 1298, 1238
+  orig: 1298, 1238
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR5
+  rotate: true
+  xy: 2694, 235
+  size: 1011, 1286
+  orig: 1011, 1286
+  offset: 0, 0
+  index: -1
+BEATRICE-RFUR
+  rotate: false
+  xy: 1314, 117
+  size: 1372, 1129
+  orig: 1372, 1129
+  offset: 0, 0
+  index: -1

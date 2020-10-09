@@ -1,0 +1,278 @@
+
+CGAmyRomanceEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM11
+  rotate: false
+  xy: 2491, 1778
+  size: 1132, 972
+  orig: 1132, 972
+  offset: 0, 0
+  index: -1
+AMY-ARM22
+  rotate: false
+  xy: 1388, 8
+  size: 820, 523
+  orig: 820, 523
+  offset: 0, 0
+  index: -1
+AMY-BOSOM1
+  rotate: false
+  xy: 3186, 31
+  size: 620, 887
+  orig: 620, 887
+  offset: 0, 0
+  index: -1
+AMY-EARS
+  rotate: false
+  xy: 3814, 43
+  size: 205, 331
+  orig: 205, 331
+  offset: 0, 0
+  index: -1
+AMY-EYEBROWS
+  rotate: true
+  xy: 3682, 2682
+  size: 547, 281
+  orig: 547, 281
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: true
+  xy: 1429, 539
+  size: 968, 573
+  orig: 968, 573
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: false
+  xy: 2216, 76
+  size: 962, 842
+  orig: 962, 842
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: false
+  xy: 1648, 1530
+  size: 835, 1152
+  orig: 835, 1152
+  offset: 0, 0
+  index: -1
+AMY-HAIR4
+  rotate: true
+  xy: 846, 31
+  size: 514, 534
+  orig: 514, 534
+  offset: 0, 0
+  index: -1
+AMY-HAT
+  rotate: false
+  xy: 8, 553
+  size: 1413, 954
+  orig: 1413, 954
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: true
+  xy: 2491, 926
+  size: 844, 1112
+  orig: 844, 1112
+  offset: 0, 0
+  index: -1
+AMY-NECK
+  rotate: false
+  xy: 8, 1515
+  size: 1632, 1167
+  orig: 1632, 1167
+  offset: 0, 0
+  index: -1
+AMY-RIBBON1
+  rotate: false
+  xy: 2010, 792
+  size: 179, 190
+  orig: 179, 190
+  offset: 0, 0
+  index: -1
+AMY-RIBBON11
+  rotate: true
+  xy: 3814, 586
+  size: 444, 207
+  orig: 444, 207
+  offset: 0, 0
+  index: -1
+AMY-RIBBON12
+  rotate: false
+  xy: 3611, 1345
+  size: 477, 425
+  orig: 477, 425
+  offset: 0, 0
+  index: -1
+AMY-RIBBON2
+  rotate: true
+  xy: 3631, 1797
+  size: 88, 257
+  orig: 88, 257
+  offset: 0, 0
+  index: -1
+AMY-TORSO
+  rotate: false
+  xy: 2411, 2758
+  size: 1263, 1319
+  orig: 1263, 1319
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 2690
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+LIGHTING-SM
+  rotate: true
+  xy: 3631, 2195
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+PETAL3
+  rotate: false
+  xy: 2010, 675
+  size: 171, 109
+  orig: 171, 109
+  offset: 0, 0
+  index: -1
+PETALS1
+  rotate: false
+  xy: 2411, 2713
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM1
+  rotate: false
+  xy: 2010, 990
+  size: 473, 532
+  orig: 473, 532
+  offset: 0, 0
+  index: -1
+SQUIRE-BAG
+  rotate: true
+  xy: 3814, 382
+  size: 196, 274
+  orig: 196, 274
+  offset: 0, 0
+  index: -1
+SQUIRE-BELT1
+  rotate: true
+  xy: 8, 29
+  size: 516, 830
+  orig: 516, 830
+  offset: 0, 0
+  index: -1
+SQUIRE-BELT2
+  rotate: false
+  xy: 3611, 927
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR2
+  rotate: false
+  xy: 2070, 542
+  size: 109, 125
+  orig: 109, 125
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR3
+  rotate: false
+  xy: 2010, 539
+  size: 52, 128
+  orig: 52, 128
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK1
+  rotate: false
+  xy: 3611, 1038
+  size: 407, 299
+  orig: 407, 299
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK2
+  rotate: false
+  xy: 3631, 1893
+  size: 284, 294
+  orig: 284, 294
+  offset: 0, 0
+  index: -1
+SQUIRE-WAIST
+  rotate: true
+  xy: 3682, 3237
+  size: 840, 372
+  orig: 840, 372
+  offset: 0, 0
+  index: -1
+
+CGAmyRomanceEpilogue2.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM21
+  rotate: false
+  xy: 1481, 186
+  size: 633, 734
+  orig: 633, 734
+  offset: 0, 0
+  index: -1
+AMY-BOSOM2
+  rotate: false
+  xy: 8, 8
+  size: 746, 912
+  orig: 746, 912
+  offset: 0, 0
+  index: -1
+AMY-FLOWER
+  rotate: false
+  xy: 3309, 446
+  size: 298, 202
+  orig: 298, 202
+  offset: 0, 0
+  index: -1
+AMY-MOUTH
+  rotate: false
+  xy: 3309, 656
+  size: 262, 264
+  orig: 262, 264
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM2
+  rotate: true
+  xy: 2688, 414
+  size: 506, 613
+  orig: 506, 613
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR1
+  rotate: false
+  xy: 3579, 665
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: false
+  xy: 2122, 344
+  size: 558, 576
+  orig: 558, 576
+  offset: 0, 0
+  index: -1
+SQUIRE-TORSO
+  rotate: false
+  xy: 762, 58
+  size: 711, 862
+  orig: 711, 862
+  offset: 0, 0
+  index: -1

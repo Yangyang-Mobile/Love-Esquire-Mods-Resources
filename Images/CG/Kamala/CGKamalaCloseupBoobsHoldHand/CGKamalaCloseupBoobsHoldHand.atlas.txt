@@ -1,0 +1,115 @@
+
+CGKamalaCloseupBoobsHoldHand.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM12
+  rotate: false
+  xy: 3101, 2847
+  size: 835, 1104
+  orig: 835, 1104
+  offset: 0, 0
+  index: -1
+KAMALA-BOSOM
+  rotate: false
+  xy: 0, 1184
+  size: 3100, 2767
+  orig: 3100, 2767
+  offset: 0, 0
+  index: -1
+KAMALA-BOTTOM
+  rotate: false
+  xy: 0, 0
+  size: 2197, 1183
+  orig: 2197, 1183
+  offset: 0, 0
+  index: -1
+KAMALA-FINGERS11
+  rotate: false
+  xy: 2198, 319
+  size: 727, 864
+  orig: 727, 864
+  offset: 0, 0
+  index: -1
+KAMALA-FINGERS12
+  rotate: true
+  xy: 3101, 1507
+  size: 589, 551
+  orig: 589, 551
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTING
+  rotate: false
+  xy: 2198, 41
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+KAMALA-SASH
+  rotate: false
+  xy: 3101, 2097
+  size: 543, 749
+  orig: 543, 749
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupBoobsHoldHand2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-FRILLS
+  rotate: false
+  xy: 0, 0
+  size: 2521, 1663
+  orig: 2521, 1663
+  offset: 0, 0
+  index: -1
+KAMALA-TORSO
+  rotate: false
+  xy: 0, 1664
+  size: 2894, 2308
+  orig: 2894, 2308
+  offset: 0, 0
+  index: -1
+SQUIRE-GLOVES
+  rotate: true
+  xy: 2522, 52
+  size: 1611, 1546
+  orig: 1611, 1546
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupBoobsHoldHand3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM11
+  rotate: false
+  xy: 0, 1006
+  size: 2781, 2776
+  orig: 2781, 2776
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR
+  rotate: true
+  xy: 0, 0
+  size: 1005, 2324
+  orig: 1005, 2324
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupBoobsHoldHand4.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-BGSmll
+  rotate: false
+  xy: 0, 0
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1

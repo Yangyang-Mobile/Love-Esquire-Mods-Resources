@@ -1,0 +1,285 @@
+
+CGAmyBadEndingDeath.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM11
+  rotate: true
+  xy: 3358, 9
+  size: 741, 711
+  orig: 741, 711
+  offset: 0, 0
+  index: -1
+AMY-ARM12
+  rotate: false
+  xy: 2037, 129
+  size: 182, 264
+  orig: 182, 264
+  offset: 0, 0
+  index: -1
+AMY-ARM13
+  rotate: false
+  xy: 3358, 1000
+  size: 193, 263
+  orig: 193, 263
+  offset: 0, 0
+  index: -1
+AMY-ARM15
+  rotate: true
+  xy: 3559, 758
+  size: 1481, 364
+  orig: 1481, 364
+  offset: 0, 0
+  index: -1
+AMY-BLOOD
+  rotate: true
+  xy: 3931, 1113
+  size: 50, 161
+  orig: 50, 161
+  offset: 0, 0
+  index: -1
+AMY-CORNEA
+  rotate: true
+  xy: 2227, 127
+  size: 182, 450
+  orig: 182, 450
+  offset: 0, 0
+  index: -1
+AMY-EYEBROWS
+  rotate: false
+  xy: 3931, 1778
+  size: 143, 461
+  orig: 143, 461
+  offset: 0, 0
+  index: -1
+AMY-EYELASHES
+  rotate: true
+  xy: 636, 80
+  size: 189, 492
+  orig: 189, 492
+  offset: 0, 0
+  index: -1
+AMY-FILTER
+  rotate: false
+  xy: 1550, 116
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: false
+  xy: 1550, 401
+  size: 716, 899
+  orig: 716, 899
+  offset: 0, 0
+  index: -1
+AMY-HAT
+  rotate: true
+  xy: 2408, 1271
+  size: 968, 1143
+  orig: 968, 1143
+  offset: 0, 0
+  index: -1
+AMY-LIGHT
+  rotate: true
+  xy: 3358, 769
+  size: 223, 138
+  orig: 223, 138
+  offset: 0, 0
+  index: -1
+AMY-LIGHTING
+  rotate: false
+  xy: 3504, 965
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+AMY-MOUTH
+  rotate: false
+  xy: 4037, 4022
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+AMY-MOUTH2
+  rotate: false
+  xy: 2152, 24
+  size: 67, 97
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+AMY-PETALS1
+  rotate: false
+  xy: 3144, 186
+  size: 163, 123
+  orig: 163, 123
+  offset: 0, 0
+  index: -1
+AMY-PETALS2
+  rotate: false
+  xy: 2037, 4
+  size: 107, 117
+  orig: 107, 117
+  offset: 0, 0
+  index: -1
+AMY-PETALS3
+  rotate: false
+  xy: 3931, 1014
+  size: 99, 91
+  orig: 99, 91
+  offset: 0, 0
+  index: -1
+AMY-RIBBON1
+  rotate: true
+  xy: 3931, 1171
+  size: 295, 112
+  orig: 295, 112
+  offset: 0, 0
+  index: -1
+AMY-RIBBONG
+  rotate: true
+  xy: 3931, 1474
+  size: 296, 154
+  orig: 296, 154
+  offset: 0, 0
+  index: -1
+AMY-SCLERA
+  rotate: true
+  xy: 2685, 131
+  size: 178, 451
+  orig: 178, 451
+  offset: 0, 0
+  index: -1
+AMY-SHADOW
+  rotate: false
+  xy: 4, 2704
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+AMY-SKIRT1
+  rotate: true
+  xy: 2274, 317
+  size: 946, 1076
+  orig: 946, 1076
+  offset: 0, 0
+  index: -1
+AMY-SKIRT2
+  rotate: false
+  xy: 4, 49
+  size: 624, 220
+  orig: 624, 220
+  offset: 0, 0
+  index: -1
+AMY-SKIRT3
+  rotate: false
+  xy: 2408, 2818
+  size: 1621, 1274
+  orig: 1621, 1274
+  offset: 0, 0
+  index: -1
+AMY-SKIRT4
+  rotate: false
+  xy: 1136, 30
+  size: 352, 239
+  orig: 352, 239
+  offset: 0, 0
+  index: -1
+AMY-TORSO
+  rotate: false
+  xy: 4, 277
+  size: 1538, 1023
+  orig: 1538, 1023
+  offset: 0, 0
+  index: -1
+ARNOLD-ARM
+  rotate: false
+  xy: 2408, 2247
+  size: 1671, 563
+  orig: 1671, 563
+  offset: 0, 0
+  index: -1
+BG-SMLL
+  rotate: false
+  xy: 4, 1308
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+
+CGAmyBadEndingDeath2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM14
+  rotate: true
+  xy: 1566, 1581
+  size: 452, 463
+  orig: 452, 463
+  offset: 0, 0
+  index: -1
+AMY-ARM21
+  rotate: false
+  xy: 858, 599
+  size: 751, 345
+  orig: 751, 345
+  offset: 0, 0
+  index: -1
+AMY-ARM22
+  rotate: false
+  xy: 1599, 138
+  size: 388, 453
+  orig: 388, 453
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: false
+  xy: 1617, 918
+  size: 360, 324
+  orig: 360, 324
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: false
+  xy: 872, 4
+  size: 719, 587
+  orig: 719, 587
+  offset: 0, 0
+  index: -1
+AMY-HAIR4
+  rotate: false
+  xy: 4, 62
+  size: 860, 377
+  orig: 860, 377
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: false
+  xy: 4, 447
+  size: 846, 687
+  orig: 846, 687
+  offset: 0, 0
+  index: -1
+AMY-LEG1
+  rotate: false
+  xy: 4, 1142
+  size: 979, 891
+  orig: 979, 891
+  offset: 0, 0
+  index: -1
+AMY-LEG2
+  rotate: true
+  xy: 991, 952
+  size: 1081, 567
+  orig: 1081, 567
+  offset: 0, 0
+  index: -1
+AMY-SKIRT5
+  rotate: false
+  xy: 1566, 1250
+  size: 396, 323
+  orig: 396, 323
+  offset: 0, 0
+  index: -1

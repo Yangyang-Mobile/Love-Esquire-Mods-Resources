@@ -1,0 +1,27 @@
+
+CGLadiesofLakeLighting.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-LIGHTING
+  rotate: false
+  xy: 1286, 131
+  size: 399, 231
+  orig: 399, 231
+  offset: 0, 0
+  index: -1
+LIGHTING-FLARE1
+  rotate: false
+  xy: 2, 2
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+LIGHTING-FLARE2
+  rotate: false
+  xy: 644, 2
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1

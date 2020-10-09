@@ -1,0 +1,187 @@
+
+CGAmyIndividualEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMELIE-FLOWER
+  rotate: false
+  xy: 2118, 2254
+  size: 249, 210
+  orig: 249, 210
+  offset: 0, 0
+  index: -1
+AMELIE-HEAD
+  rotate: true
+  xy: 411, 66
+  size: 632, 616
+  orig: 632, 616
+  offset: 0, 0
+  index: -1
+AMY-ARM11
+  rotate: false
+  xy: 3231, 684
+  size: 841, 329
+  orig: 841, 329
+  offset: 0, 0
+  index: -1
+AMY-ARM13
+  rotate: false
+  xy: 3794, 1615
+  size: 294, 293
+  orig: 294, 293
+  offset: 0, 0
+  index: -1
+AMY-ARMRIBBON
+  rotate: false
+  xy: 2118, 1866
+  size: 161, 380
+  orig: 161, 380
+  offset: 0, 0
+  index: -1
+AMY-DAYLIGHT
+  rotate: true
+  xy: 3939, 2877
+  size: 239, 138
+  orig: 239, 138
+  offset: 0, 0
+  index: -1
+AMY-EYEBROWS
+  rotate: true
+  xy: 4017, 3901
+  size: 191, 66
+  orig: 191, 66
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: false
+  xy: 2118, 2472
+  size: 250, 226
+  orig: 250, 226
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: true
+  xy: 1035, 80
+  size: 618, 500
+  orig: 618, 500
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: false
+  xy: 1543, 157
+  size: 470, 541
+  orig: 470, 541
+  offset: 0, 0
+  index: -1
+AMY-LIGHTING
+  rotate: false
+  xy: 4017, 3866
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+AMY-TORSO
+  rotate: true
+  xy: 2118, 94
+  size: 919, 1105
+  orig: 919, 1105
+  offset: 0, 0
+  index: -1
+ARNOLD-ARM11
+  rotate: true
+  xy: 2406, 1916
+  size: 1200, 1525
+  orig: 1200, 1525
+  offset: 0, 0
+  index: -1
+ARNOLD-ARM12
+  rotate: false
+  xy: 2406, 3124
+  size: 1603, 968
+  orig: 1603, 968
+  offset: 0, 0
+  index: -1
+ARNOLD-HEAD
+  rotate: true
+  xy: 4, 4
+  size: 694, 399
+  orig: 694, 399
+  offset: 0, 0
+  index: -1
+ARNOLD-LEG
+  rotate: false
+  xy: 2287, 1021
+  size: 1499, 887
+  orig: 1499, 887
+  offset: 0, 0
+  index: -1
+ARNOLD-MOUTH
+  rotate: true
+  xy: 3939, 2641
+  size: 228, 96
+  orig: 228, 96
+  offset: 0, 0
+  index: -1
+ARNOLD-TORSO
+  rotate: true
+  xy: 4, 706
+  size: 1992, 2106
+  orig: 1992, 2106
+  offset: 0, 0
+  index: -1
+BG-SMLL
+  rotate: false
+  xy: 4, 2706
+  size: 2394, 1386
+  orig: 2394, 1386
+  offset: 0, 0
+  index: -1
+
+CGAmyIndividualEpilogue2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM12
+  rotate: false
+  xy: 2582, 3057
+  size: 1018, 909
+  orig: 1018, 909
+  offset: 0, 0
+  index: -1
+AMY-HAT
+  rotate: false
+  xy: 1186, 2175
+  size: 811, 757
+  orig: 811, 757
+  offset: 0, 0
+  index: -1
+AMY-SKIRT
+  rotate: true
+  xy: 4, 1226
+  size: 1382, 1080
+  orig: 1382, 1080
+  offset: 0, 0
+  index: -1
+ARNOLD-ARM21
+  rotate: false
+  xy: 4, 4
+  size: 1095, 1214
+  orig: 1095, 1214
+  offset: 0, 0
+  index: -1
+ARNOLD-ARM22
+  rotate: false
+  xy: 4, 2616
+  size: 1174, 1350
+  orig: 1174, 1350
+  offset: 0, 0
+  index: -1
+ARNOLD-WAIST
+  rotate: false
+  xy: 1186, 2940
+  size: 1388, 1026
+  orig: 1388, 1026
+  offset: 0, 0
+  index: -1

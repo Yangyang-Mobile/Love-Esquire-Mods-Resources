@@ -1,0 +1,160 @@
+
+CGBeatriceCloseupRiverLegs.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM1 1
+  rotate: true
+  xy: 3155, 1003
+  size: 441, 265
+  orig: 441, 265
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM1 2
+  rotate: false
+  xy: 2936, 1452
+  size: 496, 279
+  orig: 496, 279
+  offset: 0, 0
+  index: -1
+BEATRICE-BG
+  rotate: false
+  xy: 2936, 2479
+  size: 863, 483
+  orig: 863, 483
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS1
+  rotate: false
+  xy: 2061, 999
+  size: 616, 449
+  orig: 616, 449
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS2
+  rotate: false
+  xy: 419, 29
+  size: 293, 103
+  orig: 293, 103
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS3
+  rotate: false
+  xy: 4, 2579
+  size: 2014, 991
+  orig: 2014, 991
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS4
+  rotate: true
+  xy: 2026, 2605
+  size: 965, 638
+  orig: 965, 638
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS5
+  rotate: true
+  xy: 1383, 12
+  size: 877, 244
+  orig: 877, 244
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS6
+  rotate: true
+  xy: 2061, 1456
+  size: 1141, 613
+  orig: 1141, 613
+  offset: 0, 0
+  index: -1
+BEATRICE-GRASS
+  rotate: true
+  xy: 1450, 1133
+  size: 1438, 603
+  orig: 1438, 603
+  offset: 0, 0
+  index: -1
+BEATRICE-LEG 2 1
+  rotate: true
+  xy: 4, 140
+  size: 749, 1371
+  orig: 749, 1371
+  offset: 0, 0
+  index: -1
+BEATRICE-LEG1 1
+  rotate: false
+  xy: 2754, 2970
+  size: 1066, 1029
+  orig: 1066, 1029
+  offset: 0, 0
+  index: -1
+BEATRICE-LEG1 2
+  rotate: false
+  xy: 2936, 1739
+  size: 599, 732
+  orig: 599, 732
+  offset: 0, 0
+  index: -1
+BEATRICE-LEG2 2
+  rotate: false
+  xy: 3543, 1693
+  size: 359, 778
+  orig: 359, 778
+  offset: 0, 0
+  index: -1
+BEATRICE-LEGUNDER
+  rotate: false
+  xy: 4, 4
+  size: 407, 128
+  orig: 407, 128
+  offset: 0, 0
+  index: -1
+BEATRICE-LIGHTING
+  rotate: false
+  xy: 1450, 959
+  size: 287, 166
+  orig: 287, 166
+  offset: 0, 0
+  index: -1
+BEATRICE-RAYS1
+  rotate: false
+  xy: 4, 1738
+  size: 1438, 833
+  orig: 1438, 833
+  offset: 0, 0
+  index: -1
+BEATRICE-RAYS2
+  rotate: false
+  xy: 4, 897
+  size: 1438, 833
+  orig: 1438, 833
+  offset: 0, 0
+  index: -1
+BEATRICE-RIPPLES1
+  rotate: false
+  xy: 4, 3578
+  size: 2742, 421
+  orig: 2742, 421
+  offset: 0, 0
+  index: -1
+BEATRICE-WATER
+  rotate: true
+  xy: 3828, 2561
+  size: 1438, 247
+  orig: 1438, 247
+  offset: 0, 0
+  index: -1
+BEATRICE-WLIGHTING
+  rotate: true
+  xy: 2682, 1524
+  size: 1438, 246
+  orig: 1438, 246
+  offset: 0, 0
+  index: -1
+FLARE1
+  rotate: false
+  xy: 2685, 989
+  size: 462, 455
+  orig: 462, 455
+  offset: 0, 0
+  index: -1

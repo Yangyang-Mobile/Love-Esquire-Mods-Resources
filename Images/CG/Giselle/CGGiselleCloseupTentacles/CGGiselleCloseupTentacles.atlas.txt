@@ -1,0 +1,402 @@
+
+CGGiselleCloseupTentacles.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SMLL
+  rotate: true
+  xy: 1272, 765
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+GISELLE-ARM1
+  rotate: false
+  xy: 8, 3169
+  size: 3086, 898
+  orig: 3086, 898
+  offset: 0, 0
+  index: -1
+GISELLE-CORNEA1
+  rotate: false
+  xy: 1068, 134
+  size: 134, 164
+  orig: 134, 164
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS6
+  rotate: false
+  xy: 8, 43
+  size: 279, 255
+  orig: 279, 255
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS7
+  rotate: false
+  xy: 3002, 3091
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+GISELLE-EYESHINE
+  rotate: false
+  xy: 2962, 2944
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: false
+  xy: 3102, 2939
+  size: 973, 1128
+  orig: 973, 1128
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR5
+  rotate: false
+  xy: 295, 45
+  size: 765, 253
+  orig: 765, 253
+  offset: 0, 0
+  index: -1
+GISELLE-LIGHT
+  rotate: true
+  xy: 2668, 1065
+  size: 1866, 1388
+  orig: 1866, 1388
+  offset: 0, 0
+  index: -1
+GISELLE-LIGHTING
+  rotate: true
+  xy: 3002, 3036
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH
+  rotate: true
+  xy: 2668, 2952
+  size: 209, 286
+  orig: 209, 286
+  offset: 0, 0
+  index: -1
+GISELLE-TEARS
+  rotate: false
+  xy: 2962, 2982
+  size: 32, 179
+  orig: 32, 179
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE12
+  rotate: false
+  xy: 8, 621
+  size: 1204, 396
+  orig: 1204, 396
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE2
+  rotate: true
+  xy: 8, 306
+  size: 307, 1167
+  orig: 307, 1167
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE5
+  rotate: true
+  xy: 8, 1025
+  size: 2136, 1256
+  orig: 2136, 1256
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE7
+  rotate: true
+  xy: 2668, 8
+  size: 1049, 1291
+  orig: 1049, 1291
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE9
+  rotate: false
+  xy: 1220, 59
+  size: 1431, 698
+  orig: 1431, 698
+  offset: 0, 0
+  index: -1
+
+CGGiselleCloseupTentacles2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-DRESS4
+  rotate: false
+  xy: 3030, 3455
+  size: 1058, 633
+  orig: 1058, 633
+  offset: 0, 0
+  index: -1
+GISELLE-EYEWHITE
+  rotate: false
+  xy: 3710, 75
+  size: 187, 203
+  orig: 187, 203
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR3
+  rotate: true
+  xy: 3030, 1985
+  size: 957, 464
+  orig: 957, 464
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR4
+  rotate: false
+  xy: 3030, 2950
+  size: 1055, 497
+  orig: 1055, 497
+  offset: 0, 0
+  index: -1
+GISELLE-LEG12
+  rotate: false
+  xy: 1235, 1972
+  size: 1787, 2116
+  orig: 1787, 2116
+  offset: 0, 0
+  index: -1
+GISELLE-LEG21
+  rotate: true
+  xy: 1344, 8
+  size: 1956, 711
+  orig: 1956, 711
+  offset: 0, 0
+  index: -1
+GISELLE-PANTY
+  rotate: false
+  xy: 3204, 674
+  size: 864, 909
+  orig: 864, 909
+  offset: 0, 0
+  index: -1
+GISELLE-SKIRT1
+  rotate: false
+  xy: 2063, 29
+  size: 1133, 1935
+  orig: 1133, 1935
+  offset: 0, 0
+  index: -1
+GISELLE-SKIRT4
+  rotate: false
+  xy: 8, 1748
+  size: 1219, 2340
+  orig: 1219, 2340
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE10
+  rotate: false
+  xy: 3502, 1591
+  size: 573, 1351
+  orig: 573, 1351
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE3
+  rotate: false
+  xy: 3204, 30
+  size: 498, 636
+  orig: 498, 636
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE81
+  rotate: true
+  xy: 3710, 286
+  size: 380, 326
+  orig: 380, 326
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO
+  rotate: true
+  xy: 8, 134
+  size: 1606, 1328
+  orig: 1606, 1328
+  offset: 0, 0
+  index: -1
+
+CGGiselleCloseupTentacles3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-CROSS
+  rotate: false
+  xy: 3497, 8
+  size: 437, 391
+  orig: 437, 391
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS1
+  rotate: false
+  xy: 8, 750
+  size: 1318, 1201
+  orig: 1318, 1201
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS1ver2
+  rotate: false
+  xy: 8, 1959
+  size: 1468, 1182
+  orig: 1468, 1182
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS2
+  rotate: true
+  xy: 3268, 1166
+  size: 992, 785
+  orig: 992, 785
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS3
+  rotate: true
+  xy: 2959, 58
+  size: 441, 530
+  orig: 441, 530
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS
+  rotate: true
+  xy: 3268, 1016
+  size: 142, 680
+  orig: 142, 680
+  offset: 0, 0
+  index: -1
+GISELLE-EYELASH
+  rotate: true
+  xy: 1319, 144
+  size: 464, 715
+  orig: 464, 715
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: true
+  xy: 1484, 1813
+  size: 1328, 544
+  orig: 1328, 544
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR6
+  rotate: true
+  xy: 3524, 407
+  size: 601, 544
+  orig: 601, 544
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD
+  rotate: false
+  xy: 2036, 2003
+  size: 1097, 1226
+  orig: 1097, 1226
+  offset: 0, 0
+  index: -1
+GISELLE-LEG11
+  rotate: false
+  xy: 8, 3149
+  size: 1975, 924
+  orig: 1975, 924
+  offset: 0, 0
+  index: -1
+GISELLE-LEG22
+  rotate: true
+  xy: 1334, 616
+  size: 1189, 844
+  orig: 1189, 844
+  offset: 0, 0
+  index: -1
+GISELLE-SKIRT2
+  rotate: false
+  xy: 2186, 507
+  size: 1330, 317
+  orig: 1330, 317
+  offset: 0, 0
+  index: -1
+GISELLE-SKIRT3
+  rotate: true
+  xy: 2186, 832
+  size: 1163, 1074
+  orig: 1163, 1074
+  offset: 0, 0
+  index: -1
+GISELLE-SWEAT
+  rotate: true
+  xy: 2042, 114
+  size: 385, 909
+  orig: 385, 909
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE1
+  rotate: false
+  xy: 1991, 3237
+  size: 1500, 836
+  orig: 1500, 836
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE11
+  rotate: true
+  xy: 8, 67
+  size: 675, 1303
+  orig: 675, 1303
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE4
+  rotate: true
+  xy: 3141, 2166
+  size: 1063, 834
+  orig: 1063, 834
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE82
+  rotate: true
+  xy: 3499, 3274
+  size: 799, 397
+  orig: 799, 397
+  offset: 0, 0
+  index: -1
+
+CGGiselleCloseupTentacles4.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-ARM21
+  rotate: false
+  xy: 8, 8
+  size: 794, 984
+  orig: 794, 984
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS5
+  rotate: true
+  xy: 1607, 63
+  size: 194, 455
+  orig: 194, 455
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS8
+  rotate: false
+  xy: 1607, 265
+  size: 632, 727
+  orig: 632, 727
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR7
+  rotate: false
+  xy: 810, 40
+  size: 789, 952
+  orig: 789, 952
+  offset: 0, 0
+  index: -1
+GISELLE-TENTACLE6
+  rotate: false
+  xy: 2247, 741
+  size: 501, 251
+  orig: 501, 251
+  offset: 0, 0
+  index: -1

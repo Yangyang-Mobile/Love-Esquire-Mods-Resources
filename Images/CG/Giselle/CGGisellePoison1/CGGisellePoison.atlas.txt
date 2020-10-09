@@ -1,0 +1,255 @@
+
+CGGisellePoison.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SMLL
+  rotate: false
+  xy: 4, 1779
+  size: 3992, 2312
+  orig: 3992, 2312
+  offset: 0, 0
+  index: -1
+GISELLE-ARM12
+  rotate: true
+  xy: 2888, 613
+  size: 1158, 1138
+  orig: 1158, 1138
+  offset: 0, 0
+  index: -1
+GISELLE-BLUSH3
+  rotate: false
+  xy: 2888, 4
+  size: 1162, 601
+  orig: 1162, 601
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: true
+  xy: 4, 42
+  size: 1729, 2876
+  orig: 1729, 2876
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 4004, 4072
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+
+CGGisellePoison2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-ARM11
+  rotate: true
+  xy: 1740, 2712
+  size: 1372, 1911
+  orig: 1372, 1911
+  offset: 0, 0
+  index: -1
+GISELLE-CORNEA2
+  rotate: false
+  xy: 3137, 1488
+  size: 780, 338
+  orig: 780, 338
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD
+  rotate: true
+  xy: 2281, 119
+  size: 1354, 1678
+  orig: 1354, 1678
+  offset: 0, 0
+  index: -1
+GISELLE-LEGS
+  rotate: false
+  xy: 4, 4
+  size: 2269, 1406
+  orig: 2269, 1406
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH1
+  rotate: false
+  xy: 2281, 18
+  size: 121, 93
+  orig: 121, 93
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH2
+  rotate: false
+  xy: 3659, 2717
+  size: 413, 348
+  orig: 413, 348
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH3
+  rotate: true
+  xy: 3925, 1583
+  size: 243, 157
+  orig: 243, 157
+  offset: 0, 0
+  index: -1
+GISELLE-SCLERA
+  rotate: true
+  xy: 3659, 3073
+  size: 1011, 391
+  orig: 1011, 391
+  offset: 0, 0
+  index: -1
+GISELLE-TEARS
+  rotate: true
+  xy: 3137, 1834
+  size: 870, 924
+  orig: 870, 924
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO1
+  rotate: true
+  xy: 1740, 1481
+  size: 1223, 1389
+  orig: 1223, 1389
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO2
+  rotate: false
+  xy: 4, 1418
+  size: 1728, 2666
+  orig: 1728, 2666
+  offset: 0, 0
+  index: -1
+
+CGGisellePoison3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-ARM21
+  rotate: false
+  xy: 940, 1311
+  size: 1587, 1630
+  orig: 1587, 1630
+  offset: 0, 0
+  index: -1
+GISELLE-BACKHAIR
+  rotate: false
+  xy: 4, 682
+  size: 928, 3327
+  orig: 928, 3327
+  offset: 0, 0
+  index: -1
+GISELLE-BLUSH2
+  rotate: false
+  xy: 2535, 724
+  size: 1217, 643
+  orig: 1217, 643
+  offset: 0, 0
+  index: -1
+GISELLE-CORNEA1
+  rotate: false
+  xy: 4, 287
+  size: 760, 387
+  orig: 760, 387
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS1
+  rotate: false
+  xy: 4, 4
+  size: 1137, 275
+  orig: 1137, 275
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS2
+  rotate: false
+  xy: 1149, 15
+  size: 1137, 275
+  orig: 1137, 275
+  offset: 0, 0
+  index: -1
+GISELLE-EYELIGHTS
+  rotate: true
+  xy: 3760, 667
+  size: 700, 214
+  orig: 700, 214
+  offset: 0, 0
+  index: -1
+GISELLE-EYES1
+  rotate: false
+  xy: 2491, 215
+  size: 1109, 501
+  orig: 1109, 501
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR3
+  rotate: true
+  xy: 940, 298
+  size: 1005, 1543
+  orig: 1005, 1543
+  offset: 0, 0
+  index: -1
+GISELLE-THIGH
+  rotate: false
+  xy: 940, 2949
+  size: 2734, 1060
+  orig: 2734, 1060
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO
+  rotate: true
+  xy: 2535, 1375
+  size: 1566, 1409
+  orig: 1566, 1409
+  offset: 0, 0
+  index: -1
+GISELLE-VIAL
+  rotate: false
+  xy: 3682, 3290
+  size: 410, 719
+  orig: 410, 719
+  offset: 0, 0
+  index: -1
+
+CGGisellePoison4.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-ARM22
+  rotate: false
+  xy: 2617, 1122
+  size: 920, 787
+  orig: 920, 787
+  offset: 0, 0
+  index: -1
+GISELLE-CARDIGAN
+  rotate: false
+  xy: 4, 4
+  size: 1561, 1441
+  orig: 1561, 1441
+  offset: 0, 0
+  index: -1
+GISELLE-EYES21
+  rotate: false
+  xy: 2602, 715
+  size: 941, 399
+  orig: 941, 399
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: true
+  xy: 4, 1453
+  size: 456, 2605
+  orig: 456, 2605
+  offset: 0, 0
+  index: -1
+GISELLE-SHOULDER1
+  rotate: false
+  xy: 1573, 374
+  size: 1021, 1071
+  orig: 1021, 1071
+  offset: 0, 0
+  index: -1

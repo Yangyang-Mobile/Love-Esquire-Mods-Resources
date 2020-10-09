@@ -1,0 +1,305 @@
+
+CGAmyDrunkFlirty.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM12
+  rotate: true
+  xy: 1360, 35
+  size: 244, 755
+  orig: 244, 755
+  offset: 0, 0
+  index: -1
+AMY-ARM16
+  rotate: true
+  xy: 1850, 2695
+  size: 478, 675
+  orig: 478, 675
+  offset: 0, 0
+  index: -1
+AMY-ARM23
+  rotate: true
+  xy: 2533, 2774
+  size: 399, 242
+  orig: 399, 242
+  offset: 0, 0
+  index: -1
+AMY-ARM24
+  rotate: true
+  xy: 3244, 1781
+  size: 900, 843
+  orig: 900, 843
+  offset: 0, 0
+  index: -1
+AMY-ARM25
+  rotate: true
+  xy: 767, 23
+  size: 561, 585
+  orig: 561, 585
+  offset: 0, 0
+  index: -1
+AMY-BOOBS2
+  rotate: true
+  xy: 3960, 339
+  size: 268, 110
+  orig: 268, 110
+  offset: 0, 0
+  index: -1
+AMY-CAP
+  rotate: true
+  xy: 8, 592
+  size: 2581, 1834
+  orig: 2581, 1834
+  offset: 0, 0
+  index: -1
+AMY-CORNEA
+  rotate: true
+  xy: 3244, 8
+  size: 599, 708
+  orig: 599, 708
+  offset: 0, 0
+  index: -1
+AMY-HAIR4
+  rotate: true
+  xy: 8, 18
+  size: 566, 751
+  orig: 566, 751
+  offset: 0, 0
+  index: -1
+AMY-STRAP2
+  rotate: false
+  xy: 3244, 615
+  size: 841, 1158
+  orig: 841, 1158
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: true
+  xy: 1850, 287
+  size: 2394, 1386
+  orig: 2394, 1386
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 1360, 307
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM22
+  rotate: true
+  xy: 2793, 2689
+  size: 1390, 1182
+  orig: 1390, 1182
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY1
+  rotate: false
+  xy: 2123, 105
+  size: 350, 174
+  orig: 350, 174
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY4
+  rotate: false
+  xy: 8, 3181
+  size: 2777, 898
+  orig: 2777, 898
+  offset: 0, 0
+  index: -1
+
+CGAmyDrunkFlirty2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM11
+  rotate: true
+  xy: 2871, 750
+  size: 855, 1120
+  orig: 855, 1120
+  offset: 0, 0
+  index: -1
+AMY-ARM14
+  rotate: true
+  xy: 8, 8
+  size: 1940, 1166
+  orig: 1940, 1166
+  offset: 0, 0
+  index: -1
+AMY-ARM15
+  rotate: true
+  xy: 2453, 2590
+  size: 417, 305
+  orig: 417, 305
+  offset: 0, 0
+  index: -1
+AMY-ARM21
+  rotate: false
+  xy: 3514, 446
+  size: 508, 296
+  orig: 508, 296
+  offset: 0, 0
+  index: -1
+AMY-ARM22
+  rotate: true
+  xy: 2028, 2525
+  size: 495, 417
+  orig: 495, 417
+  offset: 0, 0
+  index: -1
+AMY-BODY
+  rotate: false
+  xy: 1182, 144
+  size: 1681, 1804
+  orig: 1681, 1804
+  offset: 0, 0
+  index: -1
+AMY-EYEBROWS
+  rotate: true
+  xy: 2546, 1968
+  size: 614, 826
+  orig: 614, 826
+  offset: 0, 0
+  index: -1
+AMY-EYELIGHTS
+  rotate: true
+  xy: 3380, 1613
+  size: 599, 648
+  orig: 599, 648
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: false
+  xy: 2028, 2001
+  size: 510, 516
+  orig: 510, 516
+  offset: 0, 0
+  index: -1
+AMY-HAIR5
+  rotate: true
+  xy: 2028, 3028
+  size: 448, 432
+  orig: 448, 432
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: false
+  xy: 8, 1956
+  size: 2012, 1520
+  orig: 2012, 1520
+  offset: 0, 0
+  index: -1
+AMY-MOUTH
+  rotate: true
+  xy: 2766, 2661
+  size: 346, 328
+  orig: 346, 328
+  offset: 0, 0
+  index: -1
+AMY-NECK
+  rotate: false
+  xy: 2871, 97
+  size: 635, 645
+  orig: 635, 645
+  offset: 0, 0
+  index: -1
+AMY-SCLERA
+  rotate: false
+  xy: 3380, 2220
+  size: 683, 787
+  orig: 683, 787
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM1
+  rotate: true
+  xy: 2476, 3015
+  size: 1035, 1552
+  orig: 1035, 1552
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY2
+  rotate: false
+  xy: 8, 3484
+  size: 2460, 566
+  orig: 2460, 566
+  offset: 0, 0
+  index: -1
+
+CGAmyDrunkFlirty3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM13
+  rotate: true
+  xy: 2520, 26
+  size: 951, 924
+  orig: 951, 924
+  offset: 0, 0
+  index: -1
+AMY-BLUSH
+  rotate: true
+  xy: 1448, 8
+  size: 969, 1064
+  orig: 969, 1064
+  offset: 0, 0
+  index: -1
+AMY-BOOBS1
+  rotate: false
+  xy: 8, 2605
+  size: 1759, 1377
+  orig: 1759, 1377
+  offset: 0, 0
+  index: -1
+AMY-EYELASHES
+  rotate: true
+  xy: 3064, 1837
+  size: 775, 887
+  orig: 775, 887
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: false
+  xy: 8, 1147
+  size: 1676, 1450
+  orig: 1676, 1450
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: true
+  xy: 1692, 985
+  size: 802, 1235
+  orig: 802, 1235
+  offset: 0, 0
+  index: -1
+AMY-HAIR6
+  rotate: false
+  xy: 8, 195
+  size: 1432, 944
+  orig: 1432, 944
+  offset: 0, 0
+  index: -1
+AMY-STRAP1
+  rotate: true
+  xy: 1775, 1795
+  size: 1054, 1281
+  orig: 1054, 1281
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM21
+  rotate: false
+  xy: 3515, 2620
+  size: 505, 1362
+  orig: 505, 1362
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY3
+  rotate: false
+  xy: 1775, 2857
+  size: 1732, 1125
+  orig: 1732, 1125
+  offset: 0, 0
+  index: -1

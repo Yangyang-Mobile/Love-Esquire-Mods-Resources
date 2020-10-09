@@ -1,0 +1,224 @@
+{ "skeleton": { "images": "D:/___PROJECTS/___LOVE ESQUIRE/CG/_Misc/CGVictoryWar/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "BG", "bone": "root", "attachment": "BG" },
+	{ "name": "BG-CROWD3", "bone": "root", "attachment": "BG-CROWD3" },
+	{ "name": "BG-CROWD2", "bone": "root", "attachment": "BG-CROWD2" },
+	{ "name": "BG-HELMETS", "bone": "root", "attachment": "BG-HELMETS" },
+	{ "name": "BG-FLAG4", "bone": "root", "attachment": "BG-FLAG4" },
+	{ "name": "BG-FLAG3", "bone": "root", "attachment": "BG-FLAG3" },
+	{ "name": "BG-FLAG2", "bone": "root", "attachment": "BG-FLAG2" },
+	{ "name": "BG-FLAG1", "bone": "root", "attachment": "BG-FLAG1" },
+	{ "name": "BG-CROWD1", "bone": "root", "attachment": "BG-CROWD1" },
+	{ "name": "SQUIRE-LEGS", "bone": "root", "attachment": "SQUIRE-LEGS" },
+	{ "name": "SQUIRE-FLAG2", "bone": "root", "attachment": "SQUIRE-FLAG2" },
+	{ "name": "SQUIRE-ARM21", "bone": "root", "attachment": "SQUIRE-ARM21" },
+	{ "name": "SQUIRE-ARM22", "bone": "root", "attachment": "SQUIRE-ARM22" },
+	{ "name": "SQUIRE-ARM23", "bone": "root", "attachment": "SQUIRE-ARM23" },
+	{ "name": "SQUIRE-TORSO", "bone": "root", "attachment": "SQUIRE-TORSO" },
+	{ "name": "SQUIRE-ARM12", "bone": "root", "attachment": "SQUIRE-ARM12" },
+	{ "name": "SQUIRE-ARM11", "bone": "root", "attachment": "SQUIRE-ARM11" },
+	{ "name": "SQUIRE-FLAG1", "bone": "root", "attachment": "SQUIRE-FLAG1" },
+	{ "name": "SQUIRE-HEAD", "bone": "root", "attachment": "SQUIRE-HEAD" },
+	{ "name": "HUGH-BOTTOM2", "bone": "root", "attachment": "HUGH-BOTTOM2" },
+	{ "name": "HUGH-RED4", "bone": "root", "attachment": "HUGH-RED4" },
+	{ "name": "HUGH-LEG1", "bone": "root", "attachment": "HUGH-LEG1" },
+	{ "name": "HUGH-LEG22", "bone": "root", "attachment": "HUGH-LEG22" },
+	{ "name": "HUGH-LEG21", "bone": "root", "attachment": "HUGH-LEG21" },
+	{ "name": "HUGH-RED2", "bone": "root", "attachment": "HUGH-RED2" },
+	{ "name": "HUGH-RED1", "bone": "root", "attachment": "HUGH-RED1" },
+	{ "name": "HUGH-RED3", "bone": "root", "attachment": "HUGH-RED3" },
+	{ "name": "HUGH-BOTTOM1", "bone": "root", "attachment": "HUGH-BOTTOM1" },
+	{ "name": "HUGH-ARM22", "bone": "root", "attachment": "HUGH-ARM22" },
+	{ "name": "HUGH-ARM23", "bone": "root", "attachment": "HUGH-ARM23" },
+	{ "name": "HUGH-ARM21", "bone": "root", "attachment": "HUGH-ARM21" },
+	{ "name": "HUGH-TORSO2", "bone": "root", "attachment": "HUGH-TORSO2" },
+	{ "name": "HUGH-TORSO1", "bone": "root", "attachment": "HUGH-TORSO1" },
+	{ "name": "HUGH-ARM16", "bone": "root", "attachment": "HUGH-ARM16" },
+	{ "name": "HUGH-ARM14", "bone": "root", "attachment": "HUGH-ARM14" },
+	{ "name": "HUGH-SWORD", "bone": "root", "attachment": "HUGH-SWORD" },
+	{ "name": "HUGH-ARM17", "bone": "root", "attachment": "HUGH-ARM17" },
+	{ "name": "HUGH-ARM15", "bone": "root", "attachment": "HUGH-ARM15" },
+	{ "name": "HUGH-ARM12", "bone": "root", "attachment": "HUGH-ARM12" },
+	{ "name": "HUGH-ARM13", "bone": "root", "attachment": "HUGH-ARM13" },
+	{ "name": "HUGH-ARM11", "bone": "root", "attachment": "HUGH-ARM11" },
+	{ "name": "HUGH-HEAD", "bone": "root", "attachment": "HUGH-HEAD" },
+	{ "name": "HUGH-EYES", "bone": "root", "attachment": "HUGH-EYES" },
+	{ "name": "HUGH-EYEBROWS", "bone": "root", "attachment": "HUGH-EYEBROWS" },
+	{ "name": "HUGH-MOUTH", "bone": "root", "attachment": "HUGH-MOUTH" },
+	{ "name": "HUGH-HAIR3", "bone": "root", "attachment": "HUGH-HAIR3" },
+	{ "name": "HUGH-HAIR2", "bone": "root", "attachment": "HUGH-HAIR2" },
+	{ "name": "HUGH-HAIR1", "bone": "root", "attachment": "HUGH-HAIR1" },
+	{ "name": "DEADGEGNER", "bone": "root", "attachment": "DEADGEGNER" },
+	{ "name": "BG-ROCKS", "bone": "root", "attachment": "BG-ROCKS" },
+	{ "name": "LIGHTING1", "bone": "root", "attachment": "LIGHTING1", "blend": "screen" },
+	{ "name": "LIGHTING2", "bone": "root", "attachment": "LIGHTING2", "blend": "screen" },
+	{ "name": "BORDER", "bone": "root", "attachment": "BORDER" }
+],
+"skins": {
+	"default": {
+		"BG": {
+			"BG": { "x": 2394, "y": -1386, "width": 4790, "height": 2774 }
+		},
+		"BG-CROWD3": {
+			"BG-CROWD3": { "x": 2432, "y": -2025, "width": 4534, "height": 1496 }
+		},
+		"BG-CROWD2": {
+			"BG-CROWD2": { "x": 2394, "y": -1484, "width": 4790, "height": 2578 }
+		},
+		"BG-HELMETS": {
+			"BG-HELMETS": { "x": 821.500000000001, "y": -534.5, "width": 1455, "height": 477 }
+		},
+		"BG-FLAG4": {
+			"BG-FLAG4": { "x": 4357.5, "y": -668, "width": 647, "height": 814 }
+		},
+		"BG-FLAG3": {
+			"BG-FLAG3": { "x": 3712.5, "y": -535.5, "width": 255, "height": 269 }
+		},
+		"BG-FLAG2": {
+			"BG-FLAG2": { "x": 1714, "y": -804, "width": 132, "height": 486 }
+		},
+		"BG-FLAG1": {
+			"BG-FLAG1": { "x": 395.000000000001, "y": -766.5, "width": 462, "height": 581 }
+		},
+		"BG-CROWD1": {
+			"BG-CROWD1": { "x": 2394, "y": -1738.5, "width": 4790, "height": 2069 }
+		},
+		"SQUIRE-LEGS": {
+			"SQUIRE-LEGS": { "x": 3455, "y": -2289, "width": 788, "height": 968 }
+		},
+		"SQUIRE-FLAG2": {
+			"SQUIRE-FLAG2": { "x": 3408.5, "y": -937, "width": 181, "height": 340 }
+		},
+		"SQUIRE-ARM21": {
+			"SQUIRE-ARM21": { "x": 3528.5, "y": -1342.5, "width": 329, "height": 363 }
+		},
+		"SQUIRE-ARM22": {
+			"SQUIRE-ARM22": { "x": 3614.5, "y": -1165.5, "width": 129, "height": 317 }
+		},
+		"SQUIRE-ARM23": {
+			"SQUIRE-ARM23": { "x": 3738.5, "y": -1313, "width": 901, "height": 2390 }
+		},
+		"SQUIRE-TORSO": {
+			"SQUIRE-TORSO": { "x": 3367.5, "y": -1597, "width": 457, "height": 690 }
+		},
+		"SQUIRE-ARM12": {
+			"SQUIRE-ARM12": { "x": 3121.5, "y": -1343.5, "width": 247, "height": 387 }
+		},
+		"SQUIRE-ARM11": {
+			"SQUIRE-ARM11": { "x": 3043.5, "y": -1101, "width": 195, "height": 422 }
+		},
+		"SQUIRE-FLAG1": {
+			"SQUIRE-FLAG1": { "x": 3410.5, "y": -615.5, "width": 285, "height": 781 }
+		},
+		"SQUIRE-HEAD": {
+			"SQUIRE-HEAD": { "x": 3305.5, "y": -1207, "width": 279, "height": 340 }
+		},
+		"HUGH-BOTTOM2": {
+			"HUGH-BOTTOM2": { "x": 2349, "y": -1441, "width": 660, "height": 226 }
+		},
+		"HUGH-RED4": {
+			"HUGH-RED4": { "x": 2372, "y": -1655.5, "width": 932, "height": 691 }
+		},
+		"HUGH-LEG1": {
+			"HUGH-LEG1": { "x": 2026.5, "y": -2084, "width": 595, "height": 1378 }
+		},
+		"HUGH-LEG22": {
+			"HUGH-LEG22": { "x": 2985, "y": -2173.5, "width": 498, "height": 679 }
+		},
+		"HUGH-LEG21": {
+			"HUGH-LEG21": { "x": 2720.5, "y": -1706, "width": 665, "height": 588 }
+		},
+		"HUGH-RED2": {
+			"HUGH-RED2": { "x": 2378.5, "y": -1566, "width": 455, "height": 692 }
+		},
+		"HUGH-RED1": {
+			"HUGH-RED1": { "x": 2013, "y": -1638.5, "width": 408, "height": 559 }
+		},
+		"HUGH-RED3": {
+			"HUGH-RED3": { "x": 2673, "y": -1448.5, "width": 286, "height": 223 }
+		},
+		"HUGH-BOTTOM1": {
+			"HUGH-BOTTOM1": { "x": 2349, "y": -1354, "width": 664, "height": 290 }
+		},
+		"HUGH-ARM22": {
+			"HUGH-ARM22": { "x": 2659.5, "y": -989, "width": 331, "height": 412 }
+		},
+		"HUGH-ARM23": {
+			"HUGH-ARM23": { "x": 2811.5, "y": -926, "width": 209, "height": 572 }
+		},
+		"HUGH-ARM21": {
+			"HUGH-ARM21": { "x": 2590.5, "y": -751.5, "width": 317, "height": 321 }
+		},
+		"HUGH-TORSO2": {
+			"HUGH-TORSO2": { "x": 2319, "y": -1125, "width": 428, "height": 410 }
+		},
+		"HUGH-TORSO1": {
+			"HUGH-TORSO1": { "x": 2285, "y": -825, "width": 556, "height": 638 }
+		},
+		"HUGH-ARM16": {
+			"HUGH-ARM16": { "x": 1619, "y": -1578.5, "width": 168, "height": 195 }
+		},
+		"HUGH-ARM14": {
+			"HUGH-ARM14": { "x": 1742, "y": -1318, "width": 344, "height": 438 }
+		},
+		"HUGH-SWORD": {
+			"HUGH-SWORD": { "x": 1336, "y": -1883, "width": 906, "height": 926 }
+		},
+		"HUGH-ARM17": {
+			"HUGH-ARM17": { "x": 1645, "y": -1636, "width": 118, "height": 122 }
+		},
+		"HUGH-ARM15": {
+			"HUGH-ARM15": { "x": 1609, "y": -1572, "width": 104, "height": 170 }
+		},
+		"HUGH-ARM12": {
+			"HUGH-ARM12": { "x": 1855.5, "y": -825.5, "width": 139, "height": 205 }
+		},
+		"HUGH-ARM13": {
+			"HUGH-ARM13": { "x": 1880, "y": -1025, "width": 354, "height": 538 }
+		},
+		"HUGH-ARM11": {
+			"HUGH-ARM11": { "x": 1965, "y": -766.5, "width": 362, "height": 411 }
+		},
+		"HUGH-HEAD": {
+			"HUGH-HEAD": { "x": 2256.5, "y": -489.5, "width": 381, "height": 333 }
+		},
+		"HUGH-EYES": {
+			"HUGH-EYES": { "x": 2313.5, "y": -457.5, "width": 163, "height": 31 }
+		},
+		"HUGH-EYEBROWS": {
+			"HUGH-EYEBROWS": { "x": 2315, "y": -436.5, "width": 176, "height": 45 }
+		},
+		"HUGH-MOUTH": {
+			"HUGH-MOUTH": { "x": 2310.5, "y": -564.5, "width": 117, "height": 115 }
+		},
+		"HUGH-HAIR3": {
+			"HUGH-HAIR3": { "x": 2262, "y": -380, "width": 420, "height": 280 }
+		},
+		"HUGH-HAIR2": {
+			"HUGH-HAIR2": { "x": 2412.5, "y": -422, "width": 155, "height": 188 }
+		},
+		"HUGH-HAIR1": {
+			"HUGH-HAIR1": { "x": 2286, "y": -398.5, "width": 132, "height": 177 }
+		},
+		"DEADGEGNER": {
+			"DEADGEGNER": { "x": 2722, "y": -2524, "width": 2210, "height": 498 }
+		},
+		"BG-ROCKS": {
+			"BG-ROCKS": { "x": 2394, "y": -2489.5, "width": 4790, "height": 567 }
+		},
+		"LIGHTING1": {
+			"LIGHTING1": { "x": 2394, "y": -1386, "width": 4790, "height": 2774 }
+		},
+		"LIGHTING2": {
+			"LIGHTING2": { "x": 2394, "y": -1386, "width": 4790, "height": 2774 }
+		},
+		"BORDER": {
+			"BORDER": { "x": 2394, "y": -1386, "width": 4790, "height": 2774 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

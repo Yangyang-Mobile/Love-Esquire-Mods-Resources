@@ -1,0 +1,194 @@
+
+CGGiselleFirstMeet.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM1-2
+  rotate: true
+  xy: 2815, 2621
+  size: 314, 1198
+  orig: 314, 1198
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 1197, 185
+  size: 2305, 1297
+  orig: 2305, 1297
+  offset: 0, 0
+  index: -1
+BLUSH
+  rotate: false
+  xy: 2815, 1995
+  size: 672, 618
+  orig: 672, 618
+  offset: 0, 0
+  index: -1
+DOOR
+  rotate: false
+  xy: 8, 1490
+  size: 2799, 2594
+  orig: 2799, 2594
+  offset: 0, 0
+  index: -1
+EYE-TOP
+  rotate: false
+  xy: 3510, 611
+  size: 506, 392
+  orig: 506, 392
+  offset: 0, 0
+  index: -1
+EYEBROW
+  rotate: true
+  xy: 2815, 1506
+  size: 481, 327
+  orig: 481, 327
+  offset: 0, 0
+  index: -1
+EYES
+  rotate: true
+  xy: 3150, 1555
+  size: 432, 342
+  orig: 432, 342
+  offset: 0, 0
+  index: -1
+HAIR1
+  rotate: true
+  xy: 2815, 2943
+  size: 1141, 1265
+  orig: 1141, 1265
+  offset: 0, 0
+  index: -1
+HAIR2
+  rotate: false
+  xy: 8, 43
+  size: 1181, 1439
+  orig: 1181, 1439
+  offset: 0, 0
+  index: -1
+HAIR3
+  rotate: false
+  xy: 3640, 1011
+  size: 435, 591
+  orig: 435, 591
+  offset: 0, 0
+  index: -1
+LIP1
+  rotate: false
+  xy: 3510, 1411
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+LIP2
+  rotate: false
+  xy: 3500, 1510
+  size: 132, 92
+  orig: 132, 92
+  offset: 0, 0
+  index: -1
+SCLERA
+  rotate: false
+  xy: 3510, 240
+  size: 472, 363
+  orig: 472, 363
+  offset: 0, 0
+  index: -1
+SHOULDER1
+  rotate: false
+  xy: 3510, 1610
+  size: 573, 1003
+  orig: 573, 1003
+  offset: 0, 0
+  index: -1
+SWEAT
+  rotate: true
+  xy: 8, 8
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+
+CGGiselleFirstMeet2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM1-1
+  rotate: true
+  xy: 8, 8
+  size: 402, 706
+  orig: 402, 706
+  offset: 0, 0
+  index: -1
+ARM2-1
+  rotate: true
+  xy: 3486, 3479
+  size: 609, 505
+  orig: 609, 505
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: false
+  xy: 8, 2203
+  size: 2445, 1885
+  orig: 2445, 1885
+  offset: 0, 0
+  index: -1
+DOOR2
+  rotate: false
+  xy: 8, 418
+  size: 1641, 1777
+  orig: 1641, 1777
+  offset: 0, 0
+  index: -1
+EYE-BOTTOM
+  rotate: true
+  xy: 3135, 2604
+  size: 406, 296
+  orig: 406, 296
+  offset: 0, 0
+  index: -1
+EYESHINE
+  rotate: false
+  xy: 1657, 959
+  size: 435, 278
+  orig: 435, 278
+  offset: 0, 0
+  index: -1
+Group 1
+  rotate: false
+  xy: 722, 148
+  size: 462, 262
+  orig: 462, 262
+  offset: 0, 0
+  index: -1
+HAIR0
+  rotate: false
+  xy: 2461, 2358
+  size: 666, 652
+  orig: 666, 652
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 2461, 3018
+  size: 1017, 1070
+  orig: 1017, 1070
+  offset: 0, 0
+  index: -1
+SHOULDER2
+  rotate: true
+  xy: 1657, 1245
+  size: 950, 580
+  orig: 950, 580
+  offset: 0, 0
+  index: -1
+SHOULDER4
+  rotate: false
+  xy: 3486, 3197
+  size: 303, 274
+  orig: 303, 274
+  offset: 0, 0
+  index: -1

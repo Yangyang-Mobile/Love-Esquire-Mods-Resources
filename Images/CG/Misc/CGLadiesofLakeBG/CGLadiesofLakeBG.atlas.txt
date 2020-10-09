@@ -1,0 +1,62 @@
+
+CGLadiesofLakeBG.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-BUSH
+  rotate: false
+  xy: 2001, 2901
+  size: 1763, 1094
+  orig: 1763, 1094
+  offset: 0, 0
+  index: -1
+BG-CLOUDS-SM
+  rotate: false
+  xy: 2, 2
+  size: 824, 559
+  orig: 824, 559
+  offset: 0, 0
+  index: -1
+BG-LIGHTING
+  rotate: true
+  xy: 3766, 3596
+  size: 399, 231
+  orig: 399, 231
+  offset: 0, 0
+  index: -1
+BG-MOUNTAINS-SM
+  rotate: false
+  xy: 2, 563
+  size: 1331, 771
+  orig: 1331, 771
+  offset: 0, 0
+  index: -1
+BG-SKY-SM
+  rotate: true
+  xy: 1335, 935
+  size: 399, 231
+  orig: 399, 231
+  offset: 0, 0
+  index: -1
+BG-STAGE-SM
+  rotate: false
+  xy: 2, 2838
+  size: 1997, 1157
+  orig: 1997, 1157
+  offset: 0, 0
+  index: -1
+BG-TREES-SM
+  rotate: true
+  xy: 1604, 2038
+  size: 798, 462
+  orig: 798, 462
+  offset: 0, 0
+  index: -1
+LIGHTING-FLARE3
+  rotate: false
+  xy: 2, 1336
+  size: 1600, 1500
+  orig: 1600, 1500
+  offset: 0, 0
+  index: -1

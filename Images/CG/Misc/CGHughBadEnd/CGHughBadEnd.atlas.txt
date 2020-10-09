@@ -1,0 +1,312 @@
+
+CGHughBadEnd.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FILTER2
+  rotate: false
+  xy: 8, 38
+  size: 768, 164
+  orig: 768, 164
+  offset: 0, 0
+  index: -1
+FILTER4
+  rotate: false
+  xy: 1526, 48
+  size: 594, 154
+  orig: 594, 154
+  offset: 0, 0
+  index: -1
+FILTER5
+  rotate: true
+  xy: 3123, 238
+  size: 3841, 902
+  orig: 3841, 902
+  offset: 0, 0
+  index: -1
+GRASS21
+  rotate: true
+  xy: 2749, 24
+  size: 442, 349
+  orig: 442, 349
+  offset: 0, 0
+  index: -1
+GRASS5
+  rotate: false
+  xy: 3106, 8
+  size: 835, 222
+  orig: 835, 222
+  offset: 0, 0
+  index: -1
+HUGH-STATUE
+  rotate: false
+  xy: 8, 474
+  size: 3107, 3605
+  orig: 3107, 3605
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 784, 60
+  size: 734, 142
+  orig: 734, 142
+  offset: 0, 0
+  index: -1
+ROCKS
+  rotate: false
+  xy: 8, 210
+  size: 2733, 256
+  orig: 2733, 256
+  offset: 0, 0
+  index: -1
+ROCKS1
+  rotate: false
+  xy: 2128, 42
+  size: 374, 160
+  orig: 374, 160
+  offset: 0, 0
+  index: -1
+
+CGHughBadEnd2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FILTER3
+  rotate: false
+  xy: 1691, 14
+  size: 768, 282
+  orig: 768, 282
+  offset: 0, 0
+  index: -1
+GRAS23
+  rotate: true
+  xy: 3857, 3777
+  size: 310, 219
+  orig: 310, 219
+  offset: 0, 0
+  index: -1
+GRASS1
+  rotate: false
+  xy: 3238, 1419
+  size: 799, 499
+  orig: 799, 499
+  offset: 0, 0
+  index: -1
+GRASS2
+  rotate: true
+  xy: 2249, 381
+  size: 1537, 981
+  orig: 1537, 981
+  offset: 0, 0
+  index: -1
+GRASS22
+  rotate: false
+  xy: 3331, 1022
+  size: 697, 389
+  orig: 697, 389
+  offset: 0, 0
+  index: -1
+GRASS24
+  rotate: true
+  xy: 1363, 304
+  size: 1614, 878
+  orig: 1614, 878
+  offset: 0, 0
+  index: -1
+GRASS25
+  rotate: false
+  xy: 3857, 3559
+  size: 216, 210
+  orig: 216, 210
+  offset: 0, 0
+  index: -1
+GRASS26
+  rotate: true
+  xy: 3082, 61
+  size: 312, 241
+  orig: 312, 241
+  offset: 0, 0
+  index: -1
+GRASS28
+  rotate: true
+  xy: 1386, 8
+  size: 288, 297
+  orig: 288, 297
+  offset: 0, 0
+  index: -1
+GRASS29
+  rotate: true
+  xy: 1097, 61
+  size: 80, 281
+  orig: 80, 281
+  offset: 0, 0
+  index: -1
+GRASS31
+  rotate: true
+  xy: 788, 149
+  size: 1769, 567
+  orig: 1769, 567
+  offset: 0, 0
+  index: -1
+GRASS33
+  rotate: true
+  xy: 2467, 44
+  size: 329, 328
+  orig: 329, 328
+  offset: 0, 0
+  index: -1
+GRASS35
+  rotate: true
+  xy: 2803, 48
+  size: 325, 271
+  orig: 325, 271
+  offset: 0, 0
+  index: -1
+GRASS6
+  rotate: false
+  xy: 3331, 57
+  size: 599, 957
+  orig: 599, 957
+  offset: 0, 0
+  index: -1
+ROCKS3
+  rotate: false
+  xy: 788, 56
+  size: 301, 85
+  orig: 301, 85
+  offset: 0, 0
+  index: -1
+SKY-SMLL
+  rotate: false
+  xy: 8, 1926
+  size: 3841, 2161
+  orig: 3841, 2161
+  offset: 0, 0
+  index: -1
+TREES
+  rotate: true
+  xy: 8, 81
+  size: 1837, 772
+  orig: 1837, 772
+  offset: 0, 0
+  index: -1
+
+CGHughBadEnd3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BUSH1
+  rotate: false
+  xy: 8, 435
+  size: 1283, 460
+  orig: 1283, 460
+  offset: 0, 0
+  index: -1
+BUSH2
+  rotate: true
+  xy: 2075, 317
+  size: 578, 275
+  orig: 578, 275
+  offset: 0, 0
+  index: -1
+FILTER1
+  rotate: false
+  xy: 3150, 934
+  size: 768, 405
+  orig: 768, 405
+  offset: 0, 0
+  index: -1
+FILTER6
+  rotate: true
+  xy: 3688, 3242
+  size: 768, 368
+  orig: 768, 368
+  offset: 0, 0
+  index: -1
+FILTER7
+  rotate: false
+  xy: 2374, 943
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+GRASS27
+  rotate: false
+  xy: 1100, 123
+  size: 242, 304
+  orig: 242, 304
+  offset: 0, 0
+  index: -1
+GRASS3
+  rotate: true
+  xy: 3119, 2709
+  size: 1301, 561
+  orig: 1301, 561
+  offset: 0, 0
+  index: -1
+GRASS30
+  rotate: true
+  xy: 3688, 2679
+  size: 555, 383
+  orig: 555, 383
+  offset: 0, 0
+  index: -1
+GRASS32
+  rotate: false
+  xy: 8, 903
+  size: 2358, 472
+  orig: 2358, 472
+  offset: 0, 0
+  index: -1
+GRASS34
+  rotate: false
+  xy: 3372, 1347
+  size: 576, 420
+  orig: 576, 420
+  offset: 0, 0
+  index: -1
+GRASS4
+  rotate: false
+  xy: 8, 1775
+  size: 3841, 587
+  orig: 3841, 587
+  offset: 0, 0
+  index: -1
+GRASS41
+  rotate: false
+  xy: 3119, 2425
+  size: 387, 276
+  orig: 387, 276
+  offset: 0, 0
+  index: -1
+HUGH-LIGHTING
+  rotate: false
+  xy: 1299, 463
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+ROCKS2
+  rotate: false
+  xy: 8, 8
+  size: 1084, 419
+  orig: 1084, 419
+  offset: 0, 0
+  index: -1
+TOMBSTONES
+  rotate: false
+  xy: 8, 1383
+  size: 3356, 384
+  orig: 3356, 384
+  offset: 0, 0
+  index: -1
+TREES1
+  rotate: false
+  xy: 8, 2370
+  size: 3103, 1640
+  orig: 3103, 1640
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,152 @@
+
+CGAmyCloseupSwimsuit.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM12
+  rotate: false
+  xy: 3670, 870
+  size: 404, 491
+  orig: 404, 491
+  offset: 0, 0
+  index: -1
+AMY-ARM13
+  rotate: false
+  xy: 3921, 2704
+  size: 158, 281
+  orig: 158, 281
+  offset: 0, 0
+  index: -1
+AMY-ARM22
+  rotate: false
+  xy: 3014, 16
+  size: 499, 635
+  orig: 499, 635
+  offset: 0, 0
+  index: -1
+AMY-BUTT
+  rotate: false
+  xy: 8, 2119
+  size: 3076, 1893
+  orig: 3076, 1893
+  offset: 0, 0
+  index: -1
+AMY-DRESS
+  rotate: false
+  xy: 8, 216
+  size: 2998, 1895
+  orig: 2998, 1895
+  offset: 0, 0
+  index: -1
+AMY-DRESS1
+  rotate: false
+  xy: 3014, 1038
+  size: 648, 323
+  orig: 648, 323
+  offset: 0, 0
+  index: -1
+AMY-DRESS2
+  rotate: true
+  xy: 8, 8
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+AMY-DRESS3
+  rotate: true
+  xy: 3521, 108
+  size: 543, 566
+  orig: 543, 566
+  offset: 0, 0
+  index: -1
+AMY-RIBBON1
+  rotate: true
+  xy: 3092, 3504
+  size: 508, 939
+  orig: 508, 939
+  offset: 0, 0
+  index: -1
+AMY-RIBBON2
+  rotate: false
+  xy: 3092, 1764
+  size: 821, 1221
+  orig: 821, 1221
+  offset: 0, 0
+  index: -1
+AMY-RIBBON3
+  rotate: true
+  xy: 3014, 1369
+  size: 387, 1031
+  orig: 387, 1031
+  offset: 0, 0
+  index: -1
+AMY-RIBBON4
+  rotate: true
+  xy: 3092, 2993
+  size: 503, 887
+  orig: 503, 887
+  offset: 0, 0
+  index: -1
+LIGHTING-FLARE
+  rotate: false
+  xy: 3014, 659
+  size: 640, 371
+  orig: 640, 371
+  offset: 0, 0
+  index: -1
+
+CGAmyCloseupSwimsuit2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM11
+  rotate: true
+  xy: 8, 640
+  size: 1888, 1895
+  orig: 1888, 1895
+  offset: 0, 0
+  index: -1
+AMY-ARM21
+  rotate: false
+  xy: 1911, 8
+  size: 1494, 1624
+  orig: 1494, 1624
+  offset: 0, 0
+  index: -1
+AMY-TORSO
+  rotate: false
+  xy: 8, 2536
+  size: 2444, 1499
+  orig: 2444, 1499
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: true
+  xy: 2460, 1640
+  size: 2395, 1486
+  orig: 2395, 1486
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 1911, 1671
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY
+  rotate: false
+  xy: 1911, 2246
+  size: 500, 282
+  orig: 500, 282
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY2
+  rotate: false
+  xy: 1911, 1956
+  size: 500, 282
+  orig: 500, 282
+  offset: 0, 0
+  index: -1

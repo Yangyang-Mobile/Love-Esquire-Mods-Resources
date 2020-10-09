@@ -1,0 +1,136 @@
+
+CGKamalaCloseupPantyShot.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM11
+  rotate: true
+  xy: 2412, 8
+  size: 497, 755
+  orig: 497, 755
+  offset: 0, 0
+  index: -1
+KAMALA-LEG11
+  rotate: false
+  xy: 2836, 513
+  size: 1207, 3575
+  orig: 1207, 3575
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTING
+  rotate: true
+  xy: 2412, 1020
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+KAMALA-SUNRAYS
+  rotate: false
+  xy: 8, 111
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+KAMALA-TORSO
+  rotate: false
+  xy: 8, 1507
+  size: 2820, 2581
+  orig: 2820, 2581
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupPantyShot2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-BACKSKIRT
+  rotate: false
+  xy: 8, 87
+  size: 2584, 1735
+  orig: 2584, 1735
+  offset: 0, 0
+  index: -1
+KAMALA-RIBBON12
+  rotate: true
+  xy: 3531, 8
+  size: 1341, 500
+  orig: 1341, 500
+  offset: 0, 0
+  index: -1
+KAMALA-UNDERWEAR
+  rotate: false
+  xy: 2600, 417
+  size: 923, 932
+  orig: 923, 932
+  offset: 0, 0
+  index: -1
+TREES1
+  rotate: false
+  xy: 8, 1830
+  size: 2954, 2250
+  orig: 2954, 2250
+  offset: 0, 0
+  index: -1
+TREES2
+  rotate: true
+  xy: 2970, 1357
+  size: 2723, 948
+  orig: 2723, 948
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupPantyShot3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BUILDINGS
+  rotate: false
+  xy: 8, 1372
+  size: 2474, 2594
+  orig: 2474, 2594
+  offset: 0, 0
+  index: -1
+KAMALA-ARM-12
+  rotate: false
+  xy: 3075, 1830
+  size: 699, 581
+  orig: 699, 581
+  offset: 0, 0
+  index: -1
+KAMALA-LEG21
+  rotate: false
+  xy: 2490, 2419
+  size: 1540, 1547
+  orig: 1540, 1547
+  offset: 0, 0
+  index: -1
+KAMALA-RIBBON11
+  rotate: false
+  xy: 2490, 98
+  size: 577, 2313
+  orig: 577, 2313
+  offset: 0, 0
+  index: -1
+SKY-SMLL
+  rotate: false
+  xy: 8, 8
+  size: 2373, 1356
+  orig: 2373, 1356
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupPantyShot4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-RIBBON13
+  rotate: false
+  xy: 8, 8
+  size: 2116, 2133
+  orig: 2116, 2133
+  offset: 0, 0
+  index: -1

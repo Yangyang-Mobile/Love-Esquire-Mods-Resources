@@ -1,0 +1,426 @@
+
+CGVelCloseupSlime.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-BGSMLL
+  rotate: false
+  xy: 1356, 587
+  size: 576, 324
+  orig: 576, 324
+  offset: 0, 0
+  index: -1
+BG-BUSH
+  rotate: false
+  xy: 8, 2473
+  size: 1537, 744
+  orig: 1537, 744
+  offset: 0, 0
+  index: -1
+BG-TREES1
+  rotate: true
+  xy: 1628, 3407
+  size: 681, 1297
+  orig: 681, 1297
+  offset: 0, 0
+  index: -1
+BG-TREES2
+  rotate: false
+  xy: 8, 2061
+  size: 1467, 404
+  orig: 1467, 404
+  offset: 0, 0
+  index: -1
+VEL-ANTENNA
+  rotate: false
+  xy: 8, 3225
+  size: 1612, 863
+  orig: 1612, 863
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: true
+  xy: 3455, 2688
+  size: 649, 448
+  orig: 649, 448
+  offset: 0, 0
+  index: -1
+VEL-ARM12
+  rotate: false
+  xy: 579, 561
+  size: 769, 972
+  orig: 769, 972
+  offset: 0, 0
+  index: -1
+VEL-ARM13
+  rotate: true
+  xy: 3911, 2668
+  size: 342, 156
+  orig: 342, 156
+  offset: 0, 0
+  index: -1
+VEL-ARM14
+  rotate: false
+  xy: 8, 1541
+  size: 1342, 512
+  orig: 1342, 512
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: true
+  xy: 3064, 1206
+  size: 540, 572
+  orig: 540, 572
+  offset: 0, 0
+  index: -1
+VEL-ARM22
+  rotate: false
+  xy: 579, 250
+  size: 941, 303
+  orig: 941, 303
+  offset: 0, 0
+  index: -1
+VEL-ARM23
+  rotate: false
+  xy: 8, 315
+  size: 563, 1218
+  orig: 563, 1218
+  offset: 0, 0
+  index: -1
+VEL-BLUSH
+  rotate: false
+  xy: 2640, 2846
+  size: 807, 491
+  orig: 807, 491
+  offset: 0, 0
+  index: -1
+VEL-BODY1
+  rotate: false
+  xy: 1553, 1816
+  size: 764, 668
+  orig: 764, 668
+  offset: 0, 0
+  index: -1
+VEL-BODY2
+  rotate: false
+  xy: 2548, 2475
+  size: 783, 363
+  orig: 783, 363
+  offset: 0, 0
+  index: -1
+VEL-BODY3
+  rotate: true
+  xy: 3096, 1754
+  size: 713, 590
+  orig: 713, 590
+  offset: 0, 0
+  index: -1
+VEL-BODY4
+  rotate: true
+  xy: 1190, 16
+  size: 226, 328
+  orig: 226, 328
+  offset: 0, 0
+  index: -1
+VEL-CORNEA
+  rotate: false
+  xy: 3757, 2549
+  size: 121, 131
+  orig: 121, 131
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS
+  rotate: false
+  xy: 495, 16
+  size: 687, 226
+  orig: 687, 226
+  offset: 0, 0
+  index: -1
+VEL-EYELASHES
+  rotate: false
+  xy: 1358, 1569
+  size: 723, 239
+  orig: 723, 239
+  offset: 0, 0
+  index: -1
+VEL-EYELIGHTS
+  rotate: false
+  xy: 2899, 871
+  size: 105, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+VEL-GOLDGLOW
+  rotate: true
+  xy: 1553, 2934
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+VEL-HAIR1
+  rotate: true
+  xy: 3059, 782
+  size: 416, 519
+  orig: 416, 519
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: true
+  xy: 1553, 2492
+  size: 428, 987
+  orig: 428, 987
+  offset: 0, 0
+  index: -1
+VEL-HAIR3
+  rotate: true
+  xy: 2089, 1575
+  size: 233, 410
+  orig: 233, 410
+  offset: 0, 0
+  index: -1
+VEL-HAIR4
+  rotate: true
+  xy: 2617, 958
+  size: 272, 434
+  orig: 272, 434
+  offset: 0, 0
+  index: -1
+VEL-HAIR5
+  rotate: false
+  xy: 3911, 3018
+  size: 138, 358
+  orig: 138, 358
+  offset: 0, 0
+  index: -1
+VEL-HAIR6
+  rotate: false
+  xy: 2325, 1817
+  size: 763, 650
+  orig: 763, 650
+  offset: 0, 0
+  index: -1
+VEL-HAIR7
+  rotate: true
+  xy: 2187, 30
+  size: 87, 291
+  orig: 87, 291
+  offset: 0, 0
+  index: -1
+VEL-HEAD
+  rotate: true
+  xy: 1528, 8
+  size: 571, 651
+  orig: 571, 651
+  offset: 0, 0
+  index: -1
+VEL-LIGHTING
+  rotate: false
+  xy: 8, 30
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+VEL-MOUTH
+  rotate: false
+  xy: 2651, 765
+  size: 240, 185
+  orig: 240, 185
+  offset: 0, 0
+  index: -1
+VEL-NECK
+  rotate: false
+  xy: 2187, 125
+  size: 283, 251
+  orig: 283, 251
+  offset: 0, 0
+  index: -1
+VEL-RIBBON
+  rotate: false
+  xy: 3644, 1298
+  size: 305, 448
+  orig: 305, 448
+  offset: 0, 0
+  index: -1
+VEL-SCLERA
+  rotate: false
+  xy: 2651, 667
+  size: 231, 90
+  orig: 231, 90
+  offset: 0, 0
+  index: -1
+VEL-SLIME1
+  rotate: true
+  xy: 3886, 2507
+  size: 153, 180
+  orig: 153, 180
+  offset: 0, 0
+  index: -1
+VEL-SLIME10
+  rotate: false
+  xy: 1358, 1844
+  size: 181, 209
+  orig: 181, 209
+  offset: 0, 0
+  index: -1
+VEL-SLIME11
+  rotate: false
+  xy: 2899, 783
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+VEL-SLIME12
+  rotate: false
+  xy: 3421, 2794
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+VEL-SLIME13
+  rotate: false
+  xy: 2187, 384
+  size: 304, 284
+  orig: 304, 284
+  offset: 0, 0
+  index: -1
+VEL-SLIME14
+  rotate: true
+  xy: 2640, 3355
+  size: 44, 107
+  orig: 44, 107
+  offset: 0, 0
+  index: -1
+VEL-SLIME15
+  rotate: false
+  xy: 1553, 3057
+  size: 67, 160
+  orig: 67, 160
+  offset: 0, 0
+  index: -1
+VEL-SLIME16
+  rotate: true
+  xy: 1358, 919
+  size: 642, 656
+  orig: 642, 656
+  offset: 0, 0
+  index: -1
+VEL-SLIME17
+  rotate: true
+  xy: 2022, 949
+  size: 612, 587
+  orig: 612, 587
+  offset: 0, 0
+  index: -1
+VEL-SLIME18
+  rotate: false
+  xy: 3856, 967
+  size: 86, 213
+  orig: 86, 213
+  offset: 0, 0
+  index: -1
+VEL-SLIME19
+  rotate: true
+  xy: 3339, 2490
+  size: 190, 410
+  orig: 190, 410
+  offset: 0, 0
+  index: -1
+VEL-SLIME2
+  rotate: false
+  xy: 2548, 2860
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+VEL-SLIME20
+  rotate: false
+  xy: 2617, 1238
+  size: 439, 571
+  orig: 439, 571
+  offset: 0, 0
+  index: -1
+VEL-SLIME21
+  rotate: false
+  xy: 2181, 676
+  size: 337, 265
+  orig: 337, 265
+  offset: 0, 0
+  index: -1
+VEL-SLIME22
+  rotate: true
+  xy: 3586, 771
+  size: 179, 293
+  orig: 179, 293
+  offset: 0, 0
+  index: -1
+VEL-SLIME23
+  rotate: false
+  xy: 3887, 795
+  size: 154, 164
+  orig: 154, 164
+  offset: 0, 0
+  index: -1
+VEL-SLIME24
+  rotate: false
+  xy: 2499, 396
+  size: 121, 252
+  orig: 121, 252
+  offset: 0, 0
+  index: -1
+VEL-SLIME25
+  rotate: false
+  xy: 2933, 3345
+  size: 852, 743
+  orig: 852, 743
+  offset: 0, 0
+  index: -1
+VEL-SLIME3
+  rotate: true
+  xy: 1940, 592
+  size: 319, 233
+  orig: 319, 233
+  offset: 0, 0
+  index: -1
+VEL-SLIME4
+  rotate: false
+  xy: 3339, 2709
+  size: 74, 129
+  orig: 74, 129
+  offset: 0, 0
+  index: -1
+VEL-SLIME5
+  rotate: true
+  xy: 1628, 2928
+  size: 471, 1004
+  orig: 471, 1004
+  offset: 0, 0
+  index: -1
+VEL-SLIME6
+  rotate: false
+  xy: 2526, 656
+  size: 117, 285
+  orig: 117, 285
+  offset: 0, 0
+  index: -1
+VEL-SLIME7
+  rotate: false
+  xy: 3793, 3384
+  size: 269, 704
+  orig: 269, 704
+  offset: 0, 0
+  index: -1
+VEL-SLIME8
+  rotate: false
+  xy: 3586, 958
+  size: 262, 222
+  orig: 262, 222
+  offset: 0, 0
+  index: -1
+VEL-SLIME9
+  rotate: true
+  xy: 3644, 1188
+  size: 102, 306
+  orig: 102, 306
+  offset: 0, 0
+  index: -1

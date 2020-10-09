@@ -1,0 +1,118 @@
+
+CGKamalaFirstMeet.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG1
+  rotate: false
+  xy: 8, 2466
+  size: 1933, 1622
+  orig: 1933, 1622
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: true
+  xy: 1670, 907
+  size: 1011, 1622
+  orig: 1011, 1622
+  offset: 0, 0
+  index: -1
+KAMALA
+  rotate: false
+  xy: 1949, 1926
+  size: 1336, 2162
+  orig: 1336, 2162
+  offset: 0, 0
+  index: -1
+KAMALA-ACCESSORY2
+  rotate: false
+  xy: 2887, 8
+  size: 40, 148
+  orig: 40, 148
+  offset: 0, 0
+  index: -1
+KAMALA-ACCESSSORY1
+  rotate: true
+  xy: 3293, 1936
+  size: 92, 192
+  orig: 92, 192
+  offset: 0, 0
+  index: -1
+KAMALA-ARM
+  rotate: false
+  xy: 3293, 2700
+  size: 772, 1388
+  orig: 772, 1388
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS1
+  rotate: false
+  xy: 2887, 462
+  size: 292, 437
+  orig: 292, 437
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS2
+  rotate: true
+  xy: 8, 91
+  size: 491, 701
+  orig: 491, 701
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS3
+  rotate: true
+  xy: 1670, 20
+  size: 879, 1209
+  orig: 879, 1209
+  offset: 0, 0
+  index: -1
+KAMALA-EYE
+  rotate: false
+  xy: 717, 224
+  size: 352, 134
+  orig: 352, 134
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR
+  rotate: false
+  xy: 8, 590
+  size: 1654, 1868
+  orig: 1654, 1868
+  offset: 0, 0
+  index: -1
+KAMALA-LIPS
+  rotate: true
+  xy: 3187, 727
+  size: 172, 94
+  orig: 172, 94
+  offset: 0, 0
+  index: -1
+LIGHT-BOKEH
+  rotate: false
+  xy: 3293, 2036
+  size: 675, 656
+  orig: 675, 656
+  offset: 0, 0
+  index: -1
+LIGHT-SHINE
+  rotate: false
+  xy: 2887, 164
+  size: 249, 290
+  orig: 249, 290
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 1670, 2074
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+LIGHTING2
+  rotate: false
+  xy: 717, 366
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1

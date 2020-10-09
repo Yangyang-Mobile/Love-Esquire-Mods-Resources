@@ -1,0 +1,535 @@
+
+CGVelPlazaKamala.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BUSH1
+  rotate: true
+  xy: 3652, 358
+  size: 260, 284
+  orig: 260, 284
+  offset: 0, 0
+  index: -1
+BUSH3
+  rotate: false
+  xy: 3178, 21
+  size: 523, 314
+  orig: 523, 314
+  offset: 0, 0
+  index: -1
+HOUSE1
+  rotate: false
+  xy: 2414, 343
+  size: 1230, 1361
+  orig: 1230, 1361
+  offset: 0, 0
+  index: -1
+HOUSE2
+  rotate: false
+  xy: 8, 205
+  size: 2398, 1567
+  orig: 2398, 1567
+  offset: 0, 0
+  index: -1
+KAMALA-EARRING
+  rotate: true
+  xy: 3709, 8
+  size: 60, 127
+  orig: 60, 127
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR1
+  rotate: true
+  xy: 3652, 626
+  size: 1137, 386
+  orig: 1137, 386
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR2
+  rotate: false
+  xy: 2437, 1712
+  size: 1056, 2375
+  orig: 1056, 2375
+  offset: 0, 0
+  index: -1
+LEAVES2
+  rotate: false
+  xy: 8, 1780
+  size: 2421, 2307
+  orig: 2421, 2307
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 3844, 41
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+SKY
+  rotate: true
+  xy: 3944, 379
+  size: 239, 138
+  orig: 239, 138
+  offset: 0, 0
+  index: -1
+STALL
+  rotate: false
+  xy: 3501, 1771
+  size: 587, 2316
+  orig: 587, 2316
+  offset: 0, 0
+  index: -1
+VEL-ANTENNA3
+  rotate: false
+  xy: 4046, 1073
+  size: 34, 690
+  orig: 34, 690
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: false
+  xy: 3709, 76
+  size: 242, 274
+  orig: 242, 274
+  offset: 0, 0
+  index: -1
+VEL-ARM131
+  rotate: true
+  xy: 1703, 18
+  size: 75, 166
+  orig: 75, 166
+  offset: 0, 0
+  index: -1
+VEL-CORENA1
+  rotate: false
+  xy: 8, 21
+  size: 397, 176
+  orig: 397, 176
+  offset: 0, 0
+  index: -1
+VEL-EYE2
+  rotate: false
+  xy: 1103, 35
+  size: 334, 43
+  orig: 334, 43
+  offset: 0, 0
+  index: -1
+VEL-EYEBROW2
+  rotate: false
+  xy: 1787, 101
+  size: 299, 96
+  orig: 299, 96
+  offset: 0, 0
+  index: -1
+VEL-EYEBROW3
+  rotate: false
+  xy: 1458, 114
+  size: 321, 83
+  orig: 321, 83
+  offset: 0, 0
+  index: -1
+VEL-EYELASHES1 1
+  rotate: false
+  xy: 1103, 86
+  size: 347, 111
+  orig: 347, 111
+  offset: 0, 0
+  index: -1
+VEL-EYELASHES1 2
+  rotate: false
+  xy: 2094, 101
+  size: 278, 96
+  orig: 278, 96
+  offset: 0, 0
+  index: -1
+VEL-EYELASHES2
+  rotate: false
+  xy: 413, 31
+  size: 355, 166
+  orig: 355, 166
+  offset: 0, 0
+  index: -1
+VEL-EYELIGHTS
+  rotate: true
+  xy: 3959, 143
+  size: 228, 114
+  orig: 228, 114
+  offset: 0, 0
+  index: -1
+VEL-EYELIGHTS2
+  rotate: false
+  xy: 1458, 25
+  size: 237, 81
+  orig: 237, 81
+  offset: 0, 0
+  index: -1
+VEL-LEG21
+  rotate: false
+  xy: 2414, 32
+  size: 756, 303
+  orig: 756, 303
+  offset: 0, 0
+  index: -1
+VEL-MOUTH1
+  rotate: false
+  xy: 3959, 40
+  size: 129, 95
+  orig: 129, 95
+  offset: 0, 0
+  index: -1
+VEL-MOUTH2
+  rotate: false
+  xy: 3501, 1732
+  size: 81, 31
+  orig: 81, 31
+  offset: 0, 0
+  index: -1
+VEL-SCLERA1
+  rotate: false
+  xy: 776, 51
+  size: 319, 146
+  orig: 319, 146
+  offset: 0, 0
+  index: -1
+VEL-SWEAT1
+  rotate: false
+  xy: 4046, 987
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+VEL-SWEAT2
+  rotate: false
+  xy: 1877, 63
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+VEL-TEARS
+  rotate: true
+  xy: 2380, 160
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+VEL-TEARS1
+  rotate: false
+  xy: 3590, 1744
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+VEL-TEARS2
+  rotate: true
+  xy: 4046, 1016
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+
+CGVelPlazaKamala2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BUSH2
+  rotate: false
+  xy: 3326, 151
+  size: 210, 168
+  orig: 210, 168
+  offset: 0, 0
+  index: -1
+CLOUDS2
+  rotate: false
+  xy: 2852, 56
+  size: 466, 263
+  orig: 466, 263
+  offset: 0, 0
+  index: -1
+CLOUDS4
+  rotate: false
+  xy: 2310, 107
+  size: 534, 212
+  orig: 534, 212
+  offset: 0, 0
+  index: -1
+DUDE-DRESS2
+  rotate: true
+  xy: 3603, 470
+  size: 817, 459
+  orig: 817, 459
+  offset: 0, 0
+  index: -1
+KAMALA-ARM1
+  rotate: false
+  xy: 2256, 2246
+  size: 1394, 1839
+  orig: 1394, 1839
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS3
+  rotate: false
+  xy: 2310, 327
+  size: 1285, 1911
+  orig: 1285, 1911
+  offset: 0, 0
+  index: -1
+LEAVES1
+  rotate: false
+  xy: 3603, 214
+  size: 441, 248
+  orig: 441, 248
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM13
+  rotate: true
+  xy: 3544, 65
+  size: 141, 159
+  orig: 141, 159
+  offset: 0, 0
+  index: -1
+STATUE
+  rotate: false
+  xy: 8, 39
+  size: 2294, 1906
+  orig: 2294, 1906
+  offset: 0, 0
+  index: -1
+VEL-ARM12
+  rotate: false
+  xy: 3658, 2972
+  size: 317, 476
+  orig: 317, 476
+  offset: 0, 0
+  index: -1
+VEL-ARM13
+  rotate: false
+  xy: 3913, 2321
+  size: 150, 216
+  orig: 150, 216
+  offset: 0, 0
+  index: -1
+VEL-ARM21v2
+  rotate: false
+  xy: 8, 1953
+  size: 2240, 2132
+  orig: 2240, 2132
+  offset: 0, 0
+  index: -1
+VEL-EYEBROW1
+  rotate: false
+  xy: 3658, 2367
+  size: 247, 170
+  orig: 247, 170
+  offset: 0, 0
+  index: -1
+VEL-HAIR1
+  rotate: true
+  xy: 3658, 2545
+  size: 419, 404
+  orig: 419, 404
+  offset: 0, 0
+  index: -1
+VEL-LEG12
+  rotate: false
+  xy: 3658, 3456
+  size: 319, 629
+  orig: 319, 629
+  offset: 0, 0
+  index: -1
+VEL-SKIRTBACK
+  rotate: true
+  xy: 3326, 8
+  size: 135, 205
+  orig: 135, 205
+  offset: 0, 0
+  index: -1
+VEL-TORSO
+  rotate: true
+  xy: 3603, 1295
+  size: 943, 458
+  orig: 943, 458
+  offset: 0, 0
+  index: -1
+
+CGVelPlazaKamala3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CLOUDS1
+  rotate: true
+  xy: 987, 2092
+  size: 1348, 583
+  orig: 1348, 583
+  offset: 0, 0
+  index: -1
+CLOUDS3
+  rotate: false
+  xy: 2955, 2248
+  size: 975, 490
+  orig: 975, 490
+  offset: 0, 0
+  index: -1
+CLOUDS6
+  rotate: false
+  xy: 8, 310
+  size: 926, 538
+  orig: 926, 538
+  offset: 0, 0
+  index: -1
+CLOUDS7
+  rotate: false
+  xy: 2320, 504
+  size: 772, 572
+  orig: 772, 572
+  offset: 0, 0
+  index: -1
+CLOUSD5
+  rotate: false
+  xy: 987, 1182
+  size: 1589, 902
+  orig: 1589, 902
+  offset: 0, 0
+  index: -1
+DUDE-DRESS1
+  rotate: false
+  xy: 1578, 2836
+  size: 818, 604
+  orig: 818, 604
+  offset: 0, 0
+  index: -1
+DUDE-DRESS3
+  rotate: false
+  xy: 967, 504
+  size: 691, 670
+  orig: 691, 670
+  offset: 0, 0
+  index: -1
+DUDE-LEGS
+  rotate: true
+  xy: 3100, 206
+  size: 870, 544
+  orig: 870, 544
+  offset: 0, 0
+  index: -1
+FLOOR
+  rotate: false
+  xy: 8, 3448
+  size: 2396, 610
+  orig: 2396, 610
+  offset: 0, 0
+  index: -1
+KAMALA-ARM21
+  rotate: true
+  xy: 2320, 25
+  size: 471, 758
+  orig: 471, 758
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22
+  rotate: false
+  xy: 3652, 918
+  size: 366, 372
+  orig: 366, 372
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS1
+  rotate: false
+  xy: 3596, 3077
+  size: 488, 981
+  orig: 488, 981
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS2
+  rotate: false
+  xy: 8, 856
+  size: 951, 1140
+  orig: 951, 1140
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: true
+  xy: 2584, 1084
+  size: 1133, 915
+  orig: 1133, 915
+  offset: 0, 0
+  index: -1
+KAMALA-SILK
+  rotate: true
+  xy: 1578, 2225
+  size: 513, 1369
+  orig: 513, 1369
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: false
+  xy: 2412, 2746
+  size: 1176, 1312
+  orig: 1176, 1312
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: false
+  xy: 8, 2004
+  size: 971, 1436
+  orig: 971, 1436
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: false
+  xy: 3507, 1298
+  size: 419, 354
+  orig: 419, 354
+  offset: 0, 0
+  index: -1
+VEL-HAIR3
+  rotate: true
+  xy: 1666, 95
+  size: 1079, 646
+  orig: 1079, 646
+  offset: 0, 0
+  index: -1
+VEL-LEG11
+  rotate: false
+  xy: 942, 8
+  size: 686, 488
+  orig: 686, 488
+  offset: 0, 0
+  index: -1
+VEL-TORSO2
+  rotate: true
+  xy: 3507, 1660
+  size: 580, 570
+  orig: 580, 570
+  offset: 0, 0
+  index: -1
+
+CGVelPlazaKamala4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VEL-HEAD
+  rotate: false
+  xy: 979, 156
+  size: 531, 642
+  orig: 531, 642
+  offset: 0, 0
+  index: -1
+VEL-LEG22
+  rotate: false
+  xy: 8, 8
+  size: 476, 790
+  orig: 476, 790
+  offset: 0, 0
+  index: -1
+VEL-TORSO1
+  rotate: false
+  xy: 492, 18
+  size: 479, 780
+  orig: 479, 780
+  offset: 0, 0
+  index: -1

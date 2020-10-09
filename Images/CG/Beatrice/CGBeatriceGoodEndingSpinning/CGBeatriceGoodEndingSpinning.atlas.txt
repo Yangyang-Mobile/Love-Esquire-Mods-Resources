@@ -1,0 +1,208 @@
+
+CGBeatriceGoodEndingSpinning.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM11
+  rotate: false
+  xy: 1527, 543
+  size: 1537, 695
+  orig: 1537, 695
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM12
+  rotate: false
+  xy: 3009, 1254
+  size: 865, 1024
+  orig: 865, 1024
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM21
+  rotate: false
+  xy: 3285, 3052
+  size: 674, 1015
+  orig: 674, 1015
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM22
+  rotate: false
+  xy: 3351, 2303
+  size: 565, 741
+  orig: 565, 741
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY
+  rotate: false
+  xy: 8, 2620
+  size: 1579, 1447
+  orig: 1579, 1447
+  offset: 0, 0
+  index: -1
+BEATRICE-DRILL1
+  rotate: true
+  xy: 8, 8
+  size: 1188, 1406
+  orig: 1188, 1406
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS
+  rotate: true
+  xy: 3924, 2292
+  size: 752, 143
+  orig: 752, 143
+  offset: 0, 0
+  index: -1
+BEATRICE-EYES
+  rotate: false
+  xy: 2969, 41
+  size: 807, 216
+  orig: 807, 216
+  offset: 0, 0
+  index: -1
+BEATRICE-FUR2
+  rotate: true
+  xy: 1595, 2938
+  size: 1129, 1682
+  orig: 1129, 1682
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR4
+  rotate: true
+  xy: 3072, 594
+  size: 652, 802
+  orig: 652, 802
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR5
+  rotate: false
+  xy: 1595, 2286
+  size: 1748, 644
+  orig: 1748, 644
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR6
+  rotate: false
+  xy: 1527, 1246
+  size: 1474, 1032
+  orig: 1474, 1032
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR7
+  rotate: false
+  xy: 1422, 13
+  size: 1539, 244
+  orig: 1539, 244
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIRBACK
+  rotate: true
+  xy: 3663, 319
+  size: 267, 325
+  orig: 267, 325
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: false
+  xy: 8, 1204
+  size: 1511, 1408
+  orig: 1511, 1408
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 1422, 265
+  size: 2233, 270
+  orig: 2233, 270
+  offset: 0, 0
+  index: -1
+
+CGBeatriceGoodEndingSpinning2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-BLUSH
+  rotate: false
+  xy: 1431, 1303
+  size: 1220, 599
+  orig: 1220, 599
+  offset: 0, 0
+  index: -1
+BEATRICE-DRILL2
+  rotate: false
+  xy: 8, 1002
+  size: 1415, 900
+  orig: 1415, 900
+  offset: 0, 0
+  index: -1
+BEATRICE-FUR11
+  rotate: false
+  xy: 2306, 677
+  size: 845, 612
+  orig: 845, 612
+  offset: 0, 0
+  index: -1
+BEATRICE-FUR12
+  rotate: true
+  xy: 2659, 1297
+  size: 605, 982
+  orig: 605, 982
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: false
+  xy: 8, 335
+  size: 1346, 659
+  orig: 1346, 659
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: true
+  xy: 3159, 712
+  size: 577, 564
+  orig: 577, 564
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR3
+  rotate: true
+  xy: 1431, 851
+  size: 444, 867
+  orig: 444, 867
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR8
+  rotate: false
+  xy: 8, 8
+  size: 1455, 319
+  orig: 1455, 319
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH
+  rotate: false
+  xy: 2921, 297
+  size: 346, 372
+  orig: 346, 372
+  offset: 0, 0
+  index: -1
+BEATRICE-NECK
+  rotate: false
+  xy: 1471, 51
+  size: 820, 792
+  orig: 820, 792
+  offset: 0, 0
+  index: -1
+BEATRICE-NECKLACE
+  rotate: false
+  xy: 2299, 84
+  size: 614, 585
+  orig: 614, 585
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3649, 1424
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1

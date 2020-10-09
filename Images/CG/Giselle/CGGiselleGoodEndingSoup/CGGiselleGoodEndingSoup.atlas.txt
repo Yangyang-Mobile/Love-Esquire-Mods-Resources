@@ -1,0 +1,170 @@
+
+CGGiselleGoodEndingSoup.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SMLL
+  rotate: false
+  xy: 4, 1813
+  size: 3840, 2160
+  orig: 3840, 2160
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: false
+  xy: 3248, 634
+  size: 739, 1171
+  orig: 739, 1171
+  offset: 0, 0
+  index: -1
+GISELLE-EYELIGHTS
+  rotate: false
+  xy: 3248, 380
+  size: 808, 246
+  orig: 808, 246
+  offset: 0, 0
+  index: -1
+GISELLE-LIGHTING
+  rotate: true
+  xy: 3852, 3574
+  size: 399, 231
+  orig: 399, 231
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH
+  rotate: true
+  xy: 3852, 3291
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+SQUIRE
+  rotate: false
+  xy: 4, 4
+  size: 3236, 1801
+  orig: 3236, 1801
+  offset: 0, 0
+  index: -1
+
+CGGiselleGoodEndingSoup2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-CORNEA
+  rotate: false
+  xy: 4, 654
+  size: 2535, 3415
+  orig: 2535, 3415
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS
+  rotate: false
+  xy: 1162, 333
+  size: 1089, 313
+  orig: 1089, 313
+  offset: 0, 0
+  index: -1
+GISELLE-EYESLASHES
+  rotate: true
+  xy: 3474, 4
+  size: 1150, 474
+  orig: 1150, 474
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD
+  rotate: false
+  xy: 2547, 2128
+  size: 1510, 1941
+  orig: 1510, 1941
+  offset: 0, 0
+  index: -1
+GISELLE-SCLERA
+  rotate: false
+  xy: 4, 172
+  size: 1150, 474
+  orig: 1150, 474
+  offset: 0, 0
+  index: -1
+GISELLE-SOUP
+  rotate: true
+  xy: 3474, 1162
+  size: 958, 604
+  orig: 958, 604
+  offset: 0, 0
+  index: -1
+TABLE
+  rotate: true
+  xy: 2547, 55
+  size: 2065, 919
+  orig: 2065, 919
+  offset: 0, 0
+  index: -1
+
+CGGiselleGoodEndingSoup3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHAIR
+  rotate: false
+  xy: 4, 584
+  size: 1658, 3389
+  orig: 1658, 3389
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: true
+  xy: 1670, 1665
+  size: 2308, 2139
+  orig: 2308, 2139
+  offset: 0, 0
+  index: -1
+GISELLE-HANDSMUG
+  rotate: true
+  xy: 1670, 4
+  size: 1653, 2109
+  orig: 1653, 2109
+  offset: 0, 0
+  index: -1
+
+CGGiselleGoodEndingSoup4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-ARM11
+  rotate: true
+  xy: 4, 4
+  size: 968, 1269
+  orig: 968, 1269
+  offset: 0, 0
+  index: -1
+GISELLE-BLUSH
+  rotate: true
+  xy: 2700, 2452
+  size: 1449, 694
+  orig: 1449, 694
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: false
+  xy: 4, 980
+  size: 2688, 2921
+  orig: 2688, 2921
+  offset: 0, 0
+  index: -1
+
+CGGiselleGoodEndingSoup5.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-TORSO
+  rotate: false
+  xy: 4, 4
+  size: 2634, 2951
+  orig: 2634, 2951
+  offset: 0, 0
+  index: -1

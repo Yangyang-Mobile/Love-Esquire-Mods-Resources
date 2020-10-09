@@ -1,0 +1,425 @@
+
+CGVelFriendshipEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-FLORA
+  rotate: true
+  xy: 1899, 363
+  size: 881, 400
+  orig: 881, 400
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 1252
+  size: 2304, 1296
+  orig: 2304, 1296
+  offset: 0, 0
+  index: -1
+DUDE1-SWEAT
+  rotate: false
+  xy: 4028, 2955
+  size: 27, 120
+  orig: 27, 120
+  offset: 0, 0
+  index: -1
+DUDE2-ARM
+  rotate: false
+  xy: 2971, 2556
+  size: 846, 1531
+  orig: 846, 1531
+  offset: 0, 0
+  index: -1
+DUDE2-HEAD2
+  rotate: false
+  xy: 3913, 279
+  size: 175, 607
+  orig: 175, 607
+  offset: 0, 0
+  index: -1
+DUDE2-REST
+  rotate: true
+  xy: 8, 483
+  size: 761, 1883
+  orig: 761, 1883
+  offset: 0, 0
+  index: -1
+DUDE3-ARM
+  rotate: false
+  xy: 3427, 894
+  size: 617, 1629
+  orig: 617, 1629
+  offset: 0, 0
+  index: -1
+DUDE3-HEAD
+  rotate: true
+  xy: 1687, 2618
+  size: 543, 1248
+  orig: 543, 1248
+  offset: 0, 0
+  index: -1
+DUDE3-REST
+  rotate: true
+  xy: 8, 2602
+  size: 559, 1671
+  orig: 559, 1671
+  offset: 0, 0
+  index: -1
+DUDE3-SWEAT
+  rotate: false
+  xy: 4028, 3083
+  size: 35, 223
+  orig: 35, 223
+  offset: 0, 0
+  index: -1
+DUDE4-REST
+  rotate: false
+  xy: 2320, 60
+  size: 697, 2488
+  orig: 697, 2488
+  offset: 0, 0
+  index: -1
+DUDE4-SWEAT
+  rotate: false
+  xy: 4028, 3314
+  size: 44, 154
+  orig: 44, 154
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY
+  rotate: false
+  xy: 3427, 609
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+STUMP
+  rotate: true
+  xy: 3825, 2531
+  size: 1556, 195
+  orig: 1556, 195
+  offset: 0, 0
+  index: -1
+VEL-CAPE1
+  rotate: false
+  xy: 569, 43
+  size: 786, 432
+  orig: 786, 432
+  offset: 0, 0
+  index: -1
+VEL-CAPE2
+  rotate: false
+  xy: 8, 3169
+  size: 2955, 918
+  orig: 2955, 918
+  offset: 0, 0
+  index: -1
+VEL-COLLAR
+  rotate: false
+  xy: 1363, 120
+  size: 525, 355
+  orig: 525, 355
+  offset: 0, 0
+  index: -1
+VEL-CORNEA
+  rotate: true
+  xy: 4028, 3922
+  size: 165, 53
+  orig: 165, 53
+  offset: 0, 0
+  index: -1
+VEL-DRESS21
+  rotate: false
+  xy: 8, 23
+  size: 553, 452
+  orig: 553, 452
+  offset: 0, 0
+  index: -1
+VEL-DRESS23
+  rotate: false
+  xy: 3025, 49
+  size: 645, 541
+  orig: 645, 541
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS
+  rotate: true
+  xy: 4028, 3683
+  size: 231, 50
+  orig: 231, 50
+  offset: 0, 0
+  index: -1
+VEL-EYELASHES
+  rotate: true
+  xy: 4011, 23
+  size: 248, 65
+  orig: 248, 65
+  offset: 0, 0
+  index: -1
+VEL-EYELIGHTS
+  rotate: true
+  xy: 4028, 2812
+  size: 135, 22
+  orig: 135, 22
+  offset: 0, 0
+  index: -1
+VEL-FEET22
+  rotate: false
+  xy: 3025, 598
+  size: 394, 1950
+  orig: 394, 1950
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: false
+  xy: 4028, 2599
+  size: 19, 205
+  orig: 19, 205
+  offset: 0, 0
+  index: -1
+VEL-HAIR3
+  rotate: false
+  xy: 3861, 380
+  size: 44, 221
+  orig: 44, 221
+  offset: 0, 0
+  index: -1
+VEL-HAIR4
+  rotate: false
+  xy: 3678, 17
+  size: 325, 254
+  orig: 325, 254
+  offset: 0, 0
+  index: -1
+VEL-HAIR8
+  rotate: false
+  xy: 3678, 279
+  size: 175, 322
+  orig: 175, 322
+  offset: 0, 0
+  index: -1
+VEL-MOUTH
+  rotate: true
+  xy: 1363, 8
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+VEL-NECK
+  rotate: true
+  xy: 1896, 102
+  size: 253, 412
+  orig: 253, 412
+  offset: 0, 0
+  index: -1
+VEL-SCLERA
+  rotate: true
+  xy: 4028, 3476
+  size: 199, 47
+  orig: 199, 47
+  offset: 0, 0
+  index: -1
+
+CGVelFriendshipEpilogue2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DUDE1-ARM
+  rotate: true
+  xy: 8, 305
+  size: 493, 1502
+  orig: 493, 1502
+  offset: 0, 0
+  index: -1
+DUDE1-REST
+  rotate: true
+  xy: 8, 1331
+  size: 708, 2592
+  orig: 708, 2592
+  offset: 0, 0
+  index: -1
+DUDE2-HEAD
+  rotate: false
+  xy: 1518, 363
+  size: 784, 960
+  orig: 784, 960
+  offset: 0, 0
+  index: -1
+DUDE4-ARM
+  rotate: true
+  xy: 8, 806
+  size: 517, 1491
+  orig: 517, 1491
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 2310, 845
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: false
+  xy: 2909, 771
+  size: 141, 113
+  orig: 141, 113
+  offset: 0, 0
+  index: -1
+VEL-ARM12
+  rotate: false
+  xy: 3482, 798
+  size: 301, 141
+  orig: 301, 141
+  offset: 0, 0
+  index: -1
+VEL-ARM13
+  rotate: true
+  xy: 2595, 771
+  size: 113, 306
+  orig: 113, 306
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: false
+  xy: 2593, 380
+  size: 141, 106
+  orig: 141, 106
+  offset: 0, 0
+  index: -1
+VEL-ARM22
+  rotate: false
+  xy: 3134, 797
+  size: 340, 142
+  orig: 340, 142
+  offset: 0, 0
+  index: -1
+VEL-ARM23
+  rotate: false
+  xy: 2809, 463
+  size: 112, 300
+  orig: 112, 300
+  offset: 0, 0
+  index: -1
+VEL-BODY
+  rotate: true
+  xy: 2595, 892
+  size: 360, 531
+  orig: 360, 531
+  offset: 0, 0
+  index: -1
+VEL-DRESS1
+  rotate: false
+  xy: 2608, 1260
+  size: 1029, 779
+  orig: 1029, 779
+  offset: 0, 0
+  index: -1
+VEL-DRESS22
+  rotate: false
+  xy: 3134, 947
+  size: 541, 305
+  orig: 541, 305
+  offset: 0, 0
+  index: -1
+VEL-DRESS24
+  rotate: false
+  xy: 8, 78
+  size: 710, 219
+  orig: 710, 219
+  offset: 0, 0
+  index: -1
+VEL-FEET11
+  rotate: true
+  xy: 2193, 105
+  size: 247, 265
+  orig: 247, 265
+  offset: 0, 0
+  index: -1
+VEL-FEET12
+  rotate: false
+  xy: 3645, 1273
+  size: 339, 766
+  orig: 339, 766
+  offset: 0, 0
+  index: -1
+VEL-FEET21
+  rotate: true
+  xy: 1864, 119
+  size: 236, 321
+  orig: 236, 321
+  offset: 0, 0
+  index: -1
+VEL-HAIR1
+  rotate: false
+  xy: 1528, 88
+  size: 328, 267
+  orig: 328, 267
+  offset: 0, 0
+  index: -1
+VEL-HAIR10
+  rotate: false
+  xy: 3791, 761
+  size: 235, 178
+  orig: 235, 178
+  offset: 0, 0
+  index: -1
+VEL-HAIR5
+  rotate: false
+  xy: 2310, 360
+  size: 275, 477
+  orig: 275, 477
+  offset: 0, 0
+  index: -1
+VEL-HAIR6
+  rotate: true
+  xy: 1174, 28
+  size: 269, 346
+  orig: 269, 346
+  offset: 0, 0
+  index: -1
+VEL-HAIR7
+  rotate: true
+  xy: 2466, 95
+  size: 257, 171
+  orig: 257, 171
+  offset: 0, 0
+  index: -1
+VEL-HAIR9
+  rotate: false
+  xy: 2593, 494
+  size: 208, 269
+  orig: 208, 269
+  offset: 0, 0
+  index: -1
+VEL-HEAD
+  rotate: false
+  xy: 3683, 947
+  size: 311, 318
+  orig: 311, 318
+  offset: 0, 0
+  index: -1
+VEL-LIGHT
+  rotate: false
+  xy: 726, 8
+  size: 440, 289
+  orig: 440, 289
+  offset: 0, 0
+  index: -1
+VEL-PAULDRON1
+  rotate: false
+  xy: 3169, 553
+  size: 238, 236
+  orig: 238, 236
+  offset: 0, 0
+  index: -1
+VEL-PAULDRON2
+  rotate: false
+  xy: 2929, 518
+  size: 232, 245
+  orig: 232, 245
+  offset: 0, 0
+  index: -1

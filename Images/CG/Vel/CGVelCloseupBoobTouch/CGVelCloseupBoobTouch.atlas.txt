@@ -1,0 +1,144 @@
+
+CGVelCloseupBoobTouch.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SHADOW1
+  rotate: true
+  xy: 3764, 3623
+  size: 439, 227
+  orig: 439, 227
+  offset: 0, 0
+  index: -1
+SHADOW2
+  rotate: false
+  xy: 3008, 59
+  size: 533, 527
+  orig: 533, 527
+  offset: 0, 0
+  index: -1
+SHADOW3
+  rotate: false
+  xy: 3008, 594
+  size: 563, 686
+  orig: 563, 686
+  offset: 0, 0
+  index: -1
+VEL-BOOB
+  rotate: false
+  xy: 8, 17
+  size: 1310, 1263
+  orig: 1310, 1263
+  offset: 0, 0
+  index: -1
+VEL-DRESS1
+  rotate: false
+  xy: 8, 1288
+  size: 3748, 2774
+  orig: 3748, 2774
+  offset: 0, 0
+  index: -1
+VEL-DRESS2
+  rotate: false
+  xy: 1326, 90
+  size: 1674, 1190
+  orig: 1674, 1190
+  offset: 0, 0
+  index: -1
+VEL-GOLD
+  rotate: true
+  xy: 3764, 3205
+  size: 410, 112
+  orig: 410, 112
+  offset: 0, 0
+  index: -1
+VEL-STRAP1
+  rotate: true
+  xy: 3579, 8
+  size: 630, 415
+  orig: 630, 415
+  offset: 0, 0
+  index: -1
+VEL-STRAP2
+  rotate: true
+  xy: 3579, 646
+  size: 634, 461
+  orig: 634, 461
+  offset: 0, 0
+  index: -1
+
+CGVelCloseupBoobTouch2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SQUIRE-SHADOW
+  rotate: true
+  xy: 3611, 2695
+  size: 1333, 470
+  orig: 1333, 470
+  offset: 0, 0
+  index: -1
+VEL-ARM12
+  rotate: true
+  xy: 1453, 739
+  size: 507, 1641
+  orig: 507, 1641
+  offset: 0, 0
+  index: -1
+VEL-HAIR
+  rotate: false
+  xy: 8, 8
+  size: 758, 398
+  orig: 758, 398
+  offset: 0, 0
+  index: -1
+VEL-LIGHTING
+  rotate: false
+  xy: 8, 414
+  size: 1437, 832
+  orig: 1437, 832
+  offset: 0, 0
+  index: -1
+VEL-TORSO
+  rotate: false
+  xy: 8, 1254
+  size: 3595, 2774
+  orig: 3595, 2774
+  offset: 0, 0
+  index: -1
+
+CGVelCloseupBoobTouch3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1484, 2678
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+SQUIRE-HAND
+  rotate: false
+  xy: 2147, 611
+  size: 1475, 2059
+  orig: 1475, 2059
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: true
+  xy: 8, 8
+  size: 1644, 2131
+  orig: 1644, 2131
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: false
+  xy: 8, 1660
+  size: 1468, 2405
+  orig: 1468, 2405
+  offset: 0, 0
+  index: -1

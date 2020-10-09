@@ -1,0 +1,75 @@
+
+CGGiselleCloseupPantyShot.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-DRESS12SM
+  rotate: false
+  xy: 8, 1882
+  size: 3446, 2101
+  orig: 3446, 2101
+  offset: 0, 0
+  index: -1
+GISELLE-THIGHS
+  rotate: false
+  xy: 8, 8
+  size: 3480, 1866
+  orig: 3480, 1866
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 3462, 3706
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY1
+  rotate: false
+  xy: 3462, 3421
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY2
+  rotate: false
+  xy: 3462, 3136
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+
+CGGiselleCloseupPantyShot2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: false
+  xy: 8, 2092
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS11
+  rotate: true
+  xy: 1335, 660
+  size: 1424, 797
+  orig: 1424, 797
+  offset: 0, 0
+  index: -1
+GISELLE-LEG11
+  rotate: false
+  xy: 8, 8
+  size: 1319, 2076
+  orig: 1319, 2076
+  offset: 0, 0
+  index: -1
+GISELLE-LEG21
+  rotate: false
+  xy: 2411, 705
+  size: 940, 2774
+  orig: 940, 2774
+  offset: 0, 0
+  index: -1

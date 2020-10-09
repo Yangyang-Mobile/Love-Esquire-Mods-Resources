@@ -1,0 +1,326 @@
+
+CGKamalaHoldingSwordSquire.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: false
+  xy: 1284, 2701
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+BG-THING
+  rotate: true
+  xy: 1679, 347
+  size: 1429, 1920
+  orig: 1429, 1920
+  offset: 0, 0
+  index: -1
+KAMALA-BODY1
+  rotate: true
+  xy: 3607, 276
+  size: 738, 471
+  orig: 738, 471
+  offset: 0, 0
+  index: -1
+KAMALA-BODY4
+  rotate: false
+  xy: 8, 29
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+KAMALA-BODY5
+  rotate: false
+  xy: 1284, 1784
+  size: 2371, 909
+  orig: 2371, 909
+  offset: 0, 0
+  index: -1
+KAMALA-CORNEA
+  rotate: false
+  xy: 1284, 1622
+  size: 157, 154
+  orig: 157, 154
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS2
+  rotate: false
+  xy: 2987, 151
+  size: 540, 188
+  orig: 540, 188
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS3
+  rotate: true
+  xy: 2374, 148
+  size: 191, 605
+  orig: 191, 605
+  offset: 0, 0
+  index: -1
+KAMALA-EARRINGS11
+  rotate: false
+  xy: 2510, 30
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+KAMALA-EARRINGS12
+  rotate: false
+  xy: 1284, 1542
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+KAMALA-EARRINGS21
+  rotate: false
+  xy: 1449, 1652
+  size: 81, 124
+  orig: 81, 124
+  offset: 0, 0
+  index: -1
+KAMALA-EARRINGS22
+  rotate: false
+  xy: 2618, 61
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS1
+  rotate: false
+  xy: 1679, 49
+  size: 687, 290
+  orig: 687, 290
+  offset: 0, 0
+  index: -1
+KAMALA-EYELASHES
+  rotate: true
+  xy: 3607, 1022
+  size: 754, 442
+  orig: 754, 442
+  offset: 0, 0
+  index: -1
+KAMALA-EYELIGHTS
+  rotate: false
+  xy: 3866, 1880
+  size: 113, 79
+  orig: 113, 79
+  offset: 0, 0
+  index: -1
+KAMALA-GEM1
+  rotate: false
+  xy: 3910, 22
+  size: 76, 111
+  orig: 76, 111
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR2
+  rotate: false
+  xy: 8, 74
+  size: 1663, 1458
+  orig: 1663, 1458
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH1
+  rotate: false
+  xy: 3663, 1849
+  size: 195, 110
+  orig: 195, 110
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH2
+  rotate: false
+  xy: 2374, 8
+  size: 128, 132
+  orig: 128, 132
+  offset: 0, 0
+  index: -1
+KAMALA-SCLERA2
+  rotate: true
+  xy: 3687, 2639
+  size: 674, 395
+  orig: 674, 395
+  offset: 0, 0
+  index: -1
+KAMALA-SWORD
+  rotate: false
+  xy: 8, 1540
+  size: 1268, 2548
+  orig: 1268, 2548
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY1
+  rotate: true
+  xy: 3687, 3321
+  size: 767, 391
+  orig: 767, 391
+  offset: 0, 0
+  index: -1
+SQUIRE-GLOVES
+  rotate: false
+  xy: 3535, 17
+  size: 367, 251
+  orig: 367, 251
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR2
+  rotate: false
+  xy: 3663, 1967
+  size: 419, 664
+  orig: 419, 664
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH
+  rotate: false
+  xy: 3910, 141
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+
+CGKamalaHoldingSwordSquire2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM11
+  rotate: true
+  xy: 3233, 3066
+  size: 976, 697
+  orig: 976, 697
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12
+  rotate: true
+  xy: 2736, 22
+  size: 976, 1276
+  orig: 976, 1276
+  offset: 0, 0
+  index: -1
+KAMALA-ARM21
+  rotate: false
+  xy: 3123, 1020
+  size: 643, 529
+  orig: 643, 529
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22
+  rotate: true
+  xy: 1887, 1006
+  size: 1595, 1228
+  orig: 1595, 1228
+  offset: 0, 0
+  index: -1
+KAMALA-BLUSH2
+  rotate: true
+  xy: 1303, 1868
+  size: 858, 576
+  orig: 858, 576
+  offset: 0, 0
+  index: -1
+KAMALA-BODY2
+  rotate: false
+  xy: 8, 2734
+  size: 1881, 1308
+  orig: 1881, 1308
+  offset: 0, 0
+  index: -1
+KAMALA-BODY3
+  rotate: true
+  xy: 8, 1355
+  size: 1371, 1287
+  orig: 1371, 1287
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR1
+  rotate: false
+  xy: 8, 158
+  size: 1461, 1189
+  orig: 1461, 1189
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: true
+  xy: 1897, 2609
+  size: 1433, 1328
+  orig: 1433, 1328
+  offset: 0, 0
+  index: -1
+LIGHTING-SM
+  rotate: true
+  xy: 3774, 1070
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY2
+  rotate: false
+  xy: 1303, 1393
+  size: 564, 467
+  orig: 564, 467
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY3
+  rotate: true
+  xy: 3233, 2650
+  size: 408, 422
+  orig: 408, 422
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR1
+  rotate: true
+  xy: 1477, 8
+  size: 990, 1251
+  orig: 990, 1251
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: false
+  xy: 3123, 1557
+  size: 951, 1044
+  orig: 951, 1044
+  offset: 0, 0
+  index: -1
+
+CGKamalaHoldingSwordSquire3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-DRESS1
+  rotate: true
+  xy: 8, 8
+  size: 355, 616
+  orig: 355, 616
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS2
+  rotate: false
+  xy: 8, 371
+  size: 700, 340
+  orig: 700, 340
+  offset: 0, 0
+  index: -1
+LIGHTING-SPARKLE-SM
+  rotate: false
+  xy: 2207, 1370
+  size: 509, 509
+  orig: 509, 509
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM
+  rotate: false
+  xy: 1282, 898
+  size: 917, 981
+  orig: 917, 981
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY4
+  rotate: false
+  xy: 8, 719
+  size: 1266, 1160
+  orig: 1266, 1160
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,493 @@
+
+CGKamalaBadEndingKnife.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-CABINET
+  rotate: false
+  xy: 8, 1487
+  size: 1937, 2600
+  orig: 1937, 2600
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 89
+  size: 2398, 1390
+  orig: 2398, 1390
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12
+  rotate: true
+  xy: 2414, 222
+  size: 1706, 1227
+  orig: 1706, 1227
+  offset: 0, 0
+  index: -1
+KAMALA-ARM222
+  rotate: false
+  xy: 3649, 1047
+  size: 312, 881
+  orig: 312, 881
+  offset: 0, 0
+  index: -1
+KAMALA-BRACELET11
+  rotate: true
+  xy: 3125, 32
+  size: 182, 301
+  orig: 182, 301
+  offset: 0, 0
+  index: -1
+KAMALA-BRACELET21
+  rotate: true
+  xy: 3676, 14
+  size: 220, 316
+  orig: 220, 316
+  offset: 0, 0
+  index: -1
+KAMALA-BRACELET52
+  rotate: false
+  xy: 3434, 31
+  size: 234, 183
+  orig: 234, 183
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS1
+  rotate: true
+  xy: 1953, 1936
+  size: 2151, 2088
+  orig: 2151, 2088
+  offset: 0, 0
+  index: -1
+KAMALA-GEM1
+  rotate: true
+  xy: 8, 35
+  size: 46, 83
+  orig: 46, 83
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR2
+  rotate: false
+  xy: 3649, 242
+  size: 380, 797
+  orig: 380, 797
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH
+  rotate: true
+  xy: 3969, 1779
+  size: 149, 115
+  orig: 149, 115
+  offset: 0, 0
+  index: -1
+KAMALA-SWEAT
+  rotate: false
+  xy: 2414, 8
+  size: 703, 206
+  orig: 703, 206
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR32
+  rotate: false
+  xy: 1953, 1514
+  size: 400, 414
+  orig: 400, 414
+  offset: 0, 0
+  index: -1
+
+CGKamalaBadEndingKnife2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-FLOWER
+  rotate: false
+  xy: 8, 1481
+  size: 1240, 2600
+  orig: 1240, 2600
+  offset: 0, 0
+  index: -1
+BG-PILLOW
+  rotate: false
+  xy: 2435, 2888
+  size: 1645, 1193
+  orig: 1645, 1193
+  offset: 0, 0
+  index: -1
+KAMALA-ARM11
+  rotate: true
+  xy: 3501, 512
+  size: 1541, 585
+  orig: 1541, 585
+  offset: 0, 0
+  index: -1
+KAMALA-ARM2 1
+  rotate: false
+  xy: 8, 8
+  size: 878, 1465
+  orig: 878, 1465
+  offset: 0, 0
+  index: -1
+KAMALA-BRACELET31
+  rotate: false
+  xy: 3273, 331
+  size: 209, 298
+  orig: 209, 298
+  offset: 0, 0
+  index: -1
+KAMALA-BRACELET32
+  rotate: false
+  xy: 3564, 71
+  size: 169, 256
+  orig: 169, 256
+  offset: 0, 0
+  index: -1
+KAMALA-BRACELET41
+  rotate: false
+  xy: 3273, 13
+  size: 283, 310
+  orig: 283, 310
+  offset: 0, 0
+  index: -1
+KAMALA-BRACELET6
+  rotate: false
+  xy: 3490, 335
+  size: 270, 169
+  orig: 270, 169
+  offset: 0, 0
+  index: -1
+KAMALA-CORNEA
+  rotate: false
+  xy: 3273, 1265
+  size: 217, 301
+  orig: 217, 301
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS2
+  rotate: false
+  xy: 2201, 13
+  size: 1064, 1507
+  orig: 1064, 1507
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS3
+  rotate: true
+  xy: 894, 81
+  size: 1392, 1299
+  orig: 1392, 1299
+  offset: 0, 0
+  index: -1
+KAMALA-EYELASHES
+  rotate: false
+  xy: 3768, 44
+  size: 298, 460
+  orig: 298, 460
+  offset: 0, 0
+  index: -1
+KAMALA-EYELIGHTS
+  rotate: false
+  xy: 3273, 951
+  size: 212, 306
+  orig: 212, 306
+  offset: 0, 0
+  index: -1
+KAMALA-EYELIGHTS2
+  rotate: false
+  xy: 3273, 637
+  size: 212, 306
+  orig: 212, 306
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR3
+  rotate: false
+  xy: 2913, 1533
+  size: 295, 520
+  orig: 295, 520
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR6
+  rotate: false
+  xy: 2435, 1532
+  size: 470, 521
+  orig: 470, 521
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3216, 1574
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: false
+  xy: 3273, 2061
+  size: 784, 819
+  orig: 784, 819
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY1
+  rotate: true
+  xy: 1256, 1528
+  size: 2553, 1171
+  orig: 2553, 1171
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK1
+  rotate: false
+  xy: 2435, 2195
+  size: 820, 685
+  orig: 820, 685
+  offset: 0, 0
+  index: -1
+
+CGKamalaBadEndingKnife3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-BODY1
+  rotate: true
+  xy: 2569, 1663
+  size: 2414, 1504
+  orig: 2414, 1504
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS1
+  rotate: true
+  xy: 3161, 8
+  size: 693, 887
+  orig: 693, 887
+  offset: 0, 0
+  index: -1
+KAMALA-BRACELET22
+  rotate: false
+  xy: 1575, 542
+  size: 157, 279
+  orig: 157, 279
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR8
+  rotate: false
+  xy: 1772, 1683
+  size: 653, 1215
+  orig: 653, 1215
+  offset: 0, 0
+  index: -1
+KAMALA-LEG1
+  rotate: false
+  xy: 8, 829
+  size: 1756, 2069
+  orig: 1756, 2069
+  offset: 0, 0
+  index: -1
+KAMALA-NECK
+  rotate: false
+  xy: 2319, 24
+  size: 463, 435
+  orig: 463, 435
+  offset: 0, 0
+  index: -1
+KAMALA-SCLERA
+  rotate: false
+  xy: 2790, 36
+  size: 290, 423
+  orig: 290, 423
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY2
+  rotate: false
+  xy: 8, 2906
+  size: 2553, 1171
+  orig: 2553, 1171
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR2
+  rotate: true
+  xy: 1575, 16
+  size: 443, 736
+  orig: 443, 736
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: false
+  xy: 3161, 709
+  size: 910, 946
+  orig: 910, 946
+  offset: 0, 0
+  index: -1
+SQUIRE-LEG1
+  rotate: false
+  xy: 8, 63
+  size: 1559, 758
+  orig: 1559, 758
+  offset: 0, 0
+  index: -1
+SQUIRE-LEG2
+  rotate: false
+  xy: 1772, 467
+  size: 1381, 1188
+  orig: 1381, 1188
+  offset: 0, 0
+  index: -1
+
+CGKamalaBadEndingKnife4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-CURTAINS
+  rotate: false
+  xy: 941, 2784
+  size: 972, 1238
+  orig: 972, 1238
+  offset: 0, 0
+  index: -1
+BRACELET4 2
+  rotate: true
+  xy: 2241, 1710
+  size: 223, 232
+  orig: 223, 232
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS2
+  rotate: true
+  xy: 757, 124
+  size: 739, 747
+  orig: 739, 747
+  offset: 0, 0
+  index: -1
+KAMALA-BRACELET12
+  rotate: true
+  xy: 8, 8
+  size: 139, 266
+  orig: 139, 266
+  offset: 0, 0
+  index: -1
+KAMALA-BRACELET51
+  rotate: false
+  xy: 2241, 1941
+  size: 271, 237
+  orig: 271, 237
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS4
+  rotate: true
+  xy: 2984, 2785
+  size: 392, 723
+  orig: 392, 723
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS
+  rotate: false
+  xy: 3823, 3619
+  size: 236, 403
+  orig: 236, 403
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR1
+  rotate: false
+  xy: 2984, 3185
+  size: 831, 837
+  orig: 831, 837
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR5
+  rotate: false
+  xy: 1822, 1729
+  size: 411, 475
+  orig: 411, 475
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR7
+  rotate: true
+  xy: 2322, 2186
+  size: 738, 534
+  orig: 738, 534
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR9
+  rotate: false
+  xy: 873, 871
+  size: 963, 640
+  orig: 963, 640
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR92
+  rotate: false
+  xy: 8, 2251
+  size: 925, 1771
+  orig: 925, 1771
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: false
+  xy: 1921, 2932
+  size: 1055, 1090
+  orig: 1055, 1090
+  offset: 0, 0
+  index: -1
+LIGHTING-SPARKLE1
+  rotate: false
+  xy: 2520, 1932
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: true
+  xy: 8, 155
+  size: 913, 741
+  orig: 913, 741
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM2
+  rotate: false
+  xy: 941, 2212
+  size: 1373, 564
+  orig: 1373, 564
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR1
+  rotate: false
+  xy: 8, 1076
+  size: 857, 1167
+  orig: 857, 1167
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR31
+  rotate: true
+  xy: 1512, 105
+  size: 758, 372
+  orig: 758, 372
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH
+  rotate: false
+  xy: 1822, 1573
+  size: 166, 148
+  orig: 166, 148
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH2
+  rotate: false
+  xy: 1996, 1573
+  size: 166, 148
+  orig: 166, 148
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK2
+  rotate: false
+  xy: 873, 1519
+  size: 941, 685
+  orig: 941, 685
+  offset: 0, 0
+  index: -1
+SQUIRE-SWEAT
+  rotate: false
+  xy: 3823, 3319
+  size: 254, 292
+  orig: 254, 292
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,474 @@
+
+CGVictoryWar.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-CROWD2-SM
+  rotate: false
+  xy: 8, 2799
+  size: 2395, 1289
+  orig: 2395, 1289
+  offset: 0, 0
+  index: -1
+BG-CROWD3-SM
+  rotate: true
+  xy: 3631, 926
+  size: 1133, 374
+  orig: 1133, 374
+  offset: 0, 0
+  index: -1
+BG-FLAG2
+  rotate: true
+  xy: 2284, 89
+  size: 132, 486
+  orig: 132, 486
+  offset: 0, 0
+  index: -1
+BG-FLAG4
+  rotate: false
+  xy: 2303, 229
+  size: 647, 814
+  orig: 647, 814
+  offset: 0, 0
+  index: -1
+BG-HELMETS
+  rotate: false
+  xy: 896, 74
+  size: 363, 119
+  orig: 363, 119
+  offset: 0, 0
+  index: -1
+BG-ROCKS
+  rotate: true
+  xy: 2958, 12
+  size: 968, 565
+  orig: 968, 565
+  offset: 0, 0
+  index: -1
+BG-SOLDIER1
+  rotate: false
+  xy: 2962, 988
+  size: 661, 1769
+  orig: 661, 1769
+  offset: 0, 0
+  index: -1
+BG-SOLDIER2
+  rotate: false
+  xy: 917, 1033
+  size: 1263, 1758
+  orig: 1263, 1758
+  offset: 0, 0
+  index: -1
+BG-SOLDIER4
+  rotate: false
+  xy: 2188, 1051
+  size: 766, 1706
+  orig: 766, 1706
+  offset: 0, 0
+  index: -1
+BG-SOLDIER5
+  rotate: true
+  xy: 2411, 2765
+  size: 625, 1410
+  orig: 625, 1410
+  offset: 0, 0
+  index: -1
+BG-SOLDIER7
+  rotate: true
+  xy: 2411, 3398
+  size: 690, 1571
+  orig: 690, 1571
+  offset: 0, 0
+  index: -1
+BG-SOLDIER71
+  rotate: true
+  xy: 917, 201
+  size: 221, 813
+  orig: 221, 813
+  offset: 0, 0
+  index: -1
+HUGH-ARM13
+  rotate: true
+  xy: 1738, 68
+  size: 354, 538
+  orig: 354, 538
+  offset: 0, 0
+  index: -1
+HUGH-ARM16
+  rotate: false
+  xy: 2778, 26
+  size: 168, 195
+  orig: 168, 195
+  offset: 0, 0
+  index: -1
+HUGH-ARM23
+  rotate: false
+  xy: 3829, 2818
+  size: 209, 572
+  orig: 209, 572
+  offset: 0, 0
+  index: -1
+HUGH-BOTTOM2
+  rotate: true
+  xy: 3825, 15
+  size: 216, 202
+  orig: 216, 202
+  offset: 0, 0
+  index: -1
+HUGH-EYEBROWS
+  rotate: false
+  xy: 3829, 2765
+  size: 176, 45
+  orig: 176, 45
+  offset: 0, 0
+  index: -1
+HUGH-EYES
+  rotate: true
+  xy: 4013, 1896
+  size: 163, 31
+  orig: 163, 31
+  offset: 0, 0
+  index: -1
+HUGH-HAIR1
+  rotate: false
+  xy: 1592, 16
+  size: 132, 177
+  orig: 132, 177
+  offset: 0, 0
+  index: -1
+HUGH-LEG1
+  rotate: true
+  xy: 917, 430
+  size: 595, 1378
+  orig: 595, 1378
+  offset: 0, 0
+  index: -1
+HUGH-LEG22
+  rotate: false
+  xy: 3531, 239
+  size: 498, 679
+  orig: 498, 679
+  offset: 0, 0
+  index: -1
+HUGH-RED3
+  rotate: false
+  xy: 3531, 8
+  size: 286, 223
+  orig: 286, 223
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM22
+  rotate: true
+  xy: 1267, 64
+  size: 129, 317
+  orig: 129, 317
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM23
+  rotate: false
+  xy: 8, 401
+  size: 901, 2390
+  orig: 901, 2390
+  offset: 0, 0
+  index: -1
+SQUIRE-FLAG1
+  rotate: true
+  xy: 8, 110
+  size: 283, 880
+  orig: 283, 880
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH
+  rotate: false
+  xy: 3990, 4003
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+SQUIRE-TORSO
+  rotate: false
+  xy: 3631, 2067
+  size: 457, 690
+  orig: 457, 690
+  offset: 0, 0
+  index: -1
+
+CGVictoryWar2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-FLAG1
+  rotate: true
+  xy: 3470, 3590
+  size: 462, 581
+  orig: 462, 581
+  offset: 0, 0
+  index: -1
+BG-FLAG3
+  rotate: false
+  xy: 1969, 1775
+  size: 255, 269
+  orig: 255, 269
+  offset: 0, 0
+  index: -1
+BG-ROCKS2
+  rotate: true
+  xy: 606, 1126
+  size: 785, 343
+  orig: 785, 343
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 2853
+  size: 1197, 693
+  orig: 1197, 693
+  offset: 0, 0
+  index: -1
+BG-SOLDIER3
+  rotate: false
+  xy: 8, 682
+  size: 590, 1229
+  orig: 590, 1229
+  offset: 0, 0
+  index: -1
+BG-SOLDIER51
+  rotate: false
+  xy: 3453, 3077
+  size: 264, 302
+  orig: 264, 302
+  offset: 0, 0
+  index: -1
+BG-SOLDIER52
+  rotate: false
+  xy: 1298, 1213
+  size: 115, 130
+  orig: 115, 130
+  offset: 0, 0
+  index: -1
+BG-SOLDIER6
+  rotate: true
+  xy: 2226, 3474
+  size: 578, 1236
+  orig: 578, 1236
+  offset: 0, 0
+  index: -1
+BG-SOLDIER72
+  rotate: false
+  xy: 3725, 3083
+  size: 268, 296
+  orig: 268, 296
+  offset: 0, 0
+  index: -1
+DEADGEGNER
+  rotate: false
+  xy: 8, 3554
+  size: 2210, 498
+  orig: 2210, 498
+  offset: 0, 0
+  index: -1
+HUGH-ARM11
+  rotate: false
+  xy: 2210, 2409
+  size: 362, 411
+  orig: 362, 411
+  offset: 0, 0
+  index: -1
+HUGH-ARM12
+  rotate: false
+  xy: 1298, 1351
+  size: 139, 205
+  orig: 139, 205
+  offset: 0, 0
+  index: -1
+HUGH-ARM14
+  rotate: false
+  xy: 606, 680
+  size: 344, 438
+  orig: 344, 438
+  offset: 0, 0
+  index: -1
+HUGH-ARM15
+  rotate: false
+  xy: 2092, 2162
+  size: 104, 170
+  orig: 104, 170
+  offset: 0, 0
+  index: -1
+HUGH-ARM17
+  rotate: true
+  xy: 958, 665
+  size: 118, 122
+  orig: 118, 122
+  offset: 0, 0
+  index: -1
+HUGH-ARM21
+  rotate: false
+  xy: 1296, 1728
+  size: 317, 321
+  orig: 317, 321
+  offset: 0, 0
+  index: -1
+HUGH-ARM22
+  rotate: false
+  xy: 957, 1551
+  size: 331, 412
+  orig: 331, 412
+  offset: 0, 0
+  index: -1
+HUGH-BOTTOM1
+  rotate: true
+  xy: 604, 8
+  size: 664, 290
+  orig: 664, 290
+  offset: 0, 0
+  index: -1
+HUGH-BOTTOM3
+  rotate: false
+  xy: 2580, 2429
+  size: 154, 151
+  orig: 154, 151
+  offset: 0, 0
+  index: -1
+HUGH-HAIR2
+  rotate: true
+  xy: 3900, 3427
+  size: 155, 188
+  orig: 155, 188
+  offset: 0, 0
+  index: -1
+HUGH-HAIR3
+  rotate: false
+  xy: 1664, 2052
+  size: 420, 280
+  orig: 420, 280
+  offset: 0, 0
+  index: -1
+HUGH-HEAD
+  rotate: true
+  xy: 957, 1162
+  size: 381, 333
+  orig: 381, 333
+  offset: 0, 0
+  index: -1
+HUGH-LEG21
+  rotate: true
+  xy: 8, 9
+  size: 665, 588
+  orig: 665, 588
+  offset: 0, 0
+  index: -1
+HUGH-MOUTH
+  rotate: false
+  xy: 1088, 668
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+HUGH-RED1
+  rotate: true
+  xy: 1207, 2342
+  size: 408, 559
+  orig: 408, 559
+  offset: 0, 0
+  index: -1
+HUGH-RED2
+  rotate: true
+  xy: 2753, 3011
+  size: 455, 692
+  orig: 455, 692
+  offset: 0, 0
+  index: -1
+HUGH-RED4
+  rotate: true
+  xy: 2753, 2661
+  size: 342, 689
+  orig: 342, 689
+  offset: 0, 0
+  index: -1
+HUGH-RED5
+  rotate: true
+  xy: 1296, 1564
+  size: 156, 206
+  orig: 156, 206
+  offset: 0, 0
+  index: -1
+HUGH-RED6
+  rotate: false
+  xy: 2580, 2588
+  size: 156, 232
+  orig: 156, 232
+  offset: 0, 0
+  index: -1
+HUGH-SWORD
+  rotate: false
+  xy: 8, 1919
+  size: 906, 926
+  orig: 906, 926
+  offset: 0, 0
+  index: -1
+HUGH-TORSO1
+  rotate: false
+  xy: 2189, 2828
+  size: 556, 638
+  orig: 556, 638
+  offset: 0, 0
+  index: -1
+HUGH-TORSO2
+  rotate: false
+  xy: 1774, 2340
+  size: 428, 410
+  orig: 428, 410
+  offset: 0, 0
+  index: -1
+LIGHTING1
+  rotate: true
+  xy: 922, 2366
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING2
+  rotate: false
+  xy: 1177, 2057
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: true
+  xy: 3470, 3387
+  size: 195, 422
+  orig: 195, 422
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: false
+  xy: 922, 1971
+  size: 247, 387
+  orig: 247, 387
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM21
+  rotate: false
+  xy: 958, 791
+  size: 329, 363
+  orig: 329, 363
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: true
+  xy: 1621, 1765
+  size: 279, 340
+  orig: 279, 340
+  offset: 0, 0
+  index: -1
+SQUIRE-LEGS
+  rotate: true
+  xy: 1213, 2758
+  size: 788, 968
+  orig: 788, 968
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,152 @@
+
+CGAmyCloseupLicking.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMELIE-BODY3
+  rotate: true
+  xy: 3260, 169
+  size: 898, 629
+  orig: 898, 629
+  offset: 0, 0
+  index: -1
+AMELIE-FOOD
+  rotate: false
+  xy: 3897, 853
+  size: 165, 214
+  orig: 165, 214
+  offset: 0, 0
+  index: -1
+AMELIE-FOOD2
+  rotate: false
+  xy: 3260, 1075
+  size: 720, 601
+  orig: 720, 601
+  offset: 0, 0
+  index: -1
+AMELIE-HAIR3
+  rotate: false
+  xy: 8, 1307
+  size: 2229, 2778
+  orig: 2229, 2778
+  offset: 0, 0
+  index: -1
+AMELIE-HAND1
+  rotate: false
+  xy: 1807, 13
+  size: 396, 854
+  orig: 396, 854
+  offset: 0, 0
+  index: -1
+AMELIE-HAND2
+  rotate: true
+  xy: 3260, 1684
+  size: 665, 777
+  orig: 665, 777
+  offset: 0, 0
+  index: -1
+AMELIE-HAND4
+  rotate: false
+  xy: 8, 59
+  size: 693, 1240
+  orig: 693, 1240
+  offset: 0, 0
+  index: -1
+AMELIE-HAND5
+  rotate: false
+  xy: 709, 129
+  size: 1090, 1170
+  orig: 1090, 1170
+  offset: 0, 0
+  index: -1
+AMELIE-HEAD
+  rotate: true
+  xy: 2245, 8
+  size: 2341, 1007
+  orig: 2341, 1007
+  offset: 0, 0
+  index: -1
+AMELIE-MOUTH
+  rotate: false
+  xy: 1807, 875
+  size: 428, 424
+  orig: 428, 424
+  offset: 0, 0
+  index: -1
+AMELIE-NECK
+  rotate: false
+  xy: 2245, 2357
+  size: 1793, 1728
+  orig: 1793, 1728
+  offset: 0, 0
+  index: -1
+
+CGAmyCloseupLicking2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMELIE-BODY1
+  rotate: true
+  xy: 8, 8
+  size: 1852, 1095
+  orig: 1852, 1095
+  offset: 0, 0
+  index: -1
+AMELIE-BODY2
+  rotate: false
+  xy: 1731, 2059
+  size: 1140, 999
+  orig: 1140, 999
+  offset: 0, 0
+  index: -1
+AMELIE-HAIR1
+  rotate: false
+  xy: 1111, 295
+  size: 461, 459
+  orig: 461, 459
+  offset: 0, 0
+  index: -1
+AMELIE-HAIR2
+  rotate: true
+  xy: 3336, 3113
+  size: 878, 377
+  orig: 878, 377
+  offset: 0, 0
+  index: -1
+AMELIE-HAIR4
+  rotate: false
+  xy: 8, 1868
+  size: 1715, 2123
+  orig: 1715, 2123
+  offset: 0, 0
+  index: -1
+AMELIE-HAND3
+  rotate: false
+  xy: 1111, 762
+  size: 584, 1098
+  orig: 584, 1098
+  offset: 0, 0
+  index: -1
+AMELIE-TONGUE
+  rotate: true
+  xy: 2879, 2556
+  size: 502, 339
+  orig: 502, 339
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 1731, 3066
+  size: 1597, 925
+  orig: 1597, 925
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3721, 3507
+  size: 484, 284
+  orig: 484, 284
+  offset: 0, 0
+  index: -1

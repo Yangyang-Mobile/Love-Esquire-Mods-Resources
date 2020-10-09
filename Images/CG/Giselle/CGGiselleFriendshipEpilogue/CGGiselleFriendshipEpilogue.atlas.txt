@@ -1,0 +1,222 @@
+
+CGGiselleFriendshipEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SMLL
+  rotate: false
+  xy: 8, 2702
+  size: 2395, 1386
+  orig: 2395, 1386
+  offset: 0, 0
+  index: -1
+GISELLE-ARM-14
+  rotate: false
+  xy: 8, 14
+  size: 886, 398
+  orig: 886, 398
+  offset: 0, 0
+  index: -1
+GISELLE-ARM11
+  rotate: false
+  xy: 3612, 330
+  size: 313, 470
+  orig: 313, 470
+  offset: 0, 0
+  index: -1
+GISELLE-ARM12
+  rotate: true
+  xy: 2853, 383
+  size: 188, 267
+  orig: 188, 267
+  offset: 0, 0
+  index: -1
+GISELLE-ARM13
+  rotate: true
+  xy: 2134, 80
+  size: 279, 304
+  orig: 279, 304
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: true
+  xy: 3465, 2640
+  size: 395, 623
+  orig: 395, 623
+  offset: 0, 0
+  index: -1
+GISELLE-CAPE1
+  rotate: false
+  xy: 3236, 1295
+  size: 628, 671
+  orig: 628, 671
+  offset: 0, 0
+  index: -1
+GISELLE-CAPE2
+  rotate: false
+  xy: 3872, 1307
+  size: 96, 232
+  orig: 96, 232
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS
+  rotate: true
+  xy: 3872, 1547
+  size: 419, 106
+  orig: 419, 106
+  offset: 0, 0
+  index: -1
+GISELLE-EYELASH
+  rotate: true
+  xy: 3867, 3676
+  size: 412, 161
+  orig: 412, 161
+  offset: 0, 0
+  index: -1
+GISELLE-FILTER
+  rotate: true
+  xy: 3612, 808
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: false
+  xy: 2484, 579
+  size: 636, 679
+  orig: 636, 679
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: true
+  xy: 1508, 102
+  size: 257, 618
+  orig: 257, 618
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR3
+  rotate: true
+  xy: 902, 79
+  size: 333, 598
+  orig: 333, 598
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR4
+  rotate: true
+  xy: 2352, 1266
+  size: 257, 876
+  orig: 257, 876
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR5
+  rotate: true
+  xy: 1522, 367
+  size: 703, 954
+  orig: 703, 954
+  offset: 0, 0
+  index: -1
+GISELLE-HAT
+  rotate: true
+  xy: 2484, 8
+  size: 563, 361
+  orig: 563, 361
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD
+  rotate: false
+  xy: 3465, 1974
+  size: 538, 658
+  orig: 538, 658
+  offset: 0, 0
+  index: -1
+GISELLE-LIGHTING
+  rotate: true
+  xy: 3231, 15
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+GISELLE-LIPS
+  rotate: false
+  xy: 2352, 1201
+  size: 121, 57
+  orig: 121, 57
+  offset: 0, 0
+  index: -1
+GISELLE-NECK
+  rotate: true
+  xy: 2853, 59
+  size: 316, 370
+  orig: 316, 370
+  offset: 0, 0
+  index: -1
+GISELLE-PAPERBAG
+  rotate: false
+  xy: 8, 1068
+  size: 1486, 1626
+  orig: 1486, 1626
+  offset: 0, 0
+  index: -1
+GISELLE-SKIRT
+  rotate: false
+  xy: 2352, 1531
+  size: 869, 567
+  orig: 869, 567
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: false
+  xy: 1502, 1078
+  size: 842, 1616
+  orig: 842, 1616
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: true
+  xy: 2411, 2106
+  size: 929, 1046
+  orig: 929, 1046
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY
+  rotate: true
+  xy: 8, 420
+  size: 640, 1506
+  orig: 640, 1506
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: true
+  xy: 2411, 3043
+  size: 1045, 1448
+  orig: 1045, 1448
+  offset: 0, 0
+  index: -1
+SQUIRE-SLEEVE1
+  rotate: false
+  xy: 3128, 502
+  size: 476, 756
+  orig: 476, 756
+  offset: 0, 0
+  index: -1
+SQUIRE-SLEEVE2
+  rotate: false
+  xy: 3867, 3454
+  size: 161, 214
+  orig: 161, 214
+  offset: 0, 0
+  index: -1
+
+CGGiselleFriendshipEpilogue2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-CAPE3
+  rotate: false
+  xy: 8, 8
+  size: 564, 494
+  orig: 564, 494
+  offset: 0, 0
+  index: -1

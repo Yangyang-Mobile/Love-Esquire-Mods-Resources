@@ -1,0 +1,179 @@
+
+CGGiselleCloseUpBoobShot.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-ARM11
+  rotate: true
+  xy: 8, 69
+  size: 1935, 2368
+  orig: 1935, 2368
+  offset: 0, 0
+  index: -1
+GISELLE-FACE11
+  rotate: true
+  xy: 3336, 1837
+  size: 2232, 739
+  orig: 2232, 739
+  offset: 0, 0
+  index: -1
+GISELLE-SHOULDERSSM
+  rotate: false
+  xy: 8, 2012
+  size: 3320, 2057
+  orig: 3320, 2057
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO13
+  rotate: true
+  xy: 2384, 8
+  size: 1821, 1392
+  orig: 1821, 1392
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3784, 1350
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY1
+  rotate: true
+  xy: 3784, 863
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY2
+  rotate: true
+  xy: 3784, 376
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+
+CGGiselleCloseUpBoobShot2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: false
+  xy: 2846, 3389
+  size: 1197, 693
+  orig: 1197, 693
+  offset: 0, 0
+  index: -1
+GISELLE-ARM12
+  rotate: false
+  xy: 2846, 2408
+  size: 1121, 973
+  orig: 1121, 973
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: true
+  xy: 2618, 20
+  size: 732, 1037
+  orig: 732, 1037
+  offset: 0, 0
+  index: -1
+GISELLE-BELT
+  rotate: true
+  xy: 2846, 760
+  size: 1640, 1115
+  orig: 1640, 1115
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR15
+  rotate: false
+  xy: 3663, 157
+  size: 384, 595
+  orig: 384, 595
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO11
+  rotate: false
+  xy: 8, 1894
+  size: 2830, 2188
+  orig: 2830, 2188
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO12
+  rotate: true
+  xy: 8, 8
+  size: 1878, 1449
+  orig: 1878, 1449
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO14
+  rotate: true
+  xy: 1465, 92
+  size: 1794, 1145
+  orig: 1794, 1145
+  offset: 0, 0
+  index: -1
+
+CGGiselleCloseUpBoobShot3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-CROSS
+  rotate: false
+  xy: 8, 8
+  size: 589, 502
+  orig: 589, 502
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR11
+  rotate: false
+  xy: 2756, 2729
+  size: 1080, 1327
+  orig: 1080, 1327
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR12
+  rotate: false
+  xy: 1639, 1713
+  size: 683, 796
+  orig: 683, 796
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR14
+  rotate: false
+  xy: 2330, 1590
+  size: 535, 919
+  orig: 535, 919
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH
+  rotate: true
+  xy: 3844, 3481
+  size: 575, 223
+  orig: 575, 223
+  offset: 0, 0
+  index: -1
+GISELLE-NECK
+  rotate: false
+  xy: 8, 518
+  size: 1558, 965
+  orig: 1558, 965
+  offset: 0, 0
+  index: -1
+GISELLE-SKIRT
+  rotate: false
+  xy: 8, 2517
+  size: 2740, 1539
+  orig: 2740, 1539
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO15
+  rotate: false
+  xy: 8, 1491
+  size: 1623, 1018
+  orig: 1623, 1018
+  offset: 0, 0
+  index: -1

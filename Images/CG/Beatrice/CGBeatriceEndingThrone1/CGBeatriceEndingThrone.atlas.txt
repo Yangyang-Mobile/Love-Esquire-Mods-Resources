@@ -1,0 +1,271 @@
+
+CGBeatriceEndingThrone.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM1A
+  rotate: true
+  xy: 2009, 222
+  size: 383, 1653
+  orig: 383, 1653
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM22
+  rotate: false
+  xy: 4, 204
+  size: 1059, 400
+  orig: 1059, 400
+  offset: 0, 0
+  index: -1
+BEATRICE-EYES
+  rotate: false
+  xy: 3670, 382
+  size: 395, 223
+  orig: 395, 223
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE12
+  rotate: false
+  xy: 705, 16
+  size: 289, 180
+  orig: 289, 180
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE13
+  rotate: false
+  xy: 1922, 15
+  size: 389, 199
+  orig: 389, 199
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE14
+  rotate: false
+  xy: 4, 17
+  size: 362, 126
+  orig: 362, 126
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE15
+  rotate: false
+  xy: 4006, 4027
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE21
+  rotate: false
+  xy: 3556, 4
+  size: 231, 139
+  orig: 231, 139
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE24
+  rotate: false
+  xy: 374, 30
+  size: 323, 166
+  orig: 323, 166
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE25
+  rotate: true
+  xy: 2946, 20
+  size: 194, 245
+  orig: 194, 245
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE31
+  rotate: false
+  xy: 3199, 55
+  size: 247, 159
+  orig: 247, 159
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE32
+  rotate: false
+  xy: 2643, 38
+  size: 295, 176
+  orig: 295, 176
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE34
+  rotate: false
+  xy: 2319, 4
+  size: 316, 139
+  orig: 316, 139
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE35
+  rotate: true
+  xy: 1702, 83
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: true
+  xy: 1071, 52
+  size: 552, 623
+  orig: 552, 623
+  offset: 0, 0
+  index: -1
+BEATRICE-NECKLACE
+  rotate: true
+  xy: 1702, 208
+  size: 396, 212
+  orig: 396, 212
+  offset: 0, 0
+  index: -1
+BEATRICE-SCLERA
+  rotate: false
+  xy: 3670, 151
+  size: 395, 223
+  orig: 395, 223
+  offset: 0, 0
+  index: -1
+BG-SMLL
+  rotate: false
+  xy: 2009, 613
+  size: 1996, 1156
+  orig: 1996, 1156
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 4, 1777
+  size: 3994, 2314
+  orig: 3994, 2314
+  offset: 0, 0
+  index: -1
+LIGHTRAYS
+  rotate: false
+  xy: 4, 612
+  size: 1997, 1157
+  orig: 1997, 1157
+  offset: 0, 0
+  index: -1
+SPARKLE1
+  rotate: false
+  xy: 1800, 98
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+SPARKLE2
+  rotate: false
+  xy: 3454, 120
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+
+CGBeatriceEndingThrone2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM1B
+  rotate: true
+  xy: 1711, 545
+  size: 1212, 618
+  orig: 1212, 618
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM21
+  rotate: true
+  xy: 2337, 533
+  size: 358, 696
+  orig: 358, 696
+  offset: 0, 0
+  index: -1
+BEATRICE-BACKFUR
+  rotate: true
+  xy: 4, 153
+  size: 1440, 870
+  orig: 1440, 870
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE11
+  rotate: false
+  xy: 4, 4
+  size: 263, 141
+  orig: 263, 141
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE22
+  rotate: false
+  xy: 882, 155
+  size: 249, 147
+  orig: 249, 147
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: true
+  xy: 3555, 2595
+  size: 619, 506
+  orig: 619, 506
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR3
+  rotate: true
+  xy: 3177, 1188
+  size: 591, 549
+  orig: 591, 549
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR4
+  rotate: false
+  xy: 1003, 1780
+  size: 1012, 1307
+  orig: 1012, 1307
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: false
+  xy: 2337, 899
+  size: 832, 858
+  orig: 832, 858
+  offset: 0, 0
+  index: -1
+BEATRICE-TORSO
+  rotate: true
+  xy: 2023, 1765
+  size: 1322, 825
+  orig: 1322, 825
+  offset: 0, 0
+  index: -1
+BEATRICE-TORSO1
+  rotate: true
+  xy: 882, 310
+  size: 1283, 821
+  orig: 1283, 821
+  offset: 0, 0
+  index: -1
+BEATRICE-TORSO2
+  rotate: false
+  xy: 3007, 3222
+  size: 1033, 660
+  orig: 1033, 660
+  offset: 0, 0
+  index: -1
+CURTAIN1
+  rotate: false
+  xy: 4, 1601
+  size: 991, 2281
+  orig: 991, 2281
+  offset: 0, 0
+  index: -1
+CURTAIN2
+  rotate: true
+  xy: 2856, 1787
+  size: 1300, 691
+  orig: 1300, 691
+  offset: 0, 0
+  index: -1
+PETAL-THRONESMLL
+  rotate: false
+  xy: 1003, 3095
+  size: 1996, 787
+  orig: 1996, 787
+  offset: 0, 0
+  index: -1

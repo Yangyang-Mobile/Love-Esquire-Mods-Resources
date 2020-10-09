@@ -1,0 +1,390 @@
+
+CGOngoingWar.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-DUST
+  rotate: true
+  xy: 3914, 3708
+  size: 384, 144
+  orig: 384, 144
+  offset: 0, 0
+  index: -1
+BG-DUST2
+  rotate: true
+  xy: 3914, 3316
+  size: 384, 144
+  orig: 384, 144
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 4, 2705
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+GEGNER-BODY
+  rotate: true
+  xy: 2407, 2365
+  size: 1727, 1499
+  orig: 1727, 1499
+  offset: 0, 0
+  index: -1
+GEGNER-SHOULDER
+  rotate: false
+  xy: 2480, 21
+  size: 559, 201
+  orig: 559, 201
+  offset: 0, 0
+  index: -1
+GEIGNER-HORSE
+  rotate: true
+  xy: 4, 720
+  size: 1977, 1074
+  orig: 1977, 1074
+  offset: 0, 0
+  index: -1
+HORSE-ACCESSORY
+  rotate: false
+  xy: 887, 158
+  size: 171, 224
+  orig: 171, 224
+  offset: 0, 0
+  index: -1
+HORSE-LEG22
+  rotate: false
+  xy: 2036, 358
+  size: 288, 958
+  orig: 288, 958
+  offset: 0, 0
+  index: -1
+HORSE-RIBBON
+  rotate: false
+  xy: 4, 21
+  size: 875, 691
+  orig: 875, 691
+  offset: 0, 0
+  index: -1
+HORSE-SADDLE2
+  rotate: false
+  xy: 4004, 369
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+HORSE-STRAP2
+  rotate: false
+  xy: 3047, 26
+  size: 598, 196
+  orig: 598, 196
+  offset: 0, 0
+  index: -1
+HORSE-TAIL
+  rotate: false
+  xy: 3582, 1820
+  size: 507, 537
+  orig: 507, 537
+  offset: 0, 0
+  index: -1
+HORSE-TORSO1
+  rotate: true
+  xy: 1086, 1324
+  size: 1373, 1247
+  orig: 1373, 1247
+  offset: 0, 0
+  index: -1
+HUGH-ARM14
+  rotate: false
+  xy: 3715, 700
+  size: 355, 402
+  orig: 355, 402
+  offset: 0, 0
+  index: -1
+HUGH-ARM16
+  rotate: true
+  xy: 887, 46
+  size: 104, 163
+  orig: 104, 163
+  offset: 0, 0
+  index: -1
+HUGH-ARM21
+  rotate: false
+  xy: 2036, 15
+  size: 203, 335
+  orig: 203, 335
+  offset: 0, 0
+  index: -1
+HUGH-ARM22
+  rotate: false
+  xy: 4004, 471
+  size: 85, 221
+  orig: 85, 221
+  offset: 0, 0
+  index: -1
+HUGH-ARM23
+  rotate: true
+  xy: 2247, 4
+  size: 218, 225
+  orig: 218, 225
+  offset: 0, 0
+  index: -1
+HUGH-ARM24
+  rotate: false
+  xy: 3582, 1110
+  size: 469, 702
+  orig: 469, 702
+  offset: 0, 0
+  index: -1
+HUGH-LEG2
+  rotate: false
+  xy: 3715, 10
+  size: 281, 682
+  orig: 281, 682
+  offset: 0, 0
+  index: -1
+SOLDIER1
+  rotate: true
+  xy: 2332, 230
+  size: 872, 1375
+  orig: 872, 1375
+  offset: 0, 0
+  index: -1
+SOLDIER3
+  rotate: false
+  xy: 1086, 60
+  size: 942, 1256
+  orig: 942, 1256
+  offset: 0, 0
+  index: -1
+SOLDIER5
+  rotate: false
+  xy: 887, 390
+  size: 172, 322
+  orig: 172, 322
+  offset: 0, 0
+  index: -1
+SOLIDER4
+  rotate: false
+  xy: 2341, 1110
+  size: 1233, 1247
+  orig: 1233, 1247
+  offset: 0, 0
+  index: -1
+
+CGOngoingWar2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-LIGHTING-SM
+  rotate: true
+  xy: 3200, 3007
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+GEGNER-HEAD
+  rotate: true
+  xy: 1578, 3298
+  size: 748, 954
+  orig: 748, 954
+  offset: 0, 0
+  index: -1
+GEGNER1
+  rotate: false
+  xy: 4, 1544
+  size: 706, 1163
+  orig: 706, 1163
+  offset: 0, 0
+  index: -1
+GEGNER2
+  rotate: true
+  xy: 2540, 3073
+  size: 413, 652
+  orig: 413, 652
+  offset: 0, 0
+  index: -1
+GEGNER3
+  rotate: false
+  xy: 4, 2715
+  size: 740, 1331
+  orig: 740, 1331
+  offset: 0, 0
+  index: -1
+GEGNER4
+  rotate: false
+  xy: 3111, 2561
+  size: 453, 438
+  orig: 453, 438
+  offset: 0, 0
+  index: -1
+HORSE-ACCESSORY1
+  rotate: false
+  xy: 1748, 2702
+  size: 750, 588
+  orig: 750, 588
+  offset: 0, 0
+  index: -1
+HORSE-HEAD
+  rotate: true
+  xy: 2540, 3494
+  size: 552, 911
+  orig: 552, 911
+  offset: 0, 0
+  index: -1
+HORSE-LEG11
+  rotate: false
+  xy: 1192, 1851
+  size: 563, 807
+  orig: 563, 807
+  offset: 0, 0
+  index: -1
+HORSE-LEG12
+  rotate: false
+  xy: 1763, 2018
+  size: 674, 676
+  orig: 674, 676
+  offset: 0, 0
+  index: -1
+HORSE-LEG21
+  rotate: false
+  xy: 1763, 1512
+  size: 574, 498
+  orig: 574, 498
+  offset: 0, 0
+  index: -1
+HORSE-LEG3
+  rotate: true
+  xy: 4, 4
+  size: 538, 727
+  orig: 538, 727
+  offset: 0, 0
+  index: -1
+HORSE-LEG4
+  rotate: true
+  xy: 752, 2666
+  size: 466, 988
+  orig: 466, 988
+  offset: 0, 0
+  index: -1
+HORSE-NECK
+  rotate: false
+  xy: 4, 550
+  size: 632, 986
+  orig: 632, 986
+  offset: 0, 0
+  index: -1
+HORSE-SADDLE1
+  rotate: false
+  xy: 752, 3140
+  size: 818, 906
+  orig: 818, 906
+  offset: 0, 0
+  index: -1
+HORSE-STRAP1
+  rotate: false
+  xy: 3459, 3499
+  size: 605, 547
+  orig: 605, 547
+  offset: 0, 0
+  index: -1
+HUGH-ARM11
+  rotate: false
+  xy: 644, 1071
+  size: 319, 385
+  orig: 319, 385
+  offset: 0, 0
+  index: -1
+HUGH-ARM15
+  rotate: false
+  xy: 1274, 1254
+  size: 240, 254
+  orig: 240, 254
+  offset: 0, 0
+  index: -1
+HUGH-HAIR1
+  rotate: true
+  xy: 971, 1071
+  size: 385, 295
+  orig: 385, 295
+  offset: 0, 0
+  index: -1
+HUGH-HEAD
+  rotate: false
+  xy: 938, 705
+  size: 332, 358
+  orig: 332, 358
+  offset: 0, 0
+  index: -1
+HUGH-LEG1
+  rotate: false
+  xy: 1192, 1516
+  size: 336, 327
+  orig: 336, 327
+  offset: 0, 0
+  index: -1
+HUGH-LEG3
+  rotate: true
+  xy: 718, 1464
+  size: 271, 438
+  orig: 271, 438
+  offset: 0, 0
+  index: -1
+HUGH-LEG4
+  rotate: false
+  xy: 3041, 2111
+  size: 553, 442
+  orig: 553, 442
+  offset: 0, 0
+  index: -1
+HUGH-SKIRT
+  rotate: true
+  xy: 644, 662
+  size: 401, 286
+  orig: 401, 286
+  offset: 0, 0
+  index: -1
+HUGH-TORSO
+  rotate: true
+  xy: 3485, 3025
+  size: 466, 555
+  orig: 466, 555
+  offset: 0, 0
+  index: -1
+HUGH-TORSO2
+  rotate: true
+  xy: 2445, 2113
+  size: 490, 588
+  orig: 490, 588
+  offset: 0, 0
+  index: -1
+LIGHTING-SM
+  rotate: false
+  xy: 3572, 2740
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+SOLDIER11
+  rotate: false
+  xy: 718, 1743
+  size: 466, 915
+  orig: 466, 915
+  offset: 0, 0
+  index: -1
+SOLDIER2
+  rotate: false
+  xy: 3602, 2176
+  size: 386, 556
+  orig: 386, 556
+  offset: 0, 0
+  index: -1
+SOLDIER6
+  rotate: true
+  xy: 2506, 2611
+  size: 454, 597
+  orig: 454, 597
+  offset: 0, 0
+  index: -1

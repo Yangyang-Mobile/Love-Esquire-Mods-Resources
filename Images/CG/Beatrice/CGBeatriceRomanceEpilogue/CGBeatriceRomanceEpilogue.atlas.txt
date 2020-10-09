@@ -1,0 +1,320 @@
+
+CGBeatriceRomanceEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM11
+  rotate: true
+  xy: 2242, 2666
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM12
+  rotate: false
+  xy: 1289, 54
+  size: 236, 140
+  orig: 236, 140
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM13
+  rotate: true
+  xy: 4026, 3512
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM14
+  rotate: false
+  xy: 3831, 2443
+  size: 240, 294
+  orig: 240, 294
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY
+  rotate: true
+  xy: 8, 1626
+  size: 1155, 1374
+  orig: 1155, 1374
+  offset: 0, 0
+  index: -1
+BEATRICE-COAT1
+  rotate: true
+  xy: 2242, 1222
+  size: 1068, 1244
+  orig: 1068, 1244
+  offset: 0, 0
+  index: -1
+BEATRICE-COAT2
+  rotate: true
+  xy: 1533, 71
+  size: 123, 208
+  orig: 123, 208
+  offset: 0, 0
+  index: -1
+BEATRICE-COAT3
+  rotate: false
+  xy: 2211, 12
+  size: 478, 363
+  orig: 478, 363
+  offset: 0, 0
+  index: -1
+BEATRICE-CROWN
+  rotate: true
+  xy: 1356, 202
+  size: 793, 847
+  orig: 793, 847
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE1
+  rotate: false
+  xy: 1390, 1003
+  size: 831, 811
+  orig: 831, 811
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE2
+  rotate: true
+  xy: 2229, 383
+  size: 831, 811
+  orig: 831, 811
+  offset: 0, 0
+  index: -1
+BEATRICE-FACE3
+  rotate: false
+  xy: 517, 807
+  size: 831, 811
+  orig: 831, 811
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR11
+  rotate: false
+  xy: 3048, 647
+  size: 437, 567
+  orig: 437, 567
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR12
+  rotate: false
+  xy: 3831, 2745
+  size: 238, 313
+  orig: 238, 313
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR13
+  rotate: false
+  xy: 3831, 3066
+  size: 187, 515
+  orig: 187, 515
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR14
+  rotate: true
+  xy: 3761, 1364
+  size: 396, 283
+  orig: 396, 283
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIRDRILL11
+  rotate: false
+  xy: 8, 847
+  size: 470, 771
+  orig: 470, 771
+  offset: 0, 0
+  index: -1
+BEATRICE-NECK
+  rotate: false
+  xy: 2697, 80
+  size: 329, 295
+  orig: 329, 295
+  offset: 0, 0
+  index: -1
+BEATRICE-NECKLACE1
+  rotate: true
+  xy: 1749, 44
+  size: 150, 147
+  orig: 150, 147
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 2789
+  size: 2301, 1299
+  orig: 2301, 1299
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3494, 1830
+  size: 460, 259
+  orig: 460, 259
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY
+  rotate: true
+  xy: 3494, 1362
+  size: 460, 259
+  orig: 460, 259
+  offset: 0, 0
+  index: -1
+LIGHTING2
+  rotate: true
+  xy: 3761, 1768
+  size: 460, 259
+  orig: 460, 259
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: true
+  xy: 3494, 520
+  size: 834, 525
+  orig: 834, 525
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM13
+  rotate: false
+  xy: 517, 33
+  size: 764, 766
+  orig: 764, 766
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM22
+  rotate: false
+  xy: 3821, 108
+  size: 262, 404
+  orig: 262, 404
+  offset: 0, 0
+  index: -1
+SQUIRE-BLUSH
+  rotate: false
+  xy: 3831, 2236
+  size: 245, 199
+  orig: 245, 199
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY1
+  rotate: false
+  xy: 2317, 2298
+  size: 1506, 1790
+  orig: 1506, 1790
+  offset: 0, 0
+  index: -1
+SQUIRE-GEM
+  rotate: false
+  xy: 4026, 3435
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+SQUIRE-GOLD1
+  rotate: true
+  xy: 3831, 3589
+  size: 499, 217
+  orig: 499, 217
+  offset: 0, 0
+  index: -1
+SQUIRE-GOLD2
+  rotate: true
+  xy: 1904, 43
+  size: 151, 142
+  orig: 151, 142
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR
+  rotate: false
+  xy: 3048, 15
+  size: 765, 497
+  orig: 765, 497
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: false
+  xy: 1390, 1822
+  size: 844, 959
+  orig: 844, 959
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH
+  rotate: false
+  xy: 3048, 531
+  size: 120, 108
+  orig: 120, 108
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK1
+  rotate: true
+  xy: 8, 8
+  size: 367, 501
+  orig: 367, 501
+  offset: 0, 0
+  index: -1
+SQUIRENEACKL
+  rotate: false
+  xy: 8, 392
+  size: 440, 447
+  orig: 440, 447
+  offset: 0, 0
+  index: -1
+
+CGBeatriceRomanceEpilogue2.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM15
+  rotate: true
+  xy: 1516, 493
+  size: 511, 610
+  orig: 511, 610
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM16
+  rotate: false
+  xy: 8, 402
+  size: 787, 602
+  orig: 787, 602
+  offset: 0, 0
+  index: -1
+BEATRICE-COAT4
+  rotate: false
+  xy: 803, 528
+  size: 705, 476
+  orig: 705, 476
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIRDRILL12
+  rotate: true
+  xy: 8, 8
+  size: 386, 521
+  orig: 386, 521
+  offset: 0, 0
+  index: -1
+BOKEH
+  rotate: true
+  xy: 2134, 476
+  size: 528, 535
+  orig: 528, 535
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: false
+  xy: 2677, 550
+  size: 418, 454
+  orig: 418, 454
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM21
+  rotate: false
+  xy: 3103, 745
+  size: 404, 259
+  orig: 404, 259
+  offset: 0, 0
+  index: -1
+SQUIRE-GOLD3
+  rotate: true
+  xy: 3515, 719
+  size: 285, 374
+  orig: 285, 374
+  offset: 0, 0
+  index: -1

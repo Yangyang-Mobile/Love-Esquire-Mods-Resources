@@ -1,0 +1,201 @@
+
+CGGiselleBadEndEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SMLL
+  rotate: false
+  xy: 8, 2693
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+GISELLE-ARM11
+  rotate: false
+  xy: 1953, 515
+  size: 611, 997
+  orig: 611, 997
+  offset: 0, 0
+  index: -1
+GISELLE-ARM12
+  rotate: true
+  xy: 3553, 3164
+  size: 916, 478
+  orig: 916, 478
+  offset: 0, 0
+  index: -1
+GISELLE-BUTT
+  rotate: false
+  xy: 2541, 1952
+  size: 863, 1109
+  orig: 863, 1109
+  offset: 0, 0
+  index: -1
+GISELLE-CORNEA
+  rotate: true
+  xy: 3553, 3090
+  size: 66, 245
+  orig: 66, 245
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS
+  rotate: false
+  xy: 2411, 2720
+  size: 29, 341
+  orig: 29, 341
+  offset: 0, 0
+  index: -1
+GISELLE-EYELASH
+  rotate: false
+  xy: 1187, 753
+  size: 96, 348
+  orig: 96, 348
+  offset: 0, 0
+  index: -1
+GISELLE-EYEWHITE
+  rotate: true
+  xy: 3412, 1952
+  size: 71, 305
+  orig: 71, 305
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: false
+  xy: 2572, 124
+  size: 745, 665
+  orig: 745, 665
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: false
+  xy: 3325, 547
+  size: 736, 564
+  orig: 736, 564
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR3
+  rotate: true
+  xy: 3412, 2031
+  size: 1030, 664
+  orig: 1030, 664
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR4
+  rotate: false
+  xy: 8, 8
+  size: 582, 199
+  orig: 582, 199
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR5
+  rotate: true
+  xy: 3273, 1119
+  size: 825, 807
+  orig: 825, 807
+  offset: 0, 0
+  index: -1
+GISELLE-HAND
+  rotate: false
+  xy: 598, 53
+  size: 226, 154
+  orig: 226, 154
+  offset: 0, 0
+  index: -1
+GISELLE-LEG11
+  rotate: false
+  xy: 2411, 3069
+  size: 1134, 1011
+  orig: 1134, 1011
+  offset: 0, 0
+  index: -1
+GISELLE-LEG12
+  rotate: true
+  xy: 1322, 515
+  size: 2170, 623
+  orig: 2170, 623
+  offset: 0, 0
+  index: -1
+GISELLE-LEG21
+  rotate: true
+  xy: 1953, 1520
+  size: 1165, 580
+  orig: 1165, 580
+  offset: 0, 0
+  index: -1
+GISELLE-LIGHTING
+  rotate: false
+  xy: 3325, 262
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+GISELLE-NECK
+  rotate: false
+  xy: 3812, 265
+  size: 205, 274
+  orig: 205, 274
+  offset: 0, 0
+  index: -1
+GISELLE-PAJAMA1
+  rotate: true
+  xy: 2572, 797
+  size: 1147, 693
+  orig: 1147, 693
+  offset: 0, 0
+  index: -1
+GISELLE-PILLOW3
+  rotate: true
+  xy: 8, 215
+  size: 886, 1171
+  orig: 886, 1171
+  offset: 0, 0
+  index: -1
+GISELLE-PILLOW4
+  rotate: false
+  xy: 8, 1109
+  size: 1306, 1576
+  orig: 1306, 1576
+  offset: 0, 0
+  index: -1
+
+CGGiselleBadEndEpilogue2.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-HEAD
+  rotate: false
+  xy: 637, 32
+  size: 636, 579
+  orig: 636, 579
+  offset: 0, 0
+  index: -1
+GISELLE-PILLOW1
+  rotate: false
+  xy: 8, 8
+  size: 621, 603
+  orig: 621, 603
+  offset: 0, 0
+  index: -1
+GISELLE-PILLOW2
+  rotate: false
+  xy: 1281, 9
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO
+  rotate: false
+  xy: 2535, 66
+  size: 589, 545
+  orig: 589, 545
+  offset: 0, 0
+  index: -1
+GISELLE-WAIST
+  rotate: false
+  xy: 1891, 66
+  size: 636, 545
+  orig: 636, 545
+  offset: 0, 0
+  index: -1

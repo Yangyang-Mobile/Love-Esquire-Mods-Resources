@@ -1,0 +1,172 @@
+
+CGAmyFirstMeet.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-EYESHINE
+  rotate: true
+  xy: 3570, 2339
+  size: 631, 473
+  orig: 631, 473
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: false
+  xy: 3570, 2978
+  size: 404, 1094
+  orig: 404, 1094
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: true
+  xy: 2447, 289
+  size: 1997, 1570
+  orig: 1997, 1570
+  offset: 0, 0
+  index: -1
+AMY-MOUTH1
+  rotate: true
+  xy: 2447, 8
+  size: 273, 316
+  orig: 273, 316
+  offset: 0, 0
+  index: -1
+AMY-TORSO
+  rotate: false
+  xy: 8, 69
+  size: 2431, 2217
+  orig: 2431, 2217
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM
+  rotate: false
+  xy: 8, 2294
+  size: 3554, 1778
+  orig: 3554, 1778
+  offset: 0, 0
+  index: -1
+
+CGAmyFirstMeet2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM
+  rotate: true
+  xy: 8, 8
+  size: 1927, 2302
+  orig: 1927, 2302
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: false
+  xy: 2318, 125
+  size: 1386, 945
+  orig: 1386, 945
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: false
+  xy: 8, 1943
+  size: 2351, 2016
+  orig: 2351, 2016
+  offset: 0, 0
+  index: -1
+AMY-MOUTH2
+  rotate: true
+  xy: 3712, 61
+  size: 425, 376
+  orig: 425, 376
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: true
+  xy: 2367, 1078
+  size: 2881, 1621
+  orig: 2881, 1621
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3712, 494
+  size: 576, 324
+  orig: 576, 324
+  offset: 0, 0
+  index: -1
+
+CGAmyFirstMeet3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-CHEST
+  rotate: false
+  xy: 8, 1167
+  size: 2368, 1538
+  orig: 2368, 1538
+  offset: 0, 0
+  index: -1
+AMY-EYEBROWS
+  rotate: false
+  xy: 2703, 2685
+  size: 934, 542
+  orig: 934, 542
+  offset: 0, 0
+  index: -1
+AMY-EYELASHES
+  rotate: false
+  xy: 8, 451
+  size: 925, 708
+  orig: 925, 708
+  offset: 0, 0
+  index: -1
+AMY-EYELASHES2
+  rotate: false
+  xy: 941, 448
+  size: 890, 711
+  orig: 890, 711
+  offset: 0, 0
+  index: -1
+AMY-EYES
+  rotate: false
+  xy: 2384, 1475
+  size: 674, 574
+  orig: 674, 574
+  offset: 0, 0
+  index: -1
+AMY-EYESCLERA
+  rotate: true
+  xy: 1839, 357
+  size: 802, 681
+  orig: 802, 681
+  offset: 0, 0
+  index: -1
+AMY-EYESCLOSED
+  rotate: false
+  xy: 2384, 2057
+  size: 923, 620
+  orig: 923, 620
+  offset: 0, 0
+  index: -1
+AMY-MOUTH3
+  rotate: false
+  xy: 8, 8
+  size: 361, 435
+  orig: 361, 435
+  offset: 0, 0
+  index: -1
+AMY-TORSO2
+  rotate: false
+  xy: 2703, 3235
+  size: 889, 761
+  orig: 889, 761
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: false
+  xy: 8, 2713
+  size: 2687, 1283
+  orig: 2687, 1283
+  offset: 0, 0
+  index: -1

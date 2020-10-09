@@ -1,0 +1,348 @@
+
+CGBeatriceReadingArchives.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-BODY2
+  rotate: false
+  xy: 2676, 1789
+  size: 628, 1082
+  orig: 628, 1082
+  offset: 0, 0
+  index: -1
+BEATRICE-CORNEA
+  rotate: false
+  xy: 1281, 8
+  size: 417, 230
+  orig: 417, 230
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS
+  rotate: false
+  xy: 3481, 13
+  size: 502, 205
+  orig: 502, 205
+  offset: 0, 0
+  index: -1
+BEATRICE-EYELIGHTS
+  rotate: false
+  xy: 1706, 9
+  size: 417, 229
+  orig: 417, 229
+  offset: 0, 0
+  index: -1
+BEATRICE-FUR3
+  rotate: false
+  xy: 3481, 226
+  size: 605, 1211
+  orig: 605, 1211
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: false
+  xy: 3588, 3081
+  size: 487, 1006
+  orig: 487, 1006
+  offset: 0, 0
+  index: -1
+BEATRICE-LIPS
+  rotate: true
+  xy: 3312, 2673
+  size: 198, 136
+  orig: 198, 136
+  offset: 0, 0
+  index: -1
+BEATRICE-NECKLACE1
+  rotate: false
+  xy: 3588, 2928
+  size: 165, 145
+  orig: 165, 145
+  offset: 0, 0
+  index: -1
+BG-BACKSM
+  rotate: false
+  xy: 8, 246
+  size: 2394, 1387
+  orig: 2394, 1387
+  offset: 0, 0
+  index: -1
+BG-CHAIR
+  rotate: false
+  xy: 8, 1641
+  size: 1419, 2446
+  orig: 1419, 2446
+  offset: 0, 0
+  index: -1
+BOOK4
+  rotate: false
+  xy: 8, 23
+  size: 1265, 215
+  orig: 1265, 215
+  offset: 0, 0
+  index: -1
+BOOK5
+  rotate: true
+  xy: 1435, 2879
+  size: 1208, 2145
+  orig: 1208, 2145
+  offset: 0, 0
+  index: -1
+KAMALA-ARM2
+  rotate: false
+  xy: 3481, 1445
+  size: 600, 1426
+  orig: 600, 1426
+  offset: 0, 0
+  index: -1
+KAMALA-BODY2
+  rotate: true
+  xy: 2131, 20
+  size: 218, 223
+  orig: 218, 223
+  offset: 0, 0
+  index: -1
+KAMALA-BODY3
+  rotate: false
+  xy: 1435, 1749
+  size: 1233, 1122
+  orig: 1233, 1122
+  offset: 0, 0
+  index: -1
+KAMALA-BODY5
+  rotate: false
+  xy: 2410, 25
+  size: 1063, 1716
+  orig: 1063, 1716
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTS
+  rotate: false
+  xy: 3312, 2479
+  size: 126, 186
+  orig: 126, 186
+  offset: 0, 0
+  index: -1
+KAMALA-NECKLACE1
+  rotate: false
+  xy: 3761, 2933
+  size: 222, 140
+  orig: 222, 140
+  offset: 0, 0
+  index: -1
+KAMALA-NECKLACE2
+  rotate: false
+  xy: 3991, 2895
+  size: 43, 178
+  orig: 43, 178
+  offset: 0, 0
+  index: -1
+KAMALA-SILK1
+  rotate: false
+  xy: 3991, 19
+  size: 87, 199
+  orig: 87, 199
+  offset: 0, 0
+  index: -1
+
+CGBeatriceReadingArchives2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM11
+  rotate: true
+  xy: 2577, 227
+  size: 586, 259
+  orig: 586, 259
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM12
+  rotate: true
+  xy: 1014, 951
+  size: 1125, 469
+  orig: 1125, 469
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM13
+  rotate: false
+  xy: 2867, 1094
+  size: 467, 867
+  orig: 467, 867
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM21
+  rotate: true
+  xy: 1359, 96
+  size: 715, 499
+  orig: 715, 499
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM22
+  rotate: true
+  xy: 2100, 1969
+  size: 530, 1170
+  orig: 530, 1170
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM23
+  rotate: false
+  xy: 8, 913
+  size: 998, 1163
+  orig: 998, 1163
+  offset: 0, 0
+  index: -1
+BEATRICE-BLUSH
+  rotate: false
+  xy: 2015, 821
+  size: 751, 462
+  orig: 751, 462
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY1
+  rotate: true
+  xy: 2107, 2832
+  size: 586, 1337
+  orig: 586, 1337
+  offset: 0, 0
+  index: -1
+BEATRICE-EYELASHES
+  rotate: true
+  xy: 3452, 2832
+  size: 586, 298
+  orig: 586, 298
+  offset: 0, 0
+  index: -1
+BEATRICE-FUR1
+  rotate: false
+  xy: 8, 2084
+  size: 999, 1612
+  orig: 999, 1612
+  offset: 0, 0
+  index: -1
+BEATRICE-FUR2
+  rotate: false
+  xy: 3525, 2119
+  size: 233, 395
+  orig: 233, 395
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: false
+  xy: 8, 8
+  size: 919, 897
+  orig: 919, 897
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR3
+  rotate: false
+  xy: 935, 145
+  size: 416, 760
+  orig: 416, 760
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR4
+  rotate: false
+  xy: 1866, 102
+  size: 437, 709
+  orig: 437, 709
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR5
+  rotate: false
+  xy: 3496, 2522
+  size: 348, 302
+  orig: 348, 302
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: false
+  xy: 1015, 2533
+  size: 1084, 1163
+  orig: 1084, 1163
+  offset: 0, 0
+  index: -1
+BEATRICE-NECK
+  rotate: false
+  xy: 1491, 819
+  size: 516, 623
+  orig: 516, 623
+  offset: 0, 0
+  index: -1
+BEATRICE-NECKLACE2
+  rotate: true
+  xy: 2774, 831
+  size: 255, 344
+  orig: 255, 344
+  offset: 0, 0
+  index: -1
+BEATRICE-SCLERA
+  rotate: true
+  xy: 3278, 2019
+  size: 480, 239
+  orig: 480, 239
+  offset: 0, 0
+  index: -1
+BOOK1
+  rotate: false
+  xy: 1015, 2290
+  size: 1077, 235
+  orig: 1077, 235
+  offset: 0, 0
+  index: -1
+BOOK2
+  rotate: false
+  xy: 2107, 2507
+  size: 1381, 317
+  orig: 1381, 317
+  offset: 0, 0
+  index: -1
+BOOK3
+  rotate: true
+  xy: 2311, 191
+  size: 622, 258
+  orig: 622, 258
+  offset: 0, 0
+  index: -1
+KAMALA-ARM1
+  rotate: true
+  xy: 2410, 3426
+  size: 612, 1458
+  orig: 612, 1458
+  offset: 0, 0
+  index: -1
+KAMALA-BODY1
+  rotate: true
+  xy: 2032, 1291
+  size: 670, 827
+  orig: 670, 827
+  offset: 0, 0
+  index: -1
+KAMALA-BODY4
+  rotate: false
+  xy: 3342, 1121
+  size: 275, 404
+  orig: 275, 404
+  offset: 0, 0
+  index: -1
+KAMALA-SILK2
+  rotate: false
+  xy: 1491, 1450
+  size: 533, 832
+  orig: 533, 832
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3342, 1533
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+TABLE-SM
+  rotate: false
+  xy: 8, 3704
+  size: 2394, 334
+  orig: 2394, 334
+  offset: 0, 0
+  index: -1

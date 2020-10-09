@@ -1,0 +1,180 @@
+
+CGAmyFansService1Forest.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY- EYE
+  rotate: false
+  xy: 2861, 223
+  size: 470, 180
+  orig: 470, 180
+  offset: 0, 0
+  index: -1
+AMY-ARM-12
+  rotate: true
+  xy: 3733, 2977
+  size: 1105, 350
+  orig: 1105, 350
+  offset: 0, 0
+  index: -1
+AMY-ARM11
+  rotate: false
+  xy: 1130, 342
+  size: 463, 995
+  orig: 463, 995
+  offset: 0, 0
+  index: -1
+AMY-ARM21
+  rotate: false
+  xy: 1771, 1007
+  size: 621, 1680
+  orig: 621, 1680
+  offset: 0, 0
+  index: -1
+AMY-EYEBROWS
+  rotate: true
+  xy: 3554, 1792
+  size: 446, 140
+  orig: 446, 140
+  offset: 0, 0
+  index: -1
+AMY-EYECORNEA
+  rotate: true
+  xy: 3339, 8
+  size: 395, 147
+  orig: 395, 147
+  offset: 0, 0
+  index: -1
+AMY-EYELASHES
+  rotate: false
+  xy: 2329, 193
+  size: 524, 210
+  orig: 524, 210
+  offset: 0, 0
+  index: -1
+AMY-EYESHINE
+  rotate: true
+  xy: 4018, 2627
+  size: 342, 68
+  orig: 342, 68
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: false
+  xy: 3554, 771
+  size: 527, 1013
+  orig: 527, 1013
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: false
+  xy: 1601, 18
+  size: 720, 981
+  orig: 720, 981
+  offset: 0, 0
+  index: -1
+AMY-HAIR4
+  rotate: true
+  xy: 8, 1345
+  size: 1342, 1755
+  orig: 1342, 1755
+  offset: 0, 0
+  index: -1
+AMY-HAIR5
+  rotate: true
+  xy: 1130, 26
+  size: 308, 274
+  orig: 308, 274
+  offset: 0, 0
+  index: -1
+AMY-MOUTH
+  rotate: true
+  xy: 3856, 1867
+  size: 128, 91
+  orig: 128, 91
+  offset: 0, 0
+  index: -1
+AMY-NECK
+  rotate: false
+  xy: 3554, 346
+  size: 432, 417
+  orig: 432, 417
+  offset: 0, 0
+  index: -1
+AMY-TORSO
+  rotate: false
+  xy: 2400, 411
+  size: 1146, 1827
+  orig: 1146, 1827
+  offset: 0, 0
+  index: -1
+BG-FLEAVES1
+  rotate: false
+  xy: 2411, 2246
+  size: 1314, 1836
+  orig: 1314, 1836
+  offset: 0, 0
+  index: -1
+BG-FLEAVES2
+  rotate: false
+  xy: 8, 20
+  size: 1114, 1317
+  orig: 1114, 1317
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 2695
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+FIREFLY
+  rotate: false
+  xy: 3702, 1849
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY-SM
+  rotate: true
+  xy: 3733, 2490
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-SM
+  rotate: true
+  xy: 3733, 2003
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+
+CGAmyFansService1Forest2.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-BOSOM
+  rotate: false
+  xy: 1693, 249
+  size: 854, 534
+  orig: 854, 534
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: false
+  xy: 8, 8
+  size: 816, 775
+  orig: 816, 775
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: true
+  xy: 832, 60
+  size: 723, 853
+  orig: 723, 853
+  offset: 0, 0
+  index: -1

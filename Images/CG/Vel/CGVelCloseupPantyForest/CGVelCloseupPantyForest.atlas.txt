@@ -1,0 +1,269 @@
+
+CGVelCloseupPantyForest.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-GRASS
+  rotate: false
+  xy: 8, 2663
+  size: 4010, 1405
+  orig: 4010, 1405
+  offset: 0, 0
+  index: -1
+BG-TREE1
+  rotate: false
+  xy: 1784, 59
+  size: 1349, 2596
+  orig: 1349, 2596
+  offset: 0, 0
+  index: -1
+BG-TREE3
+  rotate: false
+  xy: 8, 36
+  size: 1768, 2619
+  orig: 1768, 2619
+  offset: 0, 0
+  index: -1
+VEL-DRESS1B
+  rotate: true
+  xy: 3141, 622
+  size: 1601, 888
+  orig: 1601, 888
+  offset: 0, 0
+  index: -1
+VEL-DRESS3B
+  rotate: false
+  xy: 3141, 50
+  size: 469, 564
+  orig: 469, 564
+  offset: 0, 0
+  index: -1
+VEL-DRESS4
+  rotate: true
+  xy: 3618, 373
+  size: 241, 436
+  orig: 241, 436
+  offset: 0, 0
+  index: -1
+VEL-DRESS4B
+  rotate: false
+  xy: 3141, 2231
+  size: 906, 424
+  orig: 906, 424
+  offset: 0, 0
+  index: -1
+VEL-DRESS5B
+  rotate: true
+  xy: 3875, 193
+  size: 172, 211
+  orig: 172, 211
+  offset: 0, 0
+  index: -1
+VEL-SWEAT3
+  rotate: false
+  xy: 3993, 111
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+VEL-SWEAT4
+  rotate: false
+  xy: 4026, 3894
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+VEL-SWEAT5
+  rotate: true
+  xy: 4026, 3819
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+VEL-SWEAT6
+  rotate: false
+  xy: 3875, 50
+  size: 110, 135
+  orig: 110, 135
+  offset: 0, 0
+  index: -1
+VEL-SWEAT7
+  rotate: false
+  xy: 3993, 31
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+VEL-SWEAT8
+  rotate: false
+  xy: 3618, 8
+  size: 249, 357
+  orig: 249, 357
+  offset: 0, 0
+  index: -1
+VEL-SWEAT9
+  rotate: false
+  xy: 4026, 3956
+  size: 62, 112
+  orig: 62, 112
+  offset: 0, 0
+  index: -1
+
+CGVelCloseupPantyForest2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-TREE4
+  rotate: false
+  xy: 8, 8
+  size: 2450, 1909
+  orig: 2450, 1909
+  offset: 0, 0
+  index: -1
+VEL-BODY
+  rotate: false
+  xy: 8, 1925
+  size: 3149, 2126
+  orig: 3149, 2126
+  offset: 0, 0
+  index: -1
+VEL-DRESS2
+  rotate: true
+  xy: 2466, 9
+  size: 211, 958
+  orig: 211, 958
+  offset: 0, 0
+  index: -1
+VEL-DRESS2B
+  rotate: true
+  xy: 3165, 1953
+  size: 2098, 682
+  orig: 2098, 682
+  offset: 0, 0
+  index: -1
+VEL-LEG1
+  rotate: true
+  xy: 2466, 228
+  size: 1689, 1578
+  orig: 1689, 1578
+  offset: 0, 0
+  index: -1
+VEL-SWEAT10
+  rotate: false
+  xy: 3855, 3107
+  size: 118, 313
+  orig: 118, 313
+  offset: 0, 0
+  index: -1
+VEL-SWEAT11
+  rotate: true
+  xy: 3432, 85
+  size: 135, 319
+  orig: 135, 319
+  offset: 0, 0
+  index: -1
+VEL-SWEAT12
+  rotate: false
+  xy: 3855, 3710
+  size: 179, 341
+  orig: 179, 341
+  offset: 0, 0
+  index: -1
+VEL-SWEAT2
+  rotate: false
+  xy: 3855, 3428
+  size: 172, 274
+  orig: 172, 274
+  offset: 0, 0
+  index: -1
+
+CGVelCloseupPantyForest3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SMLL
+  rotate: false
+  xy: 8, 2642
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: true
+  xy: 1163, 92
+  size: 652, 509
+  orig: 652, 509
+  offset: 0, 0
+  index: -1
+VEL-ARM12
+  rotate: false
+  xy: 1163, 752
+  size: 824, 486
+  orig: 824, 486
+  offset: 0, 0
+  index: -1
+VEL-ARM2
+  rotate: false
+  xy: 1995, 820
+  size: 318, 418
+  orig: 318, 418
+  offset: 0, 0
+  index: -1
+VEL-DRESS3
+  rotate: true
+  xy: 8, 8
+  size: 1230, 1147
+  orig: 1230, 1147
+  offset: 0, 0
+  index: -1
+VEL-LEG2
+  rotate: false
+  xy: 2412, 131
+  size: 1649, 2078
+  orig: 1649, 2078
+  offset: 0, 0
+  index: -1
+VEL-LIGHTING
+  rotate: true
+  xy: 1995, 333
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+VEL-LIGHTRAY2
+  rotate: false
+  xy: 8, 1246
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+VEL-SWEAT1
+  rotate: true
+  xy: 2412, 2217
+  size: 1813, 1657
+  orig: 1813, 1657
+  offset: 0, 0
+  index: -1
+
+CGVelCloseupPantyForest4.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-TREE2
+  rotate: true
+  xy: 2242, 8
+  size: 2000, 1020
+  orig: 2000, 1020
+  offset: 0, 0
+  index: -1
+VEL-LIGHTRAY1
+  rotate: false
+  xy: 8, 620
+  size: 2226, 1388
+  orig: 2226, 1388
+  offset: 0, 0
+  index: -1

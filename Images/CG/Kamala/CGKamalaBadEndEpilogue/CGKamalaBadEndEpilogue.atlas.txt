@@ -1,0 +1,248 @@
+
+CGKamalaBadEndEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2631, 1400
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+CITY-FIRE4
+  rotate: false
+  xy: 8, 1305
+  size: 2615, 2776
+  orig: 2615, 2776
+  offset: 0, 0
+  index: -1
+CITY-SHADOW
+  rotate: false
+  xy: 3605, 1505
+  size: 479, 172
+  orig: 479, 172
+  offset: 0, 0
+  index: -1
+CITY-SMOKE12
+  rotate: true
+  xy: 8, 38
+  size: 1259, 2556
+  orig: 1259, 2556
+  offset: 0, 0
+  index: -1
+FX1
+  rotate: true
+  xy: 3931, 1433
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+FX2
+  rotate: true
+  xy: 3931, 1433
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+FX3
+  rotate: false
+  xy: 3866, 1443
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+FX4
+  rotate: false
+  xy: 3791, 1442
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+FX5
+  rotate: false
+  xy: 2572, 8
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+FX6
+  rotate: true
+  xy: 2624, 10
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+FX7
+  rotate: false
+  xy: 2685, 10
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTING
+  rotate: false
+  xy: 3118, 1400
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHT3
+  rotate: true
+  xy: 2572, 46
+  size: 1251, 1387
+  orig: 1251, 1387
+  offset: 0, 0
+  index: -1
+ROOM
+  rotate: true
+  xy: 2631, 1685
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+TABLE-POISON
+  rotate: false
+  xy: 3605, 1323
+  size: 178, 174
+  orig: 178, 174
+  offset: 0, 0
+  index: -1
+
+CGKamalaBadEndEpilogue2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CITY-FIRE1
+  rotate: false
+  xy: 2519, 472
+  size: 1401, 1063
+  orig: 1401, 1063
+  offset: 0, 0
+  index: -1
+CITY-FIRE2
+  rotate: false
+  xy: 8, 8
+  size: 2396, 1148
+  orig: 2396, 1148
+  offset: 0, 0
+  index: -1
+CITY-LIGHT4
+  rotate: true
+  xy: 2519, 1543
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+CITY-SMOKE11
+  rotate: false
+  xy: 2412, 35
+  size: 1417, 429
+  orig: 1417, 429
+  offset: 0, 0
+  index: -1
+CITY-SMOKE13
+  rotate: false
+  xy: 8, 1164
+  size: 2503, 2774
+  orig: 2503, 2774
+  offset: 0, 0
+  index: -1
+
+CGKamalaBadEndEpilogue3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CITY-BACKLIGHT2
+  rotate: true
+  xy: 8, 89
+  size: 1663, 1334
+  orig: 1663, 1334
+  offset: 0, 0
+  index: -1
+CITY-SMOKE2
+  rotate: false
+  xy: 1350, 417
+  size: 1133, 1335
+  orig: 1133, 1335
+  offset: 0, 0
+  index: -1
+CITY-SMOKE4
+  rotate: false
+  xy: 8, 1760
+  size: 2570, 2247
+  orig: 2570, 2247
+  offset: 0, 0
+  index: -1
+KAMALA-CORPSESMLL
+  rotate: true
+  xy: 2586, 8
+  size: 1835, 1312
+  orig: 1835, 1312
+  offset: 0, 0
+  index: -1
+TABLE
+  rotate: true
+  xy: 2586, 1851
+  size: 2156, 1354
+  orig: 2156, 1354
+  offset: 0, 0
+  index: -1
+
+CGKamalaBadEndEpilogue4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CITY-BACKLIGHT
+  rotate: true
+  xy: 847, 1465
+  size: 1022, 651
+  orig: 1022, 651
+  offset: 0, 0
+  index: -1
+CITY-FIRE3
+  rotate: false
+  xy: 2631, 3131
+  size: 1391, 751
+  orig: 1391, 751
+  offset: 0, 0
+  index: -1
+CITY-LIGHT2
+  rotate: false
+  xy: 8, 2495
+  size: 1300, 1387
+  orig: 1300, 1387
+  offset: 0, 0
+  index: -1
+CITY-SMOKE1
+  rotate: false
+  xy: 8, 797
+  size: 831, 1690
+  orig: 831, 1690
+  offset: 0, 0
+  index: -1
+CITY-SMOKE3
+  rotate: false
+  xy: 8, 8
+  size: 1050, 781
+  orig: 1050, 781
+  offset: 0, 0
+  index: -1
+CITY1
+  rotate: false
+  xy: 1506, 1972
+  size: 670, 796
+  orig: 670, 796
+  offset: 0, 0
+  index: -1
+CITY2
+  rotate: false
+  xy: 1316, 2776
+  size: 1307, 1106
+  orig: 1307, 1106
+  offset: 0, 0
+  index: -1

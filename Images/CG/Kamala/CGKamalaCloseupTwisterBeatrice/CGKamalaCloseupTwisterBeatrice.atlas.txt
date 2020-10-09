@@ -1,0 +1,277 @@
+
+CGKamalaCloseupTwisterBeatrice.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM1
+  rotate: true
+  xy: 4, 4
+  size: 1153, 671
+  orig: 1153, 671
+  offset: 0, 0
+  index: -1
+BEATRICE-EYES
+  rotate: true
+  xy: 3179, 6
+  size: 432, 269
+  orig: 432, 269
+  offset: 0, 0
+  index: -1
+BEATRICE-FUR1
+  rotate: true
+  xy: 2953, 1378
+  size: 756, 741
+  orig: 756, 741
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: false
+  xy: 1399, 10
+  size: 969, 1296
+  orig: 969, 1296
+  offset: 0, 0
+  index: -1
+BEATRICE-LEG21
+  rotate: false
+  xy: 1769, 1370
+  size: 812, 1739
+  orig: 812, 1739
+  offset: 0, 0
+  index: -1
+BEATRICE-LEG22
+  rotate: true
+  xy: 1769, 3117
+  size: 971, 2270
+  orig: 971, 2270
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH
+  rotate: false
+  xy: 3647, 156
+  size: 255, 265
+  orig: 255, 265
+  offset: 0, 0
+  index: -1
+BEATRICE-SWEATDROP
+  rotate: false
+  xy: 4047, 4016
+  size: 31, 72
+  orig: 31, 72
+  offset: 0, 0
+  index: -1
+KAMALA-ARM11
+  rotate: false
+  xy: 1156, 1314
+  size: 605, 2774
+  orig: 605, 2774
+  offset: 0, 0
+  index: -1
+KAMALA-ARM21
+  rotate: false
+  xy: 2589, 2280
+  size: 576, 829
+  orig: 576, 829
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22
+  rotate: false
+  xy: 3179, 2142
+  size: 910, 967
+  orig: 910, 967
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS1
+  rotate: false
+  xy: 2589, 1374
+  size: 356, 898
+  orig: 356, 898
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS2
+  rotate: false
+  xy: 2376, 53
+  size: 795, 1309
+  orig: 795, 1309
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS3
+  rotate: false
+  xy: 3702, 916
+  size: 367, 551
+  orig: 367, 551
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS5
+  rotate: false
+  xy: 3702, 1780
+  size: 370, 354
+  orig: 370, 354
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS6
+  rotate: false
+  xy: 683, 29
+  size: 708, 1128
+  orig: 708, 1128
+  offset: 0, 0
+  index: -1
+KAMALA-DRESSPART
+  rotate: true
+  xy: 3179, 446
+  size: 924, 512
+  orig: 924, 512
+  offset: 0, 0
+  index: -1
+KAMALA-GEM
+  rotate: false
+  xy: 1156, 1190
+  size: 47, 116
+  orig: 47, 116
+  offset: 0, 0
+  index: -1
+KAMALA-GOLD
+  rotate: true
+  xy: 3702, 1475
+  size: 297, 369
+  orig: 297, 369
+  offset: 0, 0
+  index: -1
+KAMALA-LEG
+  rotate: false
+  xy: 4, 1165
+  size: 1144, 2923
+  orig: 1144, 2923
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTING
+  rotate: true
+  xy: 3699, 429
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH
+  rotate: true
+  xy: 3456, 164
+  size: 274, 183
+  orig: 274, 183
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupTwisterBeatrice2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-FUR2
+  rotate: true
+  xy: 3373, 4
+  size: 553, 622
+  orig: 553, 622
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: false
+  xy: 3389, 565
+  size: 643, 808
+  orig: 643, 808
+  offset: 0, 0
+  index: -1
+BEATRICE-LEG12
+  rotate: false
+  xy: 1948, 664
+  size: 1433, 1892
+  orig: 1433, 1892
+  offset: 0, 0
+  index: -1
+BEATRICE-PANTY
+  rotate: false
+  xy: 3389, 1381
+  size: 590, 1175
+  orig: 590, 1175
+  offset: 0, 0
+  index: -1
+BEATRICE-SKIRT
+  rotate: false
+  xy: 4, 2665
+  size: 2381, 1425
+  orig: 2381, 1425
+  offset: 0, 0
+  index: -1
+BG-SMLL
+  rotate: true
+  xy: 4, 262
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+KAMALA-BOSOM
+  rotate: false
+  xy: 2393, 2564
+  size: 1534, 1526
+  orig: 1534, 1526
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS4
+  rotate: false
+  xy: 2875, 66
+  size: 490, 590
+  orig: 490, 590
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: false
+  xy: 1948, 233
+  size: 919, 423
+  orig: 919, 423
+  offset: 0, 0
+  index: -1
+SHADOW
+  rotate: true
+  xy: 1399, 262
+  size: 2395, 541
+  orig: 2395, 541
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupTwisterBeatrice3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-HAIR1
+  rotate: false
+  xy: 2842, 1165
+  size: 753, 724
+  orig: 753, 724
+  offset: 0, 0
+  index: -1
+BEATRICE-LEG11
+  rotate: false
+  xy: 4, 4
+  size: 914, 1885
+  orig: 914, 1885
+  offset: 0, 0
+  index: -1
+BEATRICE-TORSO
+  rotate: false
+  xy: 926, 730
+  size: 1074, 1159
+  orig: 1074, 1159
+  offset: 0, 0
+  index: -1
+KAMALA-NECKLACE
+  rotate: false
+  xy: 2008, 899
+  size: 826, 990
+  orig: 826, 990
+  offset: 0, 0
+  index: -1
+KAMALA-TORSO
+  rotate: false
+  xy: 926, 58
+  size: 842, 664
+  orig: 842, 664
+  offset: 0, 0
+  index: -1

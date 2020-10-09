@@ -1,0 +1,117 @@
+
+CGGiselleFanServiceStockings.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: false
+  xy: 2993, 2120
+  size: 957, 554
+  orig: 957, 554
+  offset: 0, 0
+  index: -1
+DOOR1-SM
+  rotate: true
+  xy: 2665, 8
+  size: 482, 924
+  orig: 482, 924
+  offset: 0, 0
+  index: -1
+DOOR2-SM
+  rotate: false
+  xy: 2993, 2682
+  size: 889, 1386
+  orig: 889, 1386
+  offset: 0, 0
+  index: -1
+GISELLE-ARM11
+  rotate: true
+  xy: 2689, 498
+  size: 1469, 517
+  orig: 1469, 517
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: true
+  xy: 3214, 525
+  size: 375, 565
+  orig: 375, 565
+  offset: 0, 0
+  index: -1
+GISELLE-BODY
+  rotate: false
+  xy: 8, 1833
+  size: 1602, 2235
+  orig: 1602, 2235
+  offset: 0, 0
+  index: -1
+GISELLE-LEG11
+  rotate: false
+  xy: 1618, 1975
+  size: 1367, 2093
+  orig: 1367, 2093
+  offset: 0, 0
+  index: -1
+GISELLE-LEG12
+  rotate: false
+  xy: 1718, 762
+  size: 963, 1205
+  orig: 963, 1205
+  offset: 0, 0
+  index: -1
+GISELLE-LEG13
+  rotate: false
+  xy: 3214, 908
+  size: 722, 1204
+  orig: 722, 1204
+  offset: 0, 0
+  index: -1
+GISELLE-LEG21
+  rotate: true
+  xy: 8, 20
+  size: 1805, 964
+  orig: 1805, 964
+  offset: 0, 0
+  index: -1
+GISELLE-SKIRT1
+  rotate: true
+  xy: 1718, 326
+  size: 428, 939
+  orig: 428, 939
+  offset: 0, 0
+  index: -1
+GISELLE-SKIRT2
+  rotate: true
+  xy: 3597, 180
+  size: 337, 303
+  orig: 337, 303
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 980, 154
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+WALL-SM
+  rotate: false
+  xy: 980, 439
+  size: 730, 1386
+  orig: 730, 1386
+  offset: 0, 0
+  index: -1
+
+CGGiselleFanServiceStockings2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-ARM12
+  rotate: true
+  xy: 8, 8
+  size: 543, 1267
+  orig: 543, 1267
+  offset: 0, 0
+  index: -1

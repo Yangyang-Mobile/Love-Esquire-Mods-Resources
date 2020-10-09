@@ -1,0 +1,256 @@
+
+CGVelArmWrestling.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: false
+  xy: 8, 400
+  size: 2404, 1399
+  orig: 2404, 1399
+  offset: 0, 0
+  index: -1
+TABLE-SM
+  rotate: false
+  xy: 8, 61
+  size: 2401, 331
+  orig: 2401, 331
+  offset: 0, 0
+  index: -1
+VEL-ARM-14
+  rotate: false
+  xy: 8, 1807
+  size: 2748, 2276
+  orig: 2748, 2276
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: false
+  xy: 2420, 24
+  size: 614, 1775
+  orig: 614, 1775
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: true
+  xy: 3042, 697
+  size: 1167, 774
+  orig: 1167, 774
+  offset: 0, 0
+  index: -1
+VEL-ARM22
+  rotate: true
+  xy: 2764, 1872
+  size: 872, 1282
+  orig: 872, 1282
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS2
+  rotate: true
+  xy: 3824, 1105
+  size: 759, 233
+  orig: 759, 233
+  offset: 0, 0
+  index: -1
+VEL-HAIR3
+  rotate: true
+  xy: 3042, 74
+  size: 615, 880
+  orig: 615, 880
+  offset: 0, 0
+  index: -1
+VEL-HAIR5
+  rotate: false
+  xy: 3930, 62
+  size: 99, 668
+  orig: 99, 668
+  offset: 0, 0
+  index: -1
+VEL-MOUTH1
+  rotate: true
+  xy: 3824, 738
+  size: 359, 198
+  orig: 359, 198
+  offset: 0, 0
+  index: -1
+VEL-SWEAT
+  rotate: false
+  xy: 8, 8
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+VEL-TORSO1
+  rotate: true
+  xy: 2764, 2752
+  size: 1331, 1293
+  orig: 1331, 1293
+  offset: 0, 0
+  index: -1
+
+CGVelArmWrestling2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LIGHTING
+  rotate: false
+  xy: 3274, 2517
+  size: 480, 337
+  orig: 480, 337
+  offset: 0, 0
+  index: -1
+VEL-ARM12
+  rotate: true
+  xy: 8, 32
+  size: 1971, 1692
+  orig: 1971, 1692
+  offset: 0, 0
+  index: -1
+VEL-ARM23
+  rotate: true
+  xy: 3349, 913
+  size: 221, 322
+  orig: 221, 322
+  offset: 0, 0
+  index: -1
+VEL-BLUSH1
+  rotate: true
+  xy: 3615, 3055
+  size: 987, 450
+  orig: 987, 450
+  offset: 0, 0
+  index: -1
+VEL-CHAIR
+  rotate: false
+  xy: 8, 2011
+  size: 1875, 2031
+  orig: 1875, 2031
+  offset: 0, 0
+  index: -1
+VEL-CORNEA1
+  rotate: true
+  xy: 3349, 1142
+  size: 613, 276
+  orig: 613, 276
+  offset: 0, 0
+  index: -1
+VEL-EAR1
+  rotate: false
+  xy: 3395, 426
+  size: 191, 271
+  orig: 191, 271
+  offset: 0, 0
+  index: -1
+VEL-EYE1
+  rotate: false
+  xy: 2561, 340
+  size: 826, 298
+  orig: 826, 298
+  offset: 0, 0
+  index: -1
+VEL-EYE2
+  rotate: false
+  xy: 2539, 55
+  size: 821, 277
+  orig: 821, 277
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS1
+  rotate: false
+  xy: 1708, 243
+  size: 823, 373
+  orig: 823, 373
+  offset: 0, 0
+  index: -1
+VEL-EYELIGHTS1
+  rotate: true
+  xy: 3654, 1984
+  size: 525, 168
+  orig: 525, 168
+  offset: 0, 0
+  index: -1
+VEL-EYES1
+  rotate: true
+  xy: 3349, 1763
+  size: 746, 297
+  orig: 746, 297
+  offset: 0, 0
+  index: -1
+VEL-EYESBOTTOM
+  rotate: false
+  xy: 1708, 8
+  size: 716, 227
+  orig: 716, 227
+  offset: 0, 0
+  index: -1
+VEL-FACE2
+  rotate: false
+  xy: 1708, 624
+  size: 845, 377
+  orig: 845, 377
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: false
+  xy: 1708, 1232
+  size: 114, 771
+  orig: 114, 771
+  offset: 0, 0
+  index: -1
+VEL-HAIR4
+  rotate: true
+  xy: 2561, 646
+  size: 355, 759
+  orig: 355, 759
+  offset: 0, 0
+  index: -1
+VEL-HEAD
+  rotate: false
+  xy: 1891, 2476
+  size: 1375, 1566
+  orig: 1375, 1566
+  offset: 0, 0
+  index: -1
+VEL-MOUTH2
+  rotate: true
+  xy: 3762, 2634
+  size: 413, 232
+  orig: 413, 232
+  offset: 0, 0
+  index: -1
+VEL-TORSO2
+  rotate: false
+  xy: 1891, 1009
+  size: 1450, 1459
+  orig: 1450, 1459
+  offset: 0, 0
+  index: -1
+VEL-TORSO3
+  rotate: false
+  xy: 3274, 2862
+  size: 333, 1180
+  orig: 333, 1180
+  offset: 0, 0
+  index: -1
+VEL-TORSO4
+  rotate: false
+  xy: 3328, 705
+  size: 293, 200
+  orig: 293, 200
+  offset: 0, 0
+  index: -1
+
+CGVelArmWrestling3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VEL-HAIR1
+  rotate: false
+  xy: 8, 8
+  size: 1164, 1126
+  orig: 1164, 1126
+  offset: 0, 0
+  index: -1

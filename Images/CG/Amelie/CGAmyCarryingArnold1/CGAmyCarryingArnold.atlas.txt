@@ -1,0 +1,360 @@
+
+CGAmyCarryingArnold.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-BODY2
+  rotate: true
+  xy: 3505, 2033
+  size: 1229, 583
+  orig: 1229, 583
+  offset: 0, 0
+  index: -1
+AMY-BODY5
+  rotate: true
+  xy: 2411, 39
+  size: 125, 186
+  orig: 125, 186
+  offset: 0, 0
+  index: -1
+AMY-EYEBROWS
+  rotate: true
+  xy: 3746, 193
+  size: 538, 279
+  orig: 538, 279
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: false
+  xy: 3267, 3270
+  size: 747, 815
+  orig: 747, 815
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: false
+  xy: 2411, 172
+  size: 1327, 1274
+  orig: 1327, 1274
+  offset: 0, 0
+  index: -1
+AMY-MOUTH
+  rotate: false
+  xy: 3746, 8
+  size: 241, 177
+  orig: 241, 177
+  offset: 0, 0
+  index: -1
+AMY-SCLERA
+  rotate: true
+  xy: 3746, 739
+  size: 513, 293
+  orig: 513, 293
+  offset: 0, 0
+  index: -1
+ARNOLD-BODY1
+  rotate: false
+  xy: 8, 1454
+  size: 3251, 2631
+  orig: 3251, 2631
+  offset: 0, 0
+  index: -1
+ARNOLD-HAIR1
+  rotate: false
+  xy: 3746, 1260
+  size: 331, 348
+  orig: 331, 348
+  offset: 0, 0
+  index: -1
+ARNOLD-HAIR3
+  rotate: false
+  xy: 2753, 52
+  size: 115, 112
+  orig: 115, 112
+  offset: 0, 0
+  index: -1
+ARNOLD-HEAD2
+  rotate: false
+  xy: 3505, 1616
+  size: 574, 409
+  orig: 574, 409
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 59
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+BG-TREES-SM
+  rotate: true
+  xy: 3267, 1467
+  size: 1795, 230
+  orig: 1795, 230
+  offset: 0, 0
+  index: -1
+SQUIRE-SWEAT
+  rotate: false
+  xy: 2605, 39
+  size: 140, 125
+  orig: 140, 125
+  offset: 0, 0
+  index: -1
+
+CGAmyCarryingArnold2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM12
+  rotate: false
+  xy: 2212, 23
+  size: 576, 1055
+  orig: 576, 1055
+  offset: 0, 0
+  index: -1
+AMY-ARM21
+  rotate: true
+  xy: 1267, 57
+  size: 948, 937
+  orig: 948, 937
+  offset: 0, 0
+  index: -1
+AMY-BODY3
+  rotate: true
+  xy: 3050, 1517
+  size: 686, 1023
+  orig: 686, 1023
+  offset: 0, 0
+  index: -1
+AMY-FLOWER
+  rotate: true
+  xy: 3711, 959
+  size: 550, 370
+  orig: 550, 370
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: false
+  xy: 3050, 81
+  size: 653, 1428
+  orig: 653, 1428
+  offset: 0, 0
+  index: -1
+AMY-MOUTH2
+  rotate: false
+  xy: 2796, 870
+  size: 246, 208
+  orig: 246, 208
+  offset: 0, 0
+  index: -1
+AMY-RIBBON
+  rotate: true
+  xy: 3711, 207
+  size: 388, 360
+  orig: 388, 360
+  offset: 0, 0
+  index: -1
+ARNOLD-BARF
+  rotate: false
+  xy: 8, 1013
+  size: 1725, 3071
+  orig: 1725, 3071
+  offset: 0, 0
+  index: -1
+ARNOLD-BLUSH
+  rotate: false
+  xy: 8, 45
+  size: 1251, 960
+  orig: 1251, 960
+  offset: 0, 0
+  index: -1
+ARNOLD-HAIR2
+  rotate: true
+  xy: 3711, 8
+  size: 191, 336
+  orig: 191, 336
+  offset: 0, 0
+  index: -1
+LIGHTING-STAR
+  rotate: true
+  xy: 3711, 603
+  size: 348, 361
+  orig: 348, 361
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR
+  rotate: true
+  xy: 1741, 2211
+  size: 1873, 2344
+  orig: 1873, 2344
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: true
+  xy: 1741, 1086
+  size: 1117, 1301
+  orig: 1117, 1301
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH
+  rotate: true
+  xy: 2796, 382
+  size: 480, 245
+  orig: 480, 245
+  offset: 0, 0
+  index: -1
+
+CGAmyCarryingArnold3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM13
+  rotate: false
+  xy: 3402, 52
+  size: 569, 648
+  orig: 569, 648
+  offset: 0, 0
+  index: -1
+AMY-BODY1
+  rotate: false
+  xy: 2530, 708
+  size: 1265, 1307
+  orig: 1265, 1307
+  offset: 0, 0
+  index: -1
+AMY-CORNEA
+  rotate: true
+  xy: 3803, 1472
+  size: 400, 262
+  orig: 400, 262
+  offset: 0, 0
+  index: -1
+AMY-EYELASHES
+  rotate: false
+  xy: 1267, 8
+  size: 642, 359
+  orig: 642, 359
+  offset: 0, 0
+  index: -1
+AMY-EYELIGHTS
+  rotate: true
+  xy: 3803, 1880
+  size: 457, 260
+  orig: 457, 260
+  offset: 0, 0
+  index: -1
+AMY-HAIR4
+  rotate: true
+  xy: 2946, 2082
+  size: 255, 807
+  orig: 255, 807
+  offset: 0, 0
+  index: -1
+AMY-RIBBON2
+  rotate: false
+  xy: 3803, 1130
+  size: 260, 334
+  orig: 260, 334
+  offset: 0, 0
+  index: -1
+ARNOLD-ARM1
+  rotate: true
+  xy: 1267, 375
+  size: 1469, 1255
+  orig: 1469, 1255
+  offset: 0, 0
+  index: -1
+ARNOLD-ARM2
+  rotate: false
+  xy: 1634, 2023
+  size: 1304, 2052
+  orig: 1304, 2052
+  offset: 0, 0
+  index: -1
+ARNOLD-BODY2
+  rotate: true
+  xy: 8, 68
+  size: 1776, 1251
+  orig: 1776, 1251
+  offset: 0, 0
+  index: -1
+ARNOLD-HEAD1
+  rotate: true
+  xy: 2946, 2345
+  size: 1730, 928
+  orig: 1730, 928
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 1917, 90
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-EXP1
+  rotate: false
+  xy: 8, 1852
+  size: 1618, 2223
+  orig: 1618, 2223
+  offset: 0, 0
+  index: -1
+SQUIRE-EXP2
+  rotate: true
+  xy: 2530, 178
+  size: 522, 864
+  orig: 522, 864
+  offset: 0, 0
+  index: -1
+
+CGAmyCarryingArnold4.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM11
+  rotate: false
+  xy: 962, 8
+  size: 895, 895
+  orig: 895, 895
+  offset: 0, 0
+  index: -1
+AMY-BLUSH
+  rotate: false
+  xy: 1865, 35
+  size: 702, 438
+  orig: 702, 438
+  offset: 0, 0
+  index: -1
+AMY-BODY4
+  rotate: false
+  xy: 1865, 481
+  size: 859, 422
+  orig: 859, 422
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: false
+  xy: 8, 26
+  size: 946, 877
+  orig: 946, 877
+  offset: 0, 0
+  index: -1
+AMY-NECK
+  rotate: true
+  xy: 2732, 467
+  size: 436, 511
+  orig: 436, 511
+  offset: 0, 0
+  index: -1
+LIGHTING-STAR2
+  rotate: false
+  xy: 3251, 470
+  size: 417, 433
+  orig: 417, 433
+  offset: 0, 0
+  index: -1

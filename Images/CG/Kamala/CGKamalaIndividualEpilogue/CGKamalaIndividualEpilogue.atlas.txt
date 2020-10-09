@@ -1,0 +1,348 @@
+
+CGKamalaIndividualEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-CROWDSMLL
+  rotate: true
+  xy: 8, 372
+  size: 2317, 1097
+  orig: 2317, 1097
+  offset: 0, 0
+  index: -1
+BG-SMLL
+  rotate: true
+  xy: 1113, 384
+  size: 2305, 1298
+  orig: 2305, 1298
+  offset: 0, 0
+  index: -1
+KAMALA-ARM11
+  rotate: false
+  xy: 3550, 1834
+  size: 517, 1184
+  orig: 517, 1184
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12
+  rotate: true
+  xy: 2659, 2205
+  size: 574, 877
+  orig: 574, 877
+  offset: 0, 0
+  index: -1
+KAMALA-ARM211
+  rotate: false
+  xy: 3233, 929
+  size: 114, 405
+  orig: 114, 405
+  offset: 0, 0
+  index: -1
+KAMALA-ARM212
+  rotate: false
+  xy: 2419, 1288
+  size: 177, 583
+  orig: 177, 583
+  offset: 0, 0
+  index: -1
+KAMALA-BLUSH
+  rotate: false
+  xy: 2889, 1484
+  size: 497, 284
+  orig: 497, 284
+  offset: 0, 0
+  index: -1
+KAMALA-BODY
+  rotate: false
+  xy: 2411, 2787
+  size: 1131, 1297
+  orig: 1131, 1297
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS12
+  rotate: false
+  xy: 2551, 2493
+  size: 99, 74
+  orig: 99, 74
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS13
+  rotate: true
+  xy: 2419, 2457
+  size: 167, 124
+  orig: 167, 124
+  offset: 0, 0
+  index: -1
+KAMALA-CONFETTI1
+  rotate: false
+  xy: 2411, 2701
+  size: 139, 78
+  orig: 139, 78
+  offset: 0, 0
+  index: -1
+KAMALA-CONFETTI2
+  rotate: true
+  xy: 3394, 14
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS2
+  rotate: true
+  xy: 3550, 3026
+  size: 1058, 520
+  orig: 1058, 520
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS
+  rotate: true
+  xy: 2091, 13
+  size: 363, 157
+  orig: 363, 157
+  offset: 0, 0
+  index: -1
+KAMALA-EYELASHES
+  rotate: true
+  xy: 8, 8
+  size: 356, 184
+  orig: 356, 184
+  offset: 0, 0
+  index: -1
+KAMALA-GLOW
+  rotate: true
+  xy: 2419, 2294
+  size: 155, 224
+  orig: 155, 224
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR1
+  rotate: false
+  xy: 3394, 799
+  size: 693, 969
+  orig: 693, 969
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR2
+  rotate: true
+  xy: 3233, 1342
+  size: 134, 144
+  orig: 134, 144
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR3
+  rotate: true
+  xy: 1058, 12
+  size: 352, 1025
+  orig: 352, 1025
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR5
+  rotate: true
+  xy: 2659, 24
+  size: 406, 727
+  orig: 406, 727
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR62
+  rotate: true
+  xy: 2419, 438
+  size: 842, 806
+  orig: 842, 806
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR65
+  rotate: true
+  xy: 2659, 1776
+  size: 421, 859
+  orig: 421, 859
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR66
+  rotate: true
+  xy: 200, 10
+  size: 354, 850
+  orig: 354, 850
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD1
+  rotate: true
+  xy: 2256, 17
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+KAMALA-JEWEL12
+  rotate: false
+  xy: 2558, 2575
+  size: 86, 204
+  orig: 86, 204
+  offset: 0, 0
+  index: -1
+KAMALA-JEWEL21
+  rotate: true
+  xy: 2889, 1301
+  size: 175, 234
+  orig: 175, 234
+  offset: 0, 0
+  index: -1
+KAMALA-JEWEL22
+  rotate: true
+  xy: 2419, 2632
+  size: 61, 127
+  orig: 61, 127
+  offset: 0, 0
+  index: -1
+KAMALA-JEWEL31
+  rotate: false
+  xy: 2419, 1879
+  size: 186, 238
+  orig: 186, 238
+  offset: 0, 0
+  index: -1
+KAMALA-JEWEL32
+  rotate: false
+  xy: 3131, 1311
+  size: 57, 165
+  orig: 57, 165
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTING
+  rotate: true
+  xy: 2604, 1289
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTRAY1
+  rotate: false
+  xy: 8, 2697
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH
+  rotate: false
+  xy: 2419, 2125
+  size: 196, 161
+  orig: 196, 161
+  offset: 0, 0
+  index: -1
+KAMALA-NECK
+  rotate: true
+  xy: 2256, 53
+  size: 323, 395
+  orig: 323, 395
+  offset: 0, 0
+  index: -1
+KAMALA-SPARKLE1
+  rotate: false
+  xy: 3394, 100
+  size: 691, 691
+  orig: 691, 691
+  offset: 0, 0
+  index: -1
+
+CGKamalaIndividualEpilogue2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM213
+  rotate: true
+  xy: 2819, 997
+  size: 256, 910
+  orig: 256, 910
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22
+  rotate: false
+  xy: 2017, 1053
+  size: 794, 966
+  orig: 794, 966
+  offset: 0, 0
+  index: -1
+KAMALA-BELT
+  rotate: true
+  xy: 3498, 163
+  size: 826, 305
+  orig: 826, 305
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS11
+  rotate: false
+  xy: 8, 750
+  size: 669, 1269
+  orig: 669, 1269
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS2
+  rotate: false
+  xy: 1384, 856
+  size: 625, 1163
+  orig: 625, 1163
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS1
+  rotate: true
+  xy: 682, 8
+  size: 322, 430
+  orig: 322, 430
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR4
+  rotate: true
+  xy: 685, 338
+  size: 429, 817
+  orig: 429, 817
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR61
+  rotate: false
+  xy: 2590, 176
+  size: 900, 813
+  orig: 900, 813
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR63
+  rotate: false
+  xy: 2819, 1261
+  size: 970, 758
+  orig: 970, 758
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR64
+  rotate: false
+  xy: 685, 775
+  size: 691, 1244
+  orig: 691, 1244
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR67
+  rotate: true
+  xy: 2017, 811
+  size: 234, 565
+  orig: 234, 565
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD2
+  rotate: false
+  xy: 8, 76
+  size: 666, 666
+  orig: 666, 666
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD3
+  rotate: true
+  xy: 3797, 1400
+  size: 619, 241
+  orig: 619, 241
+  offset: 0, 0
+  index: -1
+KAMALA-JEWEL11
+  rotate: false
+  xy: 1120, 92
+  size: 173, 238
+  orig: 173, 238
+  offset: 0, 0
+  index: -1

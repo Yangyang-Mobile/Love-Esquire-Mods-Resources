@@ -1,0 +1,418 @@
+
+CGBeatriceDressingUp.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM11
+  rotate: true
+  xy: 918, 17
+  size: 517, 1288
+  orig: 517, 1288
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM21
+  rotate: false
+  xy: 8, 90
+  size: 902, 625
+  orig: 902, 625
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM22
+  rotate: true
+  xy: 2214, 13
+  size: 521, 638
+  orig: 521, 638
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY
+  rotate: false
+  xy: 8, 723
+  size: 1927, 1968
+  orig: 1927, 1968
+  offset: 0, 0
+  index: -1
+BEATRICE-BRA2
+  rotate: false
+  xy: 3816, 188
+  size: 255, 382
+  orig: 255, 382
+  offset: 0, 0
+  index: -1
+BEATRICE-BRA3
+  rotate: true
+  xy: 1943, 1722
+  size: 172, 307
+  orig: 172, 307
+  offset: 0, 0
+  index: -1
+BEATRICE-BRA5
+  rotate: true
+  xy: 3806, 1765
+  size: 189, 256
+  orig: 189, 256
+  offset: 0, 0
+  index: -1
+BEATRICE-EYELIGHTS
+  rotate: false
+  xy: 3806, 3317
+  size: 240, 282
+  orig: 240, 282
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR3
+  rotate: false
+  xy: 1943, 1902
+  size: 438, 789
+  orig: 438, 789
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR5
+  rotate: false
+  xy: 3413, 70
+  size: 395, 830
+  orig: 395, 830
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH1
+  rotate: false
+  xy: 918, 553
+  size: 187, 162
+  orig: 187, 162
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH3
+  rotate: true
+  xy: 3816, 578
+  size: 322, 270
+  orig: 322, 270
+  offset: 0, 0
+  index: -1
+BEATRICE2-ARM12
+  rotate: false
+  xy: 3806, 2639
+  size: 222, 670
+  orig: 222, 670
+  offset: 0, 0
+  index: -1
+BEATRICE2-BLUSH2
+  rotate: true
+  xy: 3806, 1962
+  size: 314, 205
+  orig: 314, 205
+  offset: 0, 0
+  index: -1
+BEATRICE2-BLUSH3
+  rotate: true
+  xy: 3806, 1962
+  size: 314, 205
+  orig: 314, 205
+  offset: 0, 0
+  index: -1
+BEATRICE2-BODY1
+  rotate: false
+  xy: 1943, 542
+  size: 1462, 1171
+  orig: 1462, 1171
+  offset: 0, 0
+  index: -1
+BEATRICE2-BRA1
+  rotate: false
+  xy: 3816, 11
+  size: 233, 169
+  orig: 233, 169
+  offset: 0, 0
+  index: -1
+BEATRICE2-CORNEA3
+  rotate: false
+  xy: 8, 8
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+BEATRICE2-EYEBROWS1
+  rotate: false
+  xy: 1829, 573
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+BEATRICE2-EYEBROWS2
+  rotate: true
+  xy: 1686, 586
+  size: 98, 135
+  orig: 98, 135
+  offset: 0, 0
+  index: -1
+BEATRICE2-EYEBROWS3
+  rotate: true
+  xy: 1686, 692
+  size: 23, 183
+  orig: 23, 183
+  offset: 0, 0
+  index: -1
+BEATRICE2-EYELASHES3
+  rotate: true
+  xy: 1337, 568
+  size: 147, 194
+  orig: 147, 194
+  offset: 0, 0
+  index: -1
+BEATRICE2-EYELIGHTS3
+  rotate: false
+  xy: 2258, 1728
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+BEATRICE2-HAIR2
+  rotate: true
+  xy: 2860, 18
+  size: 516, 535
+  orig: 516, 535
+  offset: 0, 0
+  index: -1
+BEATRICE2-MOUTH2
+  rotate: false
+  xy: 1539, 617
+  size: 139, 98
+  orig: 139, 98
+  offset: 0, 0
+  index: -1
+BEATRICE2-MOUTH3
+  rotate: false
+  xy: 1113, 561
+  size: 216, 154
+  orig: 216, 154
+  offset: 0, 0
+  index: -1
+BEATRICE2-SCLERA3
+  rotate: false
+  xy: 2258, 1773
+  size: 113, 121
+  orig: 113, 121
+  offset: 0, 0
+  index: -1
+BG-MIRROR1SM
+  rotate: true
+  xy: 2411, 1721
+  size: 2365, 1387
+  orig: 2365, 1387
+  offset: 0, 0
+  index: -1
+BG-MIRROR2SM
+  rotate: true
+  xy: 3413, 908
+  size: 805, 671
+  orig: 805, 671
+  offset: 0, 0
+  index: -1
+BG-WALLSM
+  rotate: false
+  xy: 8, 2699
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3806, 3607
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-FLARE
+  rotate: false
+  xy: 96, 19
+  size: 179, 63
+  orig: 179, 63
+  offset: 0, 0
+  index: -1
+LIGHTING-SPARKLE
+  rotate: true
+  xy: 3806, 2284
+  size: 347, 218
+  orig: 347, 218
+  offset: 0, 0
+  index: -1
+
+CGBeatriceDressingUp2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM12
+  rotate: false
+  xy: 357, 8
+  size: 374, 513
+  orig: 374, 513
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM13
+  rotate: false
+  xy: 3394, 3210
+  size: 554, 351
+  orig: 554, 351
+  offset: 0, 0
+  index: -1
+BEATRICE-BLUSH
+  rotate: true
+  xy: 3568, 3569
+  size: 481, 503
+  orig: 481, 503
+  offset: 0, 0
+  index: -1
+BEATRICE-BRA1
+  rotate: false
+  xy: 2787, 3268
+  size: 599, 299
+  orig: 599, 299
+  offset: 0, 0
+  index: -1
+BEATRICE-BRA4
+  rotate: false
+  xy: 8, 122
+  size: 341, 1159
+  orig: 341, 1159
+  offset: 0, 0
+  index: -1
+BEATRICE-CORNEA
+  rotate: false
+  xy: 1638, 2853
+  size: 297, 292
+  orig: 297, 292
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS1
+  rotate: true
+  xy: 1195, 1813
+  size: 436, 395
+  orig: 436, 395
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS2
+  rotate: true
+  xy: 723, 874
+  size: 407, 348
+  orig: 407, 348
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS3
+  rotate: false
+  xy: 739, 138
+  size: 350, 384
+  orig: 350, 384
+  offset: 0, 0
+  index: -1
+BEATRICE-EYELASHES
+  rotate: false
+  xy: 1169, 2257
+  size: 444, 432
+  orig: 444, 432
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: false
+  xy: 8, 1289
+  size: 807, 790
+  orig: 807, 790
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: true
+  xy: 1946, 2893
+  size: 402, 576
+  orig: 402, 576
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR4
+  rotate: false
+  xy: 1172, 2697
+  size: 458, 448
+  orig: 458, 448
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: false
+  xy: 8, 3032
+  size: 1156, 1018
+  orig: 1156, 1018
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH2
+  rotate: false
+  xy: 2893, 3059
+  size: 216, 201
+  orig: 216, 201
+  offset: 0, 0
+  index: -1
+BEATRICE-NECK
+  rotate: true
+  xy: 2787, 3575
+  size: 475, 773
+  orig: 475, 773
+  offset: 0, 0
+  index: -1
+BEATRICE-SCLERA
+  rotate: false
+  xy: 2530, 2904
+  size: 355, 356
+  orig: 355, 356
+  offset: 0, 0
+  index: -1
+BEATRICE2-ARM11
+  rotate: false
+  xy: 1195, 1431
+  size: 456, 374
+  orig: 456, 374
+  offset: 0, 0
+  index: -1
+BEATRICE2-BODY2
+  rotate: false
+  xy: 1172, 3153
+  size: 766, 897
+  orig: 766, 897
+  offset: 0, 0
+  index: -1
+BEATRICE2-BOOBS
+  rotate: false
+  xy: 1946, 3303
+  size: 833, 747
+  orig: 833, 747
+  offset: 0, 0
+  index: -1
+BEATRICE2-HAIR1
+  rotate: false
+  xy: 357, 529
+  size: 358, 752
+  orig: 358, 752
+  offset: 0, 0
+  index: -1
+BEATRICE2-HAIR3
+  rotate: false
+  xy: 823, 1439
+  size: 364, 640
+  orig: 364, 640
+  offset: 0, 0
+  index: -1
+BEATRICE2-HEAD
+  rotate: false
+  xy: 8, 2087
+  size: 1153, 937
+  orig: 1153, 937
+  offset: 0, 0
+  index: -1
+BEATRICE2-MOUTH1
+  rotate: false
+  xy: 8, 20
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+BEATRICE2-NECK
+  rotate: true
+  xy: 723, 530
+  size: 336, 374
+  orig: 336, 374
+  offset: 0, 0
+  index: -1

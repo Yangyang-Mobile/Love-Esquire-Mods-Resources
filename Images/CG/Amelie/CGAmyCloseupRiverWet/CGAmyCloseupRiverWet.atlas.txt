@@ -1,0 +1,207 @@
+
+CGAmyCloseupRiverWet.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM12
+  rotate: true
+  xy: 2847, 79
+  size: 1269, 886
+  orig: 1269, 886
+  offset: 0, 0
+  index: -1
+AMY-BOSOM
+  rotate: false
+  xy: 813, 35
+  size: 2026, 1293
+  orig: 2026, 1293
+  offset: 0, 0
+  index: -1
+AMY-DRESS1
+  rotate: true
+  xy: 2428, 2013
+  size: 2049, 1654
+  orig: 2049, 1654
+  offset: 0, 0
+  index: -1
+AMY-DRESS2
+  rotate: true
+  xy: 8, 8
+  size: 1320, 797
+  orig: 1320, 797
+  offset: 0, 0
+  index: -1
+AMY-TORSO1
+  rotate: false
+  xy: 8, 1336
+  size: 2412, 2726
+  orig: 2412, 2726
+  offset: 0, 0
+  index: -1
+AMY-WATER1
+  rotate: true
+  xy: 2428, 1356
+  size: 649, 879
+  orig: 649, 879
+  offset: 0, 0
+  index: -1
+AMY-WATER4
+  rotate: true
+  xy: 3741, 1889
+  size: 116, 335
+  orig: 116, 335
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3741, 385
+  size: 480, 280
+  orig: 480, 280
+  offset: 0, 0
+  index: -1
+LIGHTING-AMY1
+  rotate: true
+  xy: 3741, 119
+  size: 258, 274
+  orig: 258, 274
+  offset: 0, 0
+  index: -1
+LIGHTING-FLARE
+  rotate: true
+  xy: 3315, 1365
+  size: 640, 371
+  orig: 640, 371
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY
+  rotate: true
+  xy: 3694, 1381
+  size: 500, 282
+  orig: 500, 282
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY2
+  rotate: true
+  xy: 3741, 873
+  size: 500, 282
+  orig: 500, 282
+  offset: 0, 0
+  index: -1
+
+CGAmyCloseupRiverWet2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-BOSOM2
+  rotate: false
+  xy: 8, 803
+  size: 2232, 1852
+  orig: 2232, 1852
+  offset: 0, 0
+  index: -1
+AMY-DRESS3
+  rotate: false
+  xy: 1398, 63
+  size: 566, 616
+  orig: 566, 616
+  offset: 0, 0
+  index: -1
+AMY-DRESS4
+  rotate: false
+  xy: 2248, 687
+  size: 1829, 991
+  orig: 1829, 991
+  offset: 0, 0
+  index: -1
+AMY-DRESS5
+  rotate: true
+  xy: 2198, 117
+  size: 562, 1514
+  orig: 562, 1514
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: true
+  xy: 8, 8
+  size: 671, 1382
+  orig: 671, 1382
+  offset: 0, 0
+  index: -1
+AMY-TORSO2
+  rotate: true
+  xy: 2411, 1686
+  size: 2364, 1599
+  orig: 2364, 1599
+  offset: 0, 0
+  index: -1
+AMY-WATER2
+  rotate: false
+  xy: 1972, 244
+  size: 218, 551
+  orig: 218, 551
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 2663
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+BG-SM2
+  rotate: true
+  xy: 2248, 2415
+  size: 240, 139
+  orig: 240, 139
+  offset: 0, 0
+  index: -1
+LIGHTING-AMY2
+  rotate: true
+  xy: 3720, 246
+  size: 433, 277
+  orig: 433, 277
+  offset: 0, 0
+  index: -1
+
+CGAmyCloseupRiverWet3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM1
+  rotate: false
+  xy: 2990, 2902
+  size: 921, 998
+  orig: 921, 998
+  offset: 0, 0
+  index: -1
+AMY-ARM13
+  rotate: false
+  xy: 2066, 2760
+  size: 916, 1140
+  orig: 916, 1140
+  offset: 0, 0
+  index: -1
+AMY-ARM21
+  rotate: false
+  xy: 8, 1918
+  size: 2050, 1982
+  orig: 2050, 1982
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: false
+  xy: 8, 542
+  size: 1178, 1368
+  orig: 1178, 1368
+  offset: 0, 0
+  index: -1
+AMY-WATER3
+  rotate: false
+  xy: 8, 8
+  size: 920, 526
+  orig: 920, 526
+  offset: 0, 0
+  index: -1

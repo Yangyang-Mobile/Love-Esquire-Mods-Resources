@@ -1,0 +1,270 @@
+
+CGBeatriceCloseupKamalaGrope.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM21
+  rotate: false
+  xy: 2576, 2370
+  size: 1086, 1711
+  orig: 1086, 1711
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS3
+  rotate: false
+  xy: 8, 1474
+  size: 2560, 2607
+  orig: 2560, 2607
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: false
+  xy: 2576, 1554
+  size: 1391, 808
+  orig: 1391, 808
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: true
+  xy: 3670, 2778
+  size: 1303, 417
+  orig: 1303, 417
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 79
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+KAMALA-BODY
+  rotate: true
+  xy: 2411, 171
+  size: 1295, 1674
+  orig: 1295, 1674
+  offset: 0, 0
+  index: -1
+KAMALA-EARRINGS1
+  rotate: true
+  xy: 2411, 8
+  size: 155, 215
+  orig: 155, 215
+  offset: 0, 0
+  index: -1
+KAMALA-EARRINGS2
+  rotate: false
+  xy: 2634, 28
+  size: 99, 135
+  orig: 99, 135
+  offset: 0, 0
+  index: -1
+KAMALA-SILK
+  rotate: false
+  xy: 3670, 2385
+  size: 331, 385
+  orig: 331, 385
+  offset: 0, 0
+  index: -1
+
+CGBeatriceCloseupKamalaGrope2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM12
+  rotate: false
+  xy: 2578, 63
+  size: 996, 430
+  orig: 996, 430
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY2
+  rotate: false
+  xy: 8, 1653
+  size: 2364, 2409
+  orig: 2364, 2409
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS2
+  rotate: true
+  xy: 2380, 1837
+  size: 1077, 1526
+  orig: 1077, 1526
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: false
+  xy: 1538, 23
+  size: 1032, 1622
+  orig: 1032, 1622
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH
+  rotate: true
+  xy: 1157, 8
+  size: 451, 305
+  orig: 451, 305
+  offset: 0, 0
+  index: -1
+KAMALA-ARM11
+  rotate: false
+  xy: 2380, 2922
+  size: 1548, 1140
+  orig: 1548, 1140
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12
+  rotate: false
+  xy: 2578, 501
+  size: 1314, 1328
+  orig: 1314, 1328
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS
+  rotate: false
+  xy: 3914, 2516
+  size: 166, 398
+  orig: 166, 398
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR1
+  rotate: true
+  xy: 8, 58
+  size: 401, 1141
+  orig: 401, 1141
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: false
+  xy: 8, 467
+  size: 1522, 1178
+  orig: 1522, 1178
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH
+  rotate: false
+  xy: 3582, 12
+  size: 488, 481
+  orig: 488, 481
+  offset: 0, 0
+  index: -1
+
+CGBeatriceCloseupKamalaGrope3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM11
+  rotate: false
+  xy: 3189, 3141
+  size: 782, 925
+  orig: 782, 925
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM13
+  rotate: true
+  xy: 1840, 3264
+  size: 802, 1341
+  orig: 802, 1341
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY1
+  rotate: true
+  xy: 8, 8
+  size: 453, 676
+  orig: 453, 676
+  offset: 0, 0
+  index: -1
+BEATRICE-DRESS1
+  rotate: true
+  xy: 1843, 1884
+  size: 551, 572
+  orig: 551, 572
+  offset: 0, 0
+  index: -1
+BEATRICE-NECK
+  rotate: false
+  xy: 2423, 2648
+  size: 730, 608
+  orig: 730, 608
+  offset: 0, 0
+  index: -1
+KAMALA-ARM21
+  rotate: true
+  xy: 656, 2294
+  size: 762, 1179
+  orig: 762, 1179
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22
+  rotate: false
+  xy: 1081, 1692
+  size: 501, 594
+  orig: 501, 594
+  offset: 0, 0
+  index: -1
+KAMALA-ARM23
+  rotate: false
+  xy: 1843, 2443
+  size: 572, 813
+  orig: 572, 813
+  offset: 0, 0
+  index: -1
+KAMALA-BLUSH
+  rotate: false
+  xy: 656, 3064
+  size: 1176, 1002
+  orig: 1176, 1002
+  offset: 0, 0
+  index: -1
+KAMALA-EYES
+  rotate: false
+  xy: 2423, 1494
+  size: 639, 623
+  orig: 639, 623
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR2
+  rotate: true
+  xy: 3161, 2695
+  size: 438, 768
+  orig: 438, 768
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR3
+  rotate: true
+  xy: 2423, 2125
+  size: 515, 666
+  orig: 515, 666
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR4
+  rotate: false
+  xy: 8, 2263
+  size: 640, 1803
+  orig: 640, 1803
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR5
+  rotate: false
+  xy: 572, 1641
+  size: 501, 614
+  orig: 501, 614
+  offset: 0, 0
+  index: -1
+KAMALA-NECK
+  rotate: true
+  xy: 8, 469
+  size: 818, 687
+  orig: 818, 687
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 8, 1295
+  size: 960, 556
+  orig: 960, 556
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,390 @@
+
+CGGiselleRomanceEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SMLL
+  rotate: false
+  xy: 8, 2697
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+GISELLE-ARM14
+  rotate: false
+  xy: 3791, 76
+  size: 223, 185
+  orig: 223, 185
+  offset: 0, 0
+  index: -1
+GISELLE-BODY
+  rotate: false
+  xy: 2411, 2938
+  size: 1669, 1146
+  orig: 1669, 1146
+  offset: 0, 0
+  index: -1
+GISELLE-CAPE1
+  rotate: true
+  xy: 1483, 1572
+  size: 1117, 970
+  orig: 1117, 970
+  offset: 0, 0
+  index: -1
+GISELLE-CAPE2
+  rotate: true
+  xy: 2564, 807
+  size: 946, 662
+  orig: 946, 662
+  offset: 0, 0
+  index: -1
+GISELLE-CORNEA1
+  rotate: true
+  xy: 1299, 117
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROW1
+  rotate: true
+  xy: 2411, 2773
+  size: 157, 16
+  orig: 157, 16
+  offset: 0, 0
+  index: -1
+GISELLE-EYELASH1
+  rotate: false
+  xy: 822, 64
+  size: 177, 93
+  orig: 177, 93
+  offset: 0, 0
+  index: -1
+GISELLE-EYELASH2
+  rotate: false
+  xy: 1152, 92
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
+GISELLE-EYESHINE1
+  rotate: false
+  xy: 3791, 12
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+GISELLE-EYEWHITE1
+  rotate: true
+  xy: 2461, 1649
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: true
+  xy: 1483, 954
+  size: 610, 1073
+  orig: 610, 1073
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR3
+  rotate: true
+  xy: 3212, 8
+  size: 253, 571
+  orig: 253, 571
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR4
+  rotate: true
+  xy: 1299, 169
+  size: 777, 1074
+  orig: 777, 1074
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR5
+  rotate: false
+  xy: 2461, 1761
+  size: 756, 1169
+  orig: 756, 1169
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR6
+  rotate: true
+  xy: 8, 165
+  size: 963, 1283
+  orig: 963, 1283
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR8
+  rotate: true
+  xy: 525, 40
+  size: 117, 289
+  orig: 117, 289
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD1
+  rotate: false
+  xy: 3234, 875
+  size: 812, 1013
+  orig: 812, 1013
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD2
+  rotate: true
+  xy: 3234, 269
+  size: 598, 849
+  orig: 598, 849
+  offset: 0, 0
+  index: -1
+GISELLE-LIGHTING
+  rotate: false
+  xy: 4022, 234
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH1
+  rotate: true
+  xy: 1007, 55
+  size: 102, 137
+  orig: 102, 137
+  offset: 0, 0
+  index: -1
+PETALS1
+  rotate: false
+  xy: 2381, 818
+  size: 163, 128
+  orig: 163, 128
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR3
+  rotate: true
+  xy: 8, 38
+  size: 119, 509
+  orig: 119, 509
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR4
+  rotate: false
+  xy: 3225, 1896
+  size: 825, 1034
+  orig: 825, 1034
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: true
+  xy: 2381, 27
+  size: 772, 823
+  orig: 772, 823
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH1
+  rotate: false
+  xy: 1299, 998
+  size: 167, 130
+  orig: 167, 130
+  offset: 0, 0
+  index: -1
+SQUIRE-TORSO
+  rotate: false
+  xy: 8, 1136
+  size: 1467, 1553
+  orig: 1467, 1553
+  offset: 0, 0
+  index: -1
+
+CGGiselleRomanceEpilogue2.png
+size: 2048,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-ARM11
+  rotate: false
+  xy: 856, 3314
+  size: 742, 760
+  orig: 742, 760
+  offset: 0, 0
+  index: -1
+GISELLE-ARM12
+  rotate: false
+  xy: 8, 761
+  size: 417, 950
+  orig: 417, 950
+  offset: 0, 0
+  index: -1
+GISELLE-ARM13
+  rotate: false
+  xy: 1529, 668
+  size: 463, 473
+  orig: 463, 473
+  offset: 0, 0
+  index: -1
+GISELLE-BLUSH2
+  rotate: false
+  xy: 1606, 3124
+  size: 354, 289
+  orig: 354, 289
+  offset: 0, 0
+  index: -1
+GISELLE-CAP1
+  rotate: true
+  xy: 1451, 2642
+  size: 321, 589
+  orig: 321, 589
+  offset: 0, 0
+  index: -1
+GISELLE-CAP2
+  rotate: true
+  xy: 1485, 111
+  size: 272, 309
+  orig: 272, 309
+  offset: 0, 0
+  index: -1
+GISELLE-CAPE3
+  rotate: true
+  xy: 1529, 391
+  size: 269, 339
+  orig: 269, 339
+  offset: 0, 0
+  index: -1
+GISELLE-CAPE4
+  rotate: true
+  xy: 1528, 2063
+  size: 571, 474
+  orig: 571, 474
+  offset: 0, 0
+  index: -1
+GISELLE-CAPE5
+  rotate: false
+  xy: 856, 2971
+  size: 646, 335
+  orig: 646, 335
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: true
+  xy: 1528, 1615
+  size: 440, 509
+  orig: 440, 509
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR7
+  rotate: false
+  xy: 8, 2465
+  size: 794, 774
+  orig: 794, 774
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: true
+  xy: 810, 2476
+  size: 487, 633
+  orig: 487, 633
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: true
+  xy: 1512, 1149
+  size: 458, 507
+  orig: 458, 507
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM13
+  rotate: false
+  xy: 8, 1719
+  size: 634, 738
+  orig: 634, 738
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM14
+  rotate: true
+  xy: 8, 8
+  size: 745, 524
+  orig: 745, 524
+  offset: 0, 0
+  index: -1
+SQUIRE-BLUSH1
+  rotate: true
+  xy: 1165, 1837
+  size: 631, 355
+  orig: 631, 355
+  offset: 0, 0
+  index: -1
+SQUIRE-BLUSH2
+  rotate: true
+  xy: 1606, 3421
+  size: 653, 351
+  orig: 653, 351
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR1
+  rotate: false
+  xy: 8, 3247
+  size: 840, 827
+  orig: 840, 827
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR2
+  rotate: false
+  xy: 921, 1070
+  size: 277, 684
+  orig: 277, 684
+  offset: 0, 0
+  index: -1
+SQUIRE-HAND
+  rotate: true
+  xy: 433, 870
+  size: 841, 480
+  orig: 841, 480
+  offset: 0, 0
+  index: -1
+SQUIRE-HOODIE1
+  rotate: false
+  xy: 1206, 1207
+  size: 298, 622
+  orig: 298, 622
+  offset: 0, 0
+  index: -1
+SQUIRE-HOODIE2
+  rotate: true
+  xy: 540, 90
+  size: 772, 561
+  orig: 772, 561
+  offset: 0, 0
+  index: -1
+SQUIRE-HOODIE3
+  rotate: true
+  xy: 1109, 78
+  size: 438, 368
+  orig: 438, 368
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH2
+  rotate: true
+  xy: 921, 875
+  size: 187, 170
+  orig: 187, 170
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK
+  rotate: false
+  xy: 650, 1762
+  size: 507, 695
+  orig: 507, 695
+  offset: 0, 0
+  index: -1
+SQUIRE-SLEEVE1
+  rotate: true
+  xy: 1109, 524
+  size: 538, 412
+  orig: 538, 412
+  offset: 0, 0
+  index: -1
+SQUIRE-SLEEVE2
+  rotate: false
+  xy: 1802, 67
+  size: 235, 316
+  orig: 235, 316
+  offset: 0, 0
+  index: -1

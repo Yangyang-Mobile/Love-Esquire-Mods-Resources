@@ -1,0 +1,466 @@
+
+CGGiselleBandit.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BANDIT-ARM22
+  rotate: true
+  xy: 8, 33
+  size: 1493, 752
+  orig: 1493, 752
+  offset: 0, 0
+  index: -1
+BANDIT-COAT2
+  rotate: false
+  xy: 2413, 1534
+  size: 1673, 1120
+  orig: 1673, 1120
+  offset: 0, 0
+  index: -1
+BANDIT-CROWN2
+  rotate: true
+  xy: 3448, 8
+  size: 521, 354
+  orig: 521, 354
+  offset: 0, 0
+  index: -1
+BANDIT-EYES
+  rotate: false
+  xy: 3448, 1066
+  size: 634, 460
+  orig: 634, 460
+  offset: 0, 0
+  index: -1
+BANDIT-FUR2
+  rotate: false
+  xy: 8, 1707
+  size: 2255, 977
+  orig: 2255, 977
+  offset: 0, 0
+  index: -1
+BANDIT-LIGHTS1
+  rotate: false
+  xy: 2271, 2560
+  size: 134, 124
+  orig: 134, 124
+  offset: 0, 0
+  index: -1
+BANDIT-LIGHTS2
+  rotate: false
+  xy: 2271, 2090
+  size: 103, 79
+  orig: 103, 79
+  offset: 0, 0
+  index: -1
+BANDIT-SHIRT1
+  rotate: false
+  xy: 2271, 2177
+  size: 129, 375
+  orig: 129, 375
+  offset: 0, 0
+  index: -1
+BG_SM
+  rotate: false
+  xy: 8, 2692
+  size: 2404, 1396
+  orig: 2404, 1396
+  offset: 0, 0
+  index: -1
+GISELLE-ARM13
+  rotate: true
+  xy: 2420, 2662
+  size: 1426, 1652
+  orig: 1426, 1652
+  offset: 0, 0
+  index: -1
+GISELLE-ARM14
+  rotate: true
+  xy: 2394, 58
+  size: 1468, 1046
+  orig: 1468, 1046
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS2
+  rotate: false
+  xy: 768, 25
+  size: 480, 759
+  orig: 480, 759
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS2
+  rotate: true
+  xy: 1256, 50
+  size: 734, 316
+  orig: 734, 316
+  offset: 0, 0
+  index: -1
+GISELLE-EYES2
+  rotate: true
+  xy: 1580, 91
+  size: 693, 314
+  orig: 693, 314
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: true
+  xy: 768, 792
+  size: 907, 1618
+  orig: 907, 1618
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR5
+  rotate: false
+  xy: 3810, 158
+  size: 275, 371
+  orig: 275, 371
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH1
+  rotate: false
+  xy: 8, 1546
+  size: 215, 153
+  orig: 215, 153
+  offset: 0, 0
+  index: -1
+GISELLE-NECK
+  rotate: true
+  xy: 3448, 537
+  size: 521, 625
+  orig: 521, 625
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 1902, 505
+  size: 480, 279
+  orig: 480, 279
+  offset: 0, 0
+  index: -1
+LIGHTS4
+  rotate: false
+  xy: 1902, 236
+  size: 462, 261
+  orig: 462, 261
+  offset: 0, 0
+  index: -1
+
+CGGiselleBandit2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BANDIT-ARM12
+  rotate: false
+  xy: 383, 12
+  size: 1012, 475
+  orig: 1012, 475
+  offset: 0, 0
+  index: -1
+BANDIT-ARM13
+  rotate: false
+  xy: 8, 1490
+  size: 1333, 674
+  orig: 1333, 674
+  offset: 0, 0
+  index: -1
+BANDIT-BODY1
+  rotate: false
+  xy: 1974, 2631
+  size: 1858, 1441
+  orig: 1858, 1441
+  offset: 0, 0
+  index: -1
+BANDIT-COAT1
+  rotate: false
+  xy: 8, 2172
+  size: 1958, 1900
+  orig: 1958, 1900
+  offset: 0, 0
+  index: -1
+BANDIT-CORNEA
+  rotate: true
+  xy: 3840, 2341
+  size: 452, 229
+  orig: 452, 229
+  offset: 0, 0
+  index: -1
+BANDIT-EYEBROWS
+  rotate: false
+  xy: 3404, 692
+  size: 657, 399
+  orig: 657, 399
+  offset: 0, 0
+  index: -1
+BANDIT-MOUTH
+  rotate: false
+  xy: 2356, 8
+  size: 410, 315
+  orig: 410, 315
+  offset: 0, 0
+  index: -1
+BANDIT-SHIRT2
+  rotate: true
+  xy: 3404, 331
+  size: 353, 653
+  orig: 353, 653
+  offset: 0, 0
+  index: -1
+BANDIT-SHIRT3
+  rotate: false
+  xy: 3675, 34
+  size: 348, 289
+  orig: 348, 289
+  offset: 0, 0
+  index: -1
+BG-BUSH4
+  rotate: false
+  xy: 1349, 1760
+  size: 607, 404
+  orig: 607, 404
+  offset: 0, 0
+  index: -1
+BG-BUSH6
+  rotate: true
+  xy: 2774, 11
+  size: 312, 360
+  orig: 312, 360
+  offset: 0, 0
+  index: -1
+BG-TREES3
+  rotate: false
+  xy: 8, 45
+  size: 367, 1386
+  orig: 367, 1386
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS1
+  rotate: true
+  xy: 3840, 2801
+  size: 418, 238
+  orig: 418, 238
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS4
+  rotate: true
+  xy: 3405, 1791
+  size: 542, 683
+  orig: 542, 683
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS5
+  rotate: true
+  xy: 1403, 23
+  size: 464, 945
+  orig: 464, 945
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS1
+  rotate: false
+  xy: 1349, 1449
+  size: 600, 303
+  orig: 600, 303
+  offset: 0, 0
+  index: -1
+GISELLE-EYECORNEA
+  rotate: false
+  xy: 3142, 18
+  size: 525, 305
+  orig: 525, 305
+  offset: 0, 0
+  index: -1
+GISELLE-EYELASHES
+  rotate: false
+  xy: 3405, 1439
+  size: 678, 344
+  orig: 678, 344
+  offset: 0, 0
+  index: -1
+GISELLE-EYESCLERA
+  rotate: false
+  xy: 3404, 1099
+  size: 669, 332
+  orig: 669, 332
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: false
+  xy: 383, 495
+  size: 951, 987
+  orig: 951, 987
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR3
+  rotate: true
+  xy: 1342, 495
+  size: 946, 1176
+  orig: 946, 1176
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD
+  rotate: false
+  xy: 2526, 394
+  size: 870, 1063
+  orig: 870, 1063
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH2
+  rotate: true
+  xy: 3840, 3227
+  size: 249, 239
+  orig: 249, 239
+  offset: 0, 0
+  index: -1
+GISELLE-TEARS
+  rotate: true
+  xy: 3840, 3484
+  size: 588, 244
+  orig: 588, 244
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO
+  rotate: false
+  xy: 1974, 1465
+  size: 1423, 1158
+  orig: 1423, 1158
+  offset: 0, 0
+  index: -1
+
+CGGiselleBandit3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BANDIT-ARM1 1
+  rotate: false
+  xy: 8, 1565
+  size: 896, 1251
+  orig: 896, 1251
+  offset: 0, 0
+  index: -1
+BANDIT-FUR1
+  rotate: false
+  xy: 8, 271
+  size: 777, 1286
+  orig: 777, 1286
+  offset: 0, 0
+  index: -1
+BANDIT-HEAD
+  rotate: false
+  xy: 8, 2824
+  size: 1234, 1229
+  orig: 1234, 1229
+  offset: 0, 0
+  index: -1
+BANDIT-NECK
+  rotate: true
+  xy: 2532, 3201
+  size: 852, 1081
+  orig: 852, 1081
+  offset: 0, 0
+  index: -1
+BANDIT-SHIRT4
+  rotate: true
+  xy: 1925, 686
+  size: 295, 650
+  orig: 295, 650
+  offset: 0, 0
+  index: -1
+BANDIT-SHIRT5
+  rotate: true
+  xy: 2778, 2274
+  size: 919, 779
+  orig: 919, 779
+  offset: 0, 0
+  index: -1
+BG-BUSH5
+  rotate: false
+  xy: 2740, 1206
+  size: 413, 405
+  orig: 413, 405
+  offset: 0, 0
+  index: -1
+BG-TREES1
+  rotate: true
+  xy: 1250, 2730
+  size: 517, 1202
+  orig: 517, 1202
+  offset: 0, 0
+  index: -1
+BG-TREES2
+  rotate: true
+  xy: 3621, 3181
+  size: 872, 351
+  orig: 872, 351
+  offset: 0, 0
+  index: -1
+GISELLE-ARM11
+  rotate: false
+  xy: 1250, 3255
+  size: 1274, 798
+  orig: 1274, 798
+  offset: 0, 0
+  index: -1
+GISELLE-ARM12
+  rotate: false
+  xy: 912, 1686
+  size: 969, 1036
+  orig: 969, 1036
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: false
+  xy: 1889, 1651
+  size: 881, 1071
+  orig: 881, 1071
+  offset: 0, 0
+  index: -1
+GISELLE-ARM22
+  rotate: false
+  xy: 1357, 576
+  size: 560, 1067
+  orig: 560, 1067
+  offset: 0, 0
+  index: -1
+GISELLE-BLUSH
+  rotate: false
+  xy: 2778, 1619
+  size: 990, 647
+  orig: 990, 647
+  offset: 0, 0
+  index: -1
+GISELLE-CAP
+  rotate: false
+  xy: 1925, 989
+  size: 807, 654
+  orig: 807, 654
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS3
+  rotate: true
+  xy: 3161, 1264
+  size: 347, 439
+  orig: 347, 439
+  offset: 0, 0
+  index: -1
+GISELLE-EYELIGHTS
+  rotate: false
+  xy: 8, 8
+  size: 569, 255
+  orig: 569, 255
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR4
+  rotate: false
+  xy: 793, 448
+  size: 556, 1109
+  orig: 556, 1109
+  offset: 0, 0
+  index: -1
+LIGHTS5
+  rotate: true
+  xy: 3565, 2711
+  size: 462, 261
+  orig: 462, 261
+  offset: 0, 0
+  index: -1

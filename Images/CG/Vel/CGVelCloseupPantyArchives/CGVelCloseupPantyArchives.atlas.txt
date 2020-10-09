@@ -1,0 +1,117 @@
+
+CGVelCloseupPantyArchives.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VEL-BGSMLL
+  rotate: false
+  xy: 4, 221
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+VEL-DRESS2
+  rotate: false
+  xy: 3746, 1702
+  size: 291, 433
+  orig: 291, 433
+  offset: 0, 0
+  index: -1
+VEL-LEG1
+  rotate: false
+  xy: 4, 1617
+  size: 2451, 2391
+  orig: 2451, 2391
+  offset: 0, 0
+  index: -1
+VEL-LEG2
+  rotate: false
+  xy: 2463, 4
+  size: 1275, 2131
+  orig: 1275, 2131
+  offset: 0, 0
+  index: -1
+VEL-LIGHTING
+  rotate: true
+  xy: 3746, 1215
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+VEL-PANTIE
+  rotate: true
+  xy: 2463, 2143
+  size: 1865, 1523
+  orig: 1865, 1523
+  offset: 0, 0
+  index: -1
+
+CGVelCloseupPantyArchives2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VEL-ARM1
+  rotate: true
+  xy: 3525, 1634
+  size: 1189, 555
+  orig: 1189, 555
+  offset: 0, 0
+  index: -1
+VEL-BODY
+  rotate: false
+  xy: 1757, 1762
+  size: 1760, 1061
+  orig: 1760, 1061
+  offset: 0, 0
+  index: -1
+VEL-DRESS1
+  rotate: false
+  xy: 4, 2865
+  size: 2273, 1105
+  orig: 2273, 1105
+  offset: 0, 0
+  index: -1
+VEL-DRESS3
+  rotate: false
+  xy: 1737, 33
+  size: 663, 623
+  orig: 663, 623
+  offset: 0, 0
+  index: -1
+VEL-DRESS4
+  rotate: true
+  xy: 1757, 664
+  size: 1090, 1154
+  orig: 1090, 1154
+  offset: 0, 0
+  index: -1
+VEL-DRESS5
+  rotate: true
+  xy: 2285, 2831
+  size: 1139, 1728
+  orig: 1139, 1728
+  offset: 0, 0
+  index: -1
+VEL-DRESS6
+  rotate: false
+  xy: 2408, 4
+  size: 655, 652
+  orig: 655, 652
+  offset: 0, 0
+  index: -1
+VEL-LIGHTRAY1
+  rotate: false
+  xy: 4, 1469
+  size: 1745, 1388
+  orig: 1745, 1388
+  offset: 0, 0
+  index: -1
+VEL-LIGHTRAY2
+  rotate: false
+  xy: 4, 73
+  size: 1725, 1388
+  orig: 1725, 1388
+  offset: 0, 0
+  index: -1

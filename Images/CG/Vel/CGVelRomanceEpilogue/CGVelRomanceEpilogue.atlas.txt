@@ -1,0 +1,481 @@
+
+CGVelRomanceEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: false
+  xy: 8, 2913
+  size: 2005, 1165
+  orig: 2005, 1165
+  offset: 0, 0
+  index: -1
+EYE-BOTTOM
+  rotate: false
+  xy: 3896, 2840
+  size: 164, 29
+  orig: 164, 29
+  offset: 0, 0
+  index: -1
+SEA-SM
+  rotate: false
+  xy: 2021, 3665
+  size: 1995, 413
+  orig: 1995, 413
+  offset: 0, 0
+  index: -1
+SQUIRE1-ARM2
+  rotate: false
+  xy: 8, 22
+  size: 556, 1159
+  orig: 556, 1159
+  offset: 0, 0
+  index: -1
+SQUIRE1-BODY
+  rotate: true
+  xy: 1999, 1189
+  size: 1507, 1649
+  orig: 1507, 1649
+  offset: 0, 0
+  index: -1
+SQUIRE1-EARS1
+  rotate: false
+  xy: 3892, 2345
+  size: 196, 325
+  orig: 196, 325
+  offset: 0, 0
+  index: -1
+SQUIRE2-BLUSH
+  rotate: true
+  xy: 3626, 8
+  size: 413, 373
+  orig: 413, 373
+  offset: 0, 0
+  index: -1
+SQUIRE2-BODY
+  rotate: false
+  xy: 572, 571
+  size: 1418, 1500
+  orig: 1418, 1500
+  offset: 0, 0
+  index: -1
+SQUIRE2-EAR
+  rotate: false
+  xy: 1852, 2345
+  size: 138, 290
+  orig: 138, 290
+  offset: 0, 0
+  index: -1
+SQUIRE2-HAIR1
+  rotate: true
+  xy: 2970, 13
+  size: 323, 521
+  orig: 323, 521
+  offset: 0, 0
+  index: -1
+SQUIRE2-HEAD
+  rotate: false
+  xy: 3656, 1733
+  size: 423, 571
+  orig: 423, 571
+  offset: 0, 0
+  index: -1
+SQUIRE2-HOOD
+  rotate: true
+  xy: 8, 1200
+  size: 871, 517
+  orig: 871, 517
+  offset: 0, 0
+  index: -1
+VEL1-ARM11
+  rotate: false
+  xy: 2970, 344
+  size: 648, 837
+  orig: 648, 837
+  offset: 0, 0
+  index: -1
+VEL1-ARMSLEEVE2
+  rotate: true
+  xy: 1852, 2223
+  size: 114, 130
+  orig: 114, 130
+  offset: 0, 0
+  index: -1
+VEL1-CORNEA1
+  rotate: false
+  xy: 3896, 3503
+  size: 192, 97
+  orig: 192, 97
+  offset: 0, 0
+  index: -1
+VEL1-DRESS2
+  rotate: false
+  xy: 3656, 1423
+  size: 423, 302
+  orig: 423, 302
+  offset: 0, 0
+  index: -1
+VEL1-DRESS3
+  rotate: true
+  xy: 1998, 36
+  size: 1019, 964
+  orig: 1019, 964
+  offset: 0, 0
+  index: -1
+VEL1-EYEBROWS2
+  rotate: false
+  xy: 1364, 25
+  size: 226, 76
+  orig: 226, 76
+  offset: 0, 0
+  index: -1
+VEL1-EYELIGHTS2
+  rotate: true
+  xy: 4024, 3719
+  size: 186, 60
+  orig: 186, 60
+  offset: 0, 0
+  index: -1
+VEL1-EYES1
+  rotate: true
+  xy: 1852, 2643
+  size: 262, 139
+  orig: 262, 139
+  offset: 0, 0
+  index: -1
+VEL1-EYES2
+  rotate: false
+  xy: 1101, 21
+  size: 255, 80
+  orig: 255, 80
+  offset: 0, 0
+  index: -1
+VEL1-HAIR3
+  rotate: false
+  xy: 4007, 201
+  size: 50, 220
+  orig: 50, 220
+  offset: 0, 0
+  index: -1
+VEL1-HAIR4
+  rotate: false
+  xy: 3896, 2877
+  size: 190, 618
+  orig: 190, 618
+  offset: 0, 0
+  index: -1
+VEL1-HEAD
+  rotate: true
+  xy: 3656, 1063
+  size: 352, 417
+  orig: 352, 417
+  offset: 0, 0
+  index: -1
+VEL1-MOUTH1
+  rotate: true
+  xy: 4024, 3913
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+VEL1-MOUTH2
+  rotate: true
+  xy: 1852, 2114
+  size: 101, 76
+  orig: 101, 76
+  offset: 0, 0
+  index: -1
+VEL1-SLEEVE1
+  rotate: true
+  xy: 3896, 2678
+  size: 154, 159
+  orig: 154, 159
+  offset: 0, 0
+  index: -1
+VEL1-TORSO1
+  rotate: false
+  xy: 3626, 429
+  size: 457, 626
+  orig: 457, 626
+  offset: 0, 0
+  index: -1
+VEL2-ARM1
+  rotate: false
+  xy: 2021, 2704
+  size: 1867, 953
+  orig: 1867, 953
+  offset: 0, 0
+  index: -1
+VEL2-EYEBROWS
+  rotate: true
+  xy: 3656, 2312
+  size: 384, 228
+  orig: 384, 228
+  offset: 0, 0
+  index: -1
+VEL2-HAIR1
+  rotate: true
+  xy: 1101, 109
+  size: 454, 883
+  orig: 454, 883
+  offset: 0, 0
+  index: -1
+VEL2-HAIR3
+  rotate: true
+  xy: 8, 2079
+  size: 826, 1836
+  orig: 826, 1836
+  offset: 0, 0
+  index: -1
+VEL2-HAIR4
+  rotate: true
+  xy: 572, 32
+  size: 531, 521
+  orig: 531, 521
+  offset: 0, 0
+  index: -1
+VEL2-MOUTH
+  rotate: false
+  xy: 4024, 4007
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+VEL2-PINKIE
+  rotate: true
+  xy: 4024, 3608
+  size: 103, 54
+  orig: 103, 54
+  offset: 0, 0
+  index: -1
+
+CGVelRomanceEpilogue2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LIGHTING-RAY
+  rotate: false
+  xy: 8, 18
+  size: 499, 289
+  orig: 499, 289
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY2
+  rotate: true
+  xy: 3750, 1838
+  size: 499, 289
+  orig: 499, 289
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY3
+  rotate: true
+  xy: 2961, 568
+  size: 499, 289
+  orig: 499, 289
+  offset: 0, 0
+  index: -1
+LIGHTING1
+  rotate: false
+  xy: 3258, 509
+  size: 401, 233
+  orig: 401, 233
+  offset: 0, 0
+  index: -1
+LIGHTING2
+  rotate: true
+  xy: 1547, 151
+  size: 401, 233
+  orig: 401, 233
+  offset: 0, 0
+  index: -1
+SEA-EFFECT
+  rotate: false
+  xy: 2795, 1873
+  size: 947, 443
+  orig: 947, 443
+  offset: 0, 0
+  index: -1
+SHINE
+  rotate: false
+  xy: 1788, 206
+  size: 384, 383
+  orig: 384, 383
+  offset: 0, 0
+  index: -1
+SQUIRE1-ARM1
+  rotate: true
+  xy: 2919, 3239
+  size: 812, 1141
+  orig: 812, 1141
+  offset: 0, 0
+  index: -1
+SQUIRE1-HAIR1
+  rotate: false
+  xy: 1967, 1487
+  size: 314, 434
+  orig: 314, 434
+  offset: 0, 0
+  index: -1
+SQUIRE1-HAIR2
+  rotate: false
+  xy: 8, 2967
+  size: 1301, 1084
+  orig: 1301, 1084
+  offset: 0, 0
+  index: -1
+SQUIRE1-HEAD
+  rotate: true
+  xy: 1645, 597
+  size: 813, 799
+  orig: 813, 799
+  offset: 0, 0
+  index: -1
+SQUIRE2-ARM
+  rotate: false
+  xy: 2795, 2324
+  size: 894, 907
+  orig: 894, 907
+  offset: 0, 0
+  index: -1
+SQUIRE2-ARM2
+  rotate: true
+  xy: 1317, 2904
+  size: 518, 1087
+  orig: 518, 1087
+  offset: 0, 0
+  index: -1
+SQUIRE2-HAIR2
+  rotate: true
+  xy: 8, 1619
+  size: 1340, 1003
+  orig: 1340, 1003
+  offset: 0, 0
+  index: -1
+SQUIRE2-HAIR3
+  rotate: false
+  xy: 858, 560
+  size: 779, 850
+  orig: 779, 850
+  offset: 0, 0
+  index: -1
+SQUIRE2-VEL2-ARM2
+  rotate: false
+  xy: 3258, 750
+  size: 360, 474
+  orig: 360, 474
+  offset: 0, 0
+  index: -1
+SUN
+  rotate: false
+  xy: 2456, 305
+  size: 339, 318
+  orig: 339, 318
+  offset: 0, 0
+  index: -1
+VEL1-ANTENNA
+  rotate: true
+  xy: 3697, 2707
+  size: 524, 388
+  orig: 524, 388
+  offset: 0, 0
+  index: -1
+VEL1-ARM21
+  rotate: false
+  xy: 515, 8
+  size: 312, 299
+  orig: 312, 299
+  offset: 0, 0
+  index: -1
+VEL1-ARM22
+  rotate: false
+  xy: 3717, 1333
+  size: 358, 497
+  orig: 358, 497
+  offset: 0, 0
+  index: -1
+VEL1-DRESS1
+  rotate: false
+  xy: 3201, 1232
+  size: 508, 633
+  orig: 508, 633
+  offset: 0, 0
+  index: -1
+VEL1-DRESS4
+  rotate: false
+  xy: 1019, 1929
+  size: 1071, 967
+  orig: 1071, 967
+  offset: 0, 0
+  index: -1
+VEL1-DRESS5
+  rotate: false
+  xy: 1317, 3430
+  size: 1594, 621
+  orig: 1594, 621
+  offset: 0, 0
+  index: -1
+VEL1-HAIR1
+  rotate: false
+  xy: 2412, 2989
+  size: 375, 433
+  orig: 375, 433
+  offset: 0, 0
+  index: -1
+VEL1-HAIR5
+  rotate: false
+  xy: 2098, 1940
+  size: 689, 956
+  orig: 689, 956
+  offset: 0, 0
+  index: -1
+VEL1-SILHOUETTE
+  rotate: true
+  xy: 1019, 1418
+  size: 503, 940
+  orig: 503, 940
+  offset: 0, 0
+  index: -1
+VEL1-TORSO2
+  rotate: false
+  xy: 3697, 2345
+  size: 384, 354
+  orig: 384, 354
+  offset: 0, 0
+  index: -1
+VEL2-BLUSH
+  rotate: false
+  xy: 2452, 631
+  size: 501, 436
+  orig: 501, 436
+  offset: 0, 0
+  index: -1
+VEL2-BODY
+  rotate: false
+  xy: 8, 315
+  size: 842, 1296
+  orig: 842, 1296
+  offset: 0, 0
+  index: -1
+VEL2-EYES
+  rotate: true
+  xy: 2180, 211
+  size: 378, 268
+  orig: 378, 268
+  offset: 0, 0
+  index: -1
+VEL2-FACE
+  rotate: false
+  xy: 2452, 1075
+  size: 741, 790
+  orig: 741, 790
+  offset: 0, 0
+  index: -1
+VEL2-HAIR2
+  rotate: true
+  xy: 858, 68
+  size: 484, 681
+  orig: 484, 681
+  offset: 0, 0
+  index: -1

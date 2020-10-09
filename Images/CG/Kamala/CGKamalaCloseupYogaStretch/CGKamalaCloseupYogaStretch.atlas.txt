@@ -1,0 +1,88 @@
+
+CGKamalaCloseupYogaStretch.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM21
+  rotate: true
+  xy: 3588, 3471
+  size: 588, 329
+  orig: 588, 329
+  offset: 0, 0
+  index: -1
+KAMALA-BGSmll
+  rotate: false
+  xy: 4, 4
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+KAMALA-BUTT
+  rotate: false
+  xy: 4, 1399
+  size: 3576, 2660
+  orig: 3576, 2660
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: true
+  xy: 2407, 223
+  size: 1168, 1551
+  orig: 1168, 1551
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTING
+  rotate: true
+  xy: 3588, 2984
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupYogaStretch2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-BOSOM
+  rotate: true
+  xy: 4, 257
+  size: 1928, 1643
+  orig: 1928, 1643
+  offset: 0, 0
+  index: -1
+KAMALA-LEOTARDBUTTOM
+  rotate: true
+  xy: 1655, 4
+  size: 1658, 1570
+  orig: 1658, 1570
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTRAY
+  rotate: true
+  xy: 2627, 1670
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+KAMALA-TORSO
+  rotate: false
+  xy: 4, 2193
+  size: 2615, 1872
+  orig: 2615, 1872
+  offset: 0, 0
+  index: -1
+
+CGKamalaCloseupYogaStretch3.png
+size: 1024,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM11
+  rotate: false
+  xy: 4, 4
+  size: 1004, 2168
+  orig: 1004, 2168
+  offset: 0, 0
+  index: -1

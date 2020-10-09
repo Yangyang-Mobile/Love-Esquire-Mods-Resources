@@ -1,0 +1,146 @@
+
+CGGiselleWinLadiesofLake.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE BLUSH
+  rotate: false
+  xy: 742, 8
+  size: 553, 479
+  orig: 553, 479
+  offset: 0, 0
+  index: -1
+GISELLE CORNEA
+  rotate: true
+  xy: 2006, 698
+  size: 344, 251
+  orig: 344, 251
+  offset: 0, 0
+  index: -1
+GISELLE EYE LIGHTS
+  rotate: false
+  xy: 2296, 1201
+  size: 282, 177
+  orig: 282, 177
+  offset: 0, 0
+  index: -1
+GISELLE EYE WHITES
+  rotate: true
+  xy: 2006, 1050
+  size: 398, 282
+  orig: 398, 282
+  offset: 0, 0
+  index: -1
+GISELLE EYEBROWS
+  rotate: false
+  xy: 1863, 2735
+  size: 425, 273
+  orig: 425, 273
+  offset: 0, 0
+  index: -1
+GISELLE EYES
+  rotate: false
+  xy: 1303, 75
+  size: 434, 312
+  orig: 434, 312
+  offset: 0, 0
+  index: -1
+GISELLE HEAD
+  rotate: false
+  xy: 1334, 704
+  size: 664, 744
+  orig: 664, 744
+  offset: 0, 0
+  index: -1
+GISELLE MOUTH
+  rotate: false
+  xy: 3348, 3023
+  size: 149, 116
+  orig: 149, 116
+  offset: 0, 0
+  index: -1
+GISELLE-ARM11
+  rotate: false
+  xy: 2304, 1386
+  size: 860, 765
+  orig: 860, 765
+  offset: 0, 0
+  index: -1
+GISELLE-ARM12
+  rotate: false
+  xy: 786, 495
+  size: 540, 1143
+  orig: 540, 1143
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: false
+  xy: 2304, 2159
+  size: 929, 849
+  orig: 929, 849
+  offset: 0, 0
+  index: -1
+GISELLE-ARM22
+  rotate: true
+  xy: 1421, 1754
+  size: 943, 875
+  orig: 943, 875
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS
+  rotate: false
+  xy: 8, 1646
+  size: 1405, 1051
+  orig: 1405, 1051
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: false
+  xy: 8, 522
+  size: 770, 1116
+  orig: 770, 1116
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: true
+  xy: 1421, 1456
+  size: 290, 755
+  orig: 290, 755
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR3
+  rotate: true
+  xy: 8, 20
+  size: 494, 726
+  orig: 494, 726
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR4
+  rotate: true
+  xy: 1863, 3016
+  size: 945, 1477
+  orig: 945, 1477
+  offset: 0, 0
+  index: -1
+GISELLE-NECK
+  rotate: false
+  xy: 1334, 395
+  size: 518, 301
+  orig: 518, 301
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO1
+  rotate: false
+  xy: 8, 2705
+  size: 1847, 1256
+  orig: 1847, 1256
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO2
+  rotate: true
+  xy: 3348, 3147
+  size: 814, 695
+  orig: 814, 695
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,292 @@
+
+CGGiselleDate.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: true
+  xy: 8, 1791
+  size: 1471, 1396
+  orig: 1471, 1396
+  offset: 0, 0
+  index: -1
+BUSH-SM
+  rotate: true
+  xy: 3474, 3277
+  size: 809, 559
+  orig: 809, 559
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: true
+  xy: 8, 279
+  size: 1504, 1235
+  orig: 1504, 1235
+  offset: 0, 0
+  index: -1
+GISELLE-ARM22
+  rotate: false
+  xy: 3474, 2532
+  size: 551, 737
+  orig: 551, 737
+  offset: 0, 0
+  index: -1
+GISELLE-BLUSH
+  rotate: false
+  xy: 2016, 8
+  size: 954, 538
+  orig: 954, 538
+  offset: 0, 0
+  index: -1
+GISELLE-BLUSH2
+  rotate: false
+  xy: 8, 31
+  size: 593, 240
+  orig: 593, 240
+  offset: 0, 0
+  index: -1
+GISELLE-BODY1
+  rotate: false
+  xy: 3151, 739
+  size: 905, 1417
+  orig: 905, 1417
+  offset: 0, 0
+  index: -1
+GISELLE-BODY2
+  rotate: true
+  xy: 1251, 379
+  size: 974, 757
+  orig: 974, 757
+  offset: 0, 0
+  index: -1
+GISELLE-BODY6
+  rotate: true
+  xy: 2978, 12
+  size: 212, 726
+  orig: 212, 726
+  offset: 0, 0
+  index: -1
+GISELLE-BODY7
+  rotate: true
+  xy: 3474, 2232
+  size: 292, 606
+  orig: 292, 606
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROW2
+  rotate: false
+  xy: 1251, 85
+  size: 755, 286
+  orig: 755, 286
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: false
+  xy: 2067, 554
+  size: 1076, 1602
+  orig: 1076, 1602
+  offset: 0, 0
+  index: -1
+GISELLE-HAT
+  rotate: false
+  xy: 3151, 232
+  size: 896, 499
+  orig: 896, 499
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH1
+  rotate: true
+  xy: 2978, 324
+  size: 222, 158
+  orig: 222, 158
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH2
+  rotate: true
+  xy: 1251, 1599
+  size: 184, 103
+  orig: 184, 103
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH3
+  rotate: true
+  xy: 1251, 1492
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+GISELLE-SKIRT
+  rotate: false
+  xy: 8, 3270
+  size: 2054, 816
+  orig: 2054, 816
+  offset: 0, 0
+  index: -1
+SQUIRE
+  rotate: true
+  xy: 1412, 1361
+  size: 1901, 647
+  orig: 1901, 647
+  offset: 0, 0
+  index: -1
+WALL-SM
+  rotate: true
+  xy: 2070, 2164
+  size: 1922, 1396
+  orig: 1922, 1396
+  offset: 0, 0
+  index: -1
+
+CGGiselleDate2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-ARM11
+  rotate: false
+  xy: 2003, 1373
+  size: 424, 489
+  orig: 424, 489
+  offset: 0, 0
+  index: -1
+GISELLE-BODY3
+  rotate: true
+  xy: 3395, 1836
+  size: 316, 449
+  orig: 316, 449
+  offset: 0, 0
+  index: -1
+GISELLE-BODY4
+  rotate: false
+  xy: 2646, 2950
+  size: 1174, 1105
+  orig: 1174, 1105
+  offset: 0, 0
+  index: -1
+GISELLE-BODY5
+  rotate: false
+  xy: 2407, 1879
+  size: 980, 1063
+  orig: 980, 1063
+  offset: 0, 0
+  index: -1
+GISELLE-CORNEA
+  rotate: true
+  xy: 3735, 2374
+  size: 568, 331
+  orig: 568, 331
+  offset: 0, 0
+  index: -1
+GISELLE-EYE11
+  rotate: false
+  xy: 2435, 1301
+  size: 716, 276
+  orig: 716, 276
+  offset: 0, 0
+  index: -1
+GISELLE-EYE12
+  rotate: false
+  xy: 1207, 1404
+  size: 788, 458
+  orig: 788, 458
+  offset: 0, 0
+  index: -1
+GISELLE-EYE13
+  rotate: false
+  xy: 2414, 692
+  size: 600, 284
+  orig: 600, 284
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROW1
+  rotate: true
+  xy: 3395, 2160
+  size: 782, 332
+  orig: 782, 332
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS3
+  rotate: false
+  xy: 2435, 1585
+  size: 720, 286
+  orig: 720, 286
+  offset: 0, 0
+  index: -1
+GISELLE-EYELIGHT
+  rotate: false
+  xy: 2414, 984
+  size: 601, 309
+  orig: 601, 309
+  offset: 0, 0
+  index: -1
+GISELLE-EYES
+  rotate: true
+  xy: 1288, 55
+  size: 685, 351
+  orig: 685, 351
+  offset: 0, 0
+  index: -1
+GISELLE-EYES2
+  rotate: true
+  xy: 1647, 8
+  size: 732, 289
+  orig: 732, 289
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: true
+  xy: 1232, 1870
+  size: 1147, 1167
+  orig: 1147, 1167
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR3
+  rotate: false
+  xy: 8, 2654
+  size: 1216, 1401
+  orig: 1216, 1401
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR4
+  rotate: true
+  xy: 1232, 3025
+  size: 1030, 1406
+  orig: 1030, 1406
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD
+  rotate: true
+  xy: 8, 64
+  size: 1148, 1272
+  orig: 1148, 1272
+  offset: 0, 0
+  index: -1
+GISELLE-NECK
+  rotate: false
+  xy: 1288, 748
+  size: 652, 648
+  orig: 652, 648
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 3163, 1549
+  size: 480, 279
+  orig: 480, 279
+  offset: 0, 0
+  index: -1
+LIGHTING-CROSS
+  rotate: false
+  xy: 1948, 825
+  size: 458, 540
+  orig: 458, 540
+  offset: 0, 0
+  index: -1
+ROCK
+  rotate: true
+  xy: 8, 1220
+  size: 1426, 1191
+  orig: 1426, 1191
+  offset: 0, 0
+  index: -1

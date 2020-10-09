@@ -1,0 +1,264 @@
+
+CGAmyArchivesBook.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM11
+  rotate: false
+  xy: 2079, 56
+  size: 775, 549
+  orig: 775, 549
+  offset: 0, 0
+  index: -1
+AMY-ARM13
+  rotate: false
+  xy: 2192, 613
+  size: 603, 1475
+  orig: 603, 1475
+  offset: 0, 0
+  index: -1
+AMY-ARM23
+  rotate: true
+  xy: 2862, 8
+  size: 374, 595
+  orig: 374, 595
+  offset: 0, 0
+  index: -1
+AMY-BLUSH
+  rotate: true
+  xy: 3662, 1239
+  size: 849, 411
+  orig: 849, 411
+  offset: 0, 0
+  index: -1
+AMY-BODY2
+  rotate: false
+  xy: 8, 110
+  size: 947, 805
+  orig: 947, 805
+  offset: 0, 0
+  index: -1
+AMY-BODY3
+  rotate: false
+  xy: 963, 84
+  size: 1108, 637
+  orig: 1108, 637
+  offset: 0, 0
+  index: -1
+AMY-BOOK1
+  rotate: false
+  xy: 2803, 786
+  size: 851, 1302
+  orig: 851, 1302
+  offset: 0, 0
+  index: -1
+AMY-BOOK3
+  rotate: true
+  xy: 995, 729
+  size: 456, 1173
+  orig: 456, 1173
+  offset: 0, 0
+  index: -1
+AMY-CORNEA
+  rotate: true
+  xy: 2192, 2173
+  size: 520, 202
+  orig: 520, 202
+  offset: 0, 0
+  index: -1
+AMY-EYEBROWS
+  rotate: false
+  xy: 2803, 614
+  size: 709, 164
+  orig: 709, 164
+  offset: 0, 0
+  index: -1
+AMY-EYELASHES
+  rotate: true
+  xy: 3806, 3354
+  size: 734, 263
+  orig: 734, 263
+  offset: 0, 0
+  index: -1
+AMY-FLOWER
+  rotate: true
+  xy: 3662, 853
+  size: 378, 345
+  orig: 378, 345
+  offset: 0, 0
+  index: -1
+AMY-HAIR5
+  rotate: false
+  xy: 3520, 14
+  size: 449, 764
+  orig: 449, 764
+  offset: 0, 0
+  index: -1
+AMY-HAIR6
+  rotate: false
+  xy: 3806, 2509
+  size: 232, 350
+  orig: 232, 350
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: true
+  xy: 995, 1193
+  size: 1500, 1189
+  orig: 1500, 1189
+  offset: 0, 0
+  index: -1
+AMY-HEAD2
+  rotate: true
+  xy: 8, 923
+  size: 1770, 979
+  orig: 1770, 979
+  offset: 0, 0
+  index: -1
+AMY-MOUTH
+  rotate: true
+  xy: 3806, 2236
+  size: 265, 223
+  orig: 265, 223
+  offset: 0, 0
+  index: -1
+AMY-SCLERA
+  rotate: false
+  xy: 2862, 390
+  size: 619, 216
+  orig: 619, 216
+  offset: 0, 0
+  index: -1
+BG1-SM
+  rotate: true
+  xy: 2411, 2096
+  size: 1992, 1387
+  orig: 1992, 1387
+  offset: 0, 0
+  index: -1
+BG2-SM
+  rotate: false
+  xy: 8, 2701
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3806, 2867
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+
+CGAmyArchivesBook2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM12
+  rotate: true
+  xy: 2918, 545
+  size: 463, 697
+  orig: 463, 697
+  offset: 0, 0
+  index: -1
+AMY-ARM21
+  rotate: false
+  xy: 8, 404
+  size: 1366, 537
+  orig: 1366, 537
+  offset: 0, 0
+  index: -1
+AMY-ARM22
+  rotate: false
+  xy: 3271, 1016
+  size: 761, 1019
+  orig: 761, 1019
+  offset: 0, 0
+  index: -1
+AMY-ARM24
+  rotate: false
+  xy: 996, 52
+  size: 366, 344
+  orig: 366, 344
+  offset: 0, 0
+  index: -1
+AMY-BODY1
+  rotate: false
+  xy: 1016, 1164
+  size: 1193, 871
+  orig: 1193, 871
+  offset: 0, 0
+  index: -1
+AMY-BOOK2
+  rotate: false
+  xy: 1016, 957
+  size: 134, 199
+  orig: 134, 199
+  offset: 0, 0
+  index: -1
+AMY-BOOK4
+  rotate: false
+  xy: 8, 949
+  size: 1000, 1086
+  orig: 1000, 1086
+  offset: 0, 0
+  index: -1
+AMY-EYELIGHTS
+  rotate: false
+  xy: 1992, 397
+  size: 523, 123
+  orig: 523, 123
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: false
+  xy: 2217, 1033
+  size: 1046, 1002
+  orig: 1046, 1002
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: true
+  xy: 1992, 528
+  size: 497, 918
+  orig: 497, 918
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: true
+  xy: 2523, 301
+  size: 219, 318
+  orig: 219, 318
+  offset: 0, 0
+  index: -1
+AMY-HAIR4
+  rotate: false
+  xy: 1382, 462
+  size: 602, 694
+  orig: 602, 694
+  offset: 0, 0
+  index: -1
+AMY-HAIR7
+  rotate: true
+  xy: 8, 39
+  size: 357, 526
+  orig: 357, 526
+  offset: 0, 0
+  index: -1
+AMY-NECK
+  rotate: true
+  xy: 3623, 494
+  size: 514, 436
+  orig: 514, 436
+  offset: 0, 0
+  index: -1
+AMY-RIBBON
+  rotate: false
+  xy: 542, 8
+  size: 446, 388
+  orig: 446, 388
+  offset: 0, 0
+  index: -1

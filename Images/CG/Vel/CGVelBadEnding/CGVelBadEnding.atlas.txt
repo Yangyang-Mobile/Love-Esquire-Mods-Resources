@@ -1,0 +1,383 @@
+
+CGVelBadEnding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-1SM
+  rotate: false
+  xy: 2, 20
+  size: 2304, 1296
+  orig: 2304, 1296
+  offset: 0, 0
+  index: -1
+BG-2SM
+  rotate: true
+  xy: 2007, 1786
+  size: 2304, 1296
+  orig: 2304, 1296
+  offset: 0, 0
+  index: -1
+BG-ARMOR
+  rotate: false
+  xy: 2, 1318
+  size: 2003, 2772
+  orig: 2003, 2772
+  offset: 0, 0
+  index: -1
+BG-LIGHTING
+  rotate: false
+  xy: 2308, 99
+  size: 460, 259
+  orig: 460, 259
+  offset: 0, 0
+  index: -1
+VEL-ANTENNA22
+  rotate: true
+  xy: 3305, 2212
+  size: 876, 764
+  orig: 876, 764
+  offset: 0, 0
+  index: -1
+VEL-CORNEA22
+  rotate: true
+  xy: 2615, 63
+  size: 34, 95
+  orig: 34, 95
+  offset: 0, 0
+  index: -1
+VEL-CORNEA22LIGHT
+  rotate: false
+  xy: 2712, 2
+  size: 34, 95
+  orig: 34, 95
+  offset: 0, 0
+  index: -1
+VEL-DRESS2
+  rotate: true
+  xy: 2770, 49
+  size: 350, 666
+  orig: 350, 666
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS22
+  rotate: false
+  xy: 2770, 742
+  size: 19, 106
+  orig: 19, 106
+  offset: 0, 0
+  index: -1
+VEL-EYELASHES22
+  rotate: true
+  xy: 2308, 24
+  size: 73, 185
+  orig: 73, 185
+  offset: 0, 0
+  index: -1
+VEL-EYELIGHTS21
+  rotate: true
+  xy: 2615, 41
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+VEL-EYELIGHTS22
+  rotate: true
+  xy: 2007, 1321
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+VEL-HAIR211
+  rotate: true
+  xy: 2007, 1336
+  size: 448, 782
+  orig: 448, 782
+  offset: 0, 0
+  index: -1
+VEL-HAIR22
+  rotate: true
+  xy: 3920, 226
+  size: 173, 153
+  orig: 173, 153
+  offset: 0, 0
+  index: -1
+VEL-HAIR23
+  rotate: true
+  xy: 2308, 360
+  size: 488, 460
+  orig: 488, 460
+  offset: 0, 0
+  index: -1
+VEL-HAIR232
+  rotate: false
+  xy: 3305, 3090
+  size: 766, 1000
+  orig: 766, 1000
+  offset: 0, 0
+  index: -1
+VEL-HAIR24
+  rotate: true
+  xy: 3752, 1791
+  size: 419, 312
+  orig: 419, 312
+  offset: 0, 0
+  index: -1
+VEL-HAIR251
+  rotate: true
+  xy: 2308, 850
+  size: 484, 462
+  orig: 484, 462
+  offset: 0, 0
+  index: -1
+VEL-HAIR253
+  rotate: false
+  xy: 3305, 1791
+  size: 445, 419
+  orig: 445, 419
+  offset: 0, 0
+  index: -1
+VEL-HAMMER1
+  rotate: false
+  xy: 2791, 401
+  size: 1219, 1383
+  orig: 1219, 1383
+  offset: 0, 0
+  index: -1
+VEL-LIGHTING
+  rotate: false
+  xy: 3438, 117
+  size: 480, 282
+  orig: 480, 282
+  offset: 0, 0
+  index: -1
+VEL-MOUTH21
+  rotate: false
+  xy: 2770, 706
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+VEL-SCLERA22
+  rotate: true
+  xy: 2495, 57
+  size: 40, 118
+  orig: 40, 118
+  offset: 0, 0
+  index: -1
+
+CGVelBadEnding2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VEL-ARM11
+  rotate: false
+  xy: 3514, 3097
+  size: 529, 969
+  orig: 529, 969
+  offset: 0, 0
+  index: -1
+VEL-ARM111
+  rotate: true
+  xy: 1701, 2507
+  size: 529, 969
+  orig: 529, 969
+  offset: 0, 0
+  index: -1
+VEL-ARM12
+  rotate: false
+  xy: 2270, 1800
+  size: 274, 252
+  orig: 274, 252
+  offset: 0, 0
+  index: -1
+VEL-ARM13
+  rotate: false
+  xy: 2672, 2427
+  size: 822, 753
+  orig: 822, 753
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: true
+  xy: 1696, 1058
+  size: 215, 500
+  orig: 215, 500
+  offset: 0, 0
+  index: -1
+VEL-ARM212
+  rotate: false
+  xy: 1908, 556
+  size: 215, 500
+  orig: 215, 500
+  offset: 0, 0
+  index: -1
+VEL-ARM22
+  rotate: true
+  xy: 993, 9
+  size: 442, 214
+  orig: 442, 214
+  offset: 0, 0
+  index: -1
+VEL-BANGS2
+  rotate: false
+  xy: 2270, 2054
+  size: 272, 451
+  orig: 272, 451
+  offset: 0, 0
+  index: -1
+VEL-BELT
+  rotate: true
+  xy: 3496, 2468
+  size: 627, 528
+  orig: 627, 528
+  offset: 0, 0
+  index: -1
+VEL-BODY
+  rotate: false
+  xy: 2, 818
+  size: 935, 1028
+  orig: 935, 1028
+  offset: 0, 0
+  index: -1
+VEL-BODY2
+  rotate: false
+  xy: 1701, 3038
+  size: 935, 1028
+  orig: 935, 1028
+  offset: 0, 0
+  index: -1
+VEL-CORNEA21
+  rotate: false
+  xy: 2187, 1577
+  size: 249, 221
+  orig: 249, 221
+  offset: 0, 0
+  index: -1
+VEL-CORNEA21LIGHT
+  rotate: false
+  xy: 2187, 1354
+  size: 249, 221
+  orig: 249, 221
+  offset: 0, 0
+  index: -1
+VEL-DRESS1
+  rotate: false
+  xy: 1696, 1275
+  size: 489, 600
+  orig: 489, 600
+  offset: 0, 0
+  index: -1
+VEL-DRESS3
+  rotate: false
+  xy: 1122, 2590
+  size: 577, 1032
+  orig: 577, 1032
+  offset: 0, 0
+  index: -1
+VEL-DRESS4
+  rotate: false
+  xy: 1406, 497
+  size: 500, 515
+  orig: 500, 515
+  offset: 0, 0
+  index: -1
+VEL-DRESS5
+  rotate: false
+  xy: 1618, 1877
+  size: 650, 628
+  orig: 650, 628
+  offset: 0, 0
+  index: -1
+VEL-DRESS6
+  rotate: false
+  xy: 2638, 3182
+  size: 874, 884
+  orig: 874, 884
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS21
+  rotate: true
+  xy: 2438, 1353
+  size: 194, 217
+  orig: 194, 217
+  offset: 0, 0
+  index: -1
+VEL-EYELASHES21
+  rotate: true
+  xy: 2198, 1103
+  size: 249, 221
+  orig: 249, 221
+  offset: 0, 0
+  index: -1
+VEL-HAIR212
+  rotate: false
+  xy: 939, 981
+  size: 448, 782
+  orig: 448, 782
+  offset: 0, 0
+  index: -1
+VEL-HAIR231
+  rotate: false
+  xy: 1389, 1014
+  size: 305, 749
+  orig: 305, 749
+  offset: 0, 0
+  index: -1
+VEL-HAIR233
+  rotate: false
+  xy: 1122, 1765
+  size: 494, 823
+  orig: 494, 823
+  offset: 0, 0
+  index: -1
+VEL-HAIR252
+  rotate: false
+  xy: 993, 453
+  size: 411, 526
+  orig: 411, 526
+  offset: 0, 0
+  index: -1
+VEL-HAMMER2
+  rotate: false
+  xy: 2, 3624
+  size: 1697, 442
+  orig: 1697, 442
+  offset: 0, 0
+  index: -1
+VEL-HEAD211
+  rotate: false
+  xy: 2, 2736
+  size: 1118, 886
+  orig: 1118, 886
+  offset: 0, 0
+  index: -1
+VEL-HEAD212
+  rotate: false
+  xy: 2, 1848
+  size: 1118, 886
+  orig: 1118, 886
+  offset: 0, 0
+  index: -1
+VEL-HEAD22
+  rotate: false
+  xy: 2, 2
+  size: 989, 814
+  orig: 989, 814
+  offset: 0, 0
+  index: -1
+VEL-NECK2
+  rotate: true
+  xy: 1209, 21
+  size: 430, 145
+  orig: 430, 145
+  offset: 0, 0
+  index: -1
+VEL-SCLERA21
+  rotate: true
+  xy: 2438, 1549
+  size: 249, 221
+  orig: 249, 221
+  offset: 0, 0
+  index: -1

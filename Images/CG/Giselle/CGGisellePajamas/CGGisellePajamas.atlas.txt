@@ -1,0 +1,215 @@
+
+CGGisellePajamas.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-DOORHANDLE
+  rotate: false
+  xy: 3193, 2138
+  size: 894, 1934
+  orig: 894, 1934
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 1419, 163
+  size: 1766, 1387
+  orig: 1766, 1387
+  offset: 0, 0
+  index: -1
+BG-WALLSM
+  rotate: true
+  xy: 2057, 1578
+  size: 552, 693
+  orig: 552, 693
+  offset: 0, 0
+  index: -1
+GISELLE-ARM11
+  rotate: true
+  xy: 3193, 1143
+  size: 373, 861
+  orig: 373, 861
+  offset: 0, 0
+  index: -1
+GISELLE-BODY
+  rotate: false
+  xy: 1848, 2253
+  size: 1300, 1819
+  orig: 1300, 1819
+  offset: 0, 0
+  index: -1
+GISELLE-BOSOM
+  rotate: false
+  xy: 3244, 1524
+  size: 814, 606
+  orig: 814, 606
+  offset: 0, 0
+  index: -1
+GISELLE-CORNEA
+  rotate: true
+  xy: 1848, 2144
+  size: 101, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS
+  rotate: true
+  xy: 1848, 1567
+  size: 563, 201
+  orig: 563, 201
+  offset: 0, 0
+  index: -1
+GISELLE-EYELASH
+  rotate: true
+  xy: 2758, 1580
+  size: 550, 253
+  orig: 550, 253
+  offset: 0, 0
+  index: -1
+GISELLE-EYELIGHT
+  rotate: false
+  xy: 1968, 2170
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+GISELLE-EYEWHITE
+  rotate: false
+  xy: 1511, 35
+  size: 168, 120
+  orig: 168, 120
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: true
+  xy: 8, 30
+  size: 1520, 1403
+  orig: 1520, 1403
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD
+  rotate: true
+  xy: 3193, 436
+  size: 699, 802
+  orig: 699, 802
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH
+  rotate: true
+  xy: 1419, 8
+  size: 147, 84
+  orig: 147, 84
+  offset: 0, 0
+  index: -1
+GISELLE-NECK
+  rotate: false
+  xy: 3193, 23
+  size: 347, 405
+  orig: 347, 405
+  offset: 0, 0
+  index: -1
+GISELLE-TEARS
+  rotate: true
+  xy: 3019, 1582
+  size: 548, 217
+  orig: 548, 217
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 3548, 151
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: false
+  xy: 8, 1558
+  size: 1832, 2514
+  orig: 1832, 2514
+  offset: 0, 0
+  index: -1
+
+CGGisellePajamas2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-DOORSM
+  rotate: false
+  xy: 8, 554
+  size: 847, 1387
+  orig: 847, 1387
+  offset: 0, 0
+  index: -1
+GISELLE-ARM12
+  rotate: false
+  xy: 2699, 2756
+  size: 483, 1291
+  orig: 483, 1291
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: true
+  xy: 3190, 2736
+  size: 585, 746
+  orig: 585, 746
+  offset: 0, 0
+  index: -1
+GISELLE-ARM22
+  rotate: false
+  xy: 863, 1742
+  size: 510, 678
+  orig: 510, 678
+  offset: 0, 0
+  index: -1
+GISELLE-ARM23
+  rotate: true
+  xy: 8, 8
+  size: 538, 727
+  orig: 538, 727
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: false
+  xy: 708, 2428
+  size: 1042, 1243
+  orig: 1042, 1243
+  offset: 0, 0
+  index: -1
+GISELLE-PAJAMA1
+  rotate: false
+  xy: 8, 1949
+  size: 692, 1722
+  orig: 692, 1722
+  offset: 0, 0
+  index: -1
+GISELLE-PAJAMA2
+  rotate: false
+  xy: 3190, 3329
+  size: 737, 718
+  orig: 737, 718
+  offset: 0, 0
+  index: -1
+GISELLE-PAJAMA3
+  rotate: false
+  xy: 1758, 2437
+  size: 933, 1234
+  orig: 933, 1234
+  offset: 0, 0
+  index: -1
+GISELLE-PAJAMA4
+  rotate: false
+  xy: 2422, 3845
+  size: 232, 202
+  orig: 232, 202
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY
+  rotate: false
+  xy: 8, 3679
+  size: 2406, 368
+  orig: 2406, 368
+  offset: 0, 0
+  index: -1

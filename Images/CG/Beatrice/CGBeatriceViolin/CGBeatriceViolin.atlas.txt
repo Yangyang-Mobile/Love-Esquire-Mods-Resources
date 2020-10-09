@@ -1,0 +1,194 @@
+
+CGBeatriceViolin.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM1
+  rotate: false
+  xy: 3171, 3063
+  size: 894, 1023
+  orig: 894, 1023
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM23
+  rotate: true
+  xy: 3347, 1051
+  size: 857, 724
+  orig: 857, 724
+  offset: 0, 0
+  index: -1
+BEATRICE-BLUSH
+  rotate: true
+  xy: 3371, 155
+  size: 888, 604
+  orig: 888, 604
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR4
+  rotate: true
+  xy: 2362, 1044
+  size: 1505, 977
+  orig: 1505, 977
+  offset: 0, 0
+  index: -1
+BEATRICE-LIGHTING
+  rotate: false
+  xy: 1821, 56
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH
+  rotate: false
+  xy: 1821, 1050
+  size: 216, 95
+  orig: 216, 95
+  offset: 0, 0
+  index: -1
+BEATRICE-RFUR
+  rotate: true
+  xy: 1821, 88
+  size: 948, 1542
+  orig: 948, 1542
+  offset: 0, 0
+  index: -1
+BEATRICE-TORSO
+  rotate: true
+  xy: 3347, 1916
+  size: 1139, 613
+  orig: 1139, 613
+  offset: 0, 0
+  index: -1
+BEATRICE-VIOLIN1
+  rotate: false
+  xy: 4, 2557
+  size: 3159, 1529
+  orig: 3159, 1529
+  offset: 0, 0
+  index: -1
+BEATRICE-VIOLIN2
+  rotate: false
+  xy: 4, 4
+  size: 1809, 1141
+  orig: 1809, 1141
+  offset: 0, 0
+  index: -1
+BEATRICE-VIOLIN3
+  rotate: false
+  xy: 4, 1153
+  size: 2350, 1396
+  orig: 2350, 1396
+  offset: 0, 0
+  index: -1
+
+CGBeatriceViolin2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM13
+  rotate: false
+  xy: 2288, 525
+  size: 790, 449
+  orig: 790, 449
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM1A
+  rotate: true
+  xy: 2495, 982
+  size: 894, 1023
+  orig: 894, 1023
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM2
+  rotate: true
+  xy: 3086, 508
+  size: 466, 351
+  orig: 466, 351
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM231
+  rotate: false
+  xy: 775, 35
+  size: 296, 254
+  orig: 296, 254
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS
+  rotate: false
+  xy: 1532, 1397
+  size: 645, 198
+  orig: 645, 198
+  offset: 0, 0
+  index: -1
+BEATRICE-EYES
+  rotate: false
+  xy: 4, 4
+  size: 763, 285
+  orig: 763, 285
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR
+  rotate: true
+  xy: 1324, 274
+  size: 1063, 956
+  orig: 1063, 956
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: false
+  xy: 1532, 1603
+  size: 955, 1242
+  orig: 955, 1242
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: false
+  xy: 3442, 3284
+  size: 526, 801
+  orig: 526, 801
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR3
+  rotate: false
+  xy: 4, 297
+  size: 1312, 1040
+  orig: 1312, 1040
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: false
+  xy: 2495, 1884
+  size: 1008, 1118
+  orig: 1008, 1118
+  offset: 0, 0
+  index: -1
+BEATRICE-LFUR
+  rotate: true
+  xy: 2084, 3010
+  size: 1075, 1350
+  orig: 1075, 1350
+  offset: 0, 0
+  index: -1
+BEATRICE-TORSO1
+  rotate: false
+  xy: 4, 1345
+  size: 1520, 1500
+  orig: 1520, 1500
+  offset: 0, 0
+  index: -1
+BG-SMLL
+  rotate: false
+  xy: 4, 2853
+  size: 2072, 1232
+  orig: 2072, 1232
+  offset: 0, 0
+  index: -1
+Sparkle 1
+  rotate: false
+  xy: 3442, 3015
+  size: 326, 261
+  orig: 326, 261
+  offset: 0, 0
+  index: -1

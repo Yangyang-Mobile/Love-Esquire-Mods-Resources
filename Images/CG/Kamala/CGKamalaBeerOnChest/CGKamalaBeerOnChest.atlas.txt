@@ -1,0 +1,256 @@
+
+CGKamalaBeerOnChest.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM1
+  rotate: false
+  xy: 8, 528
+  size: 1988, 1836
+  orig: 1988, 1836
+  offset: 0, 0
+  index: -1
+KAMALA-ARM21
+  rotate: false
+  xy: 2945, 2636
+  size: 1076, 1415
+  orig: 1076, 1415
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22
+  rotate: false
+  xy: 8, 8
+  size: 1343, 512
+  orig: 1343, 512
+  offset: 0, 0
+  index: -1
+KAMALA-ARM23
+  rotate: false
+  xy: 2945, 2425
+  size: 292, 203
+  orig: 292, 203
+  offset: 0, 0
+  index: -1
+KAMALA-BEER4
+  rotate: true
+  xy: 1830, 309
+  size: 211, 151
+  orig: 211, 151
+  offset: 0, 0
+  index: -1
+KAMALA-BODY3
+  rotate: false
+  xy: 8, 2372
+  size: 2929, 1679
+  orig: 2929, 1679
+  offset: 0, 0
+  index: -1
+KAMALA-CORNEA
+  rotate: false
+  xy: 1359, 57
+  size: 463, 463
+  orig: 463, 463
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS1
+  rotate: false
+  xy: 3430, 548
+  size: 638, 824
+  orig: 638, 824
+  offset: 0, 0
+  index: -1
+KAMALA-GEM
+  rotate: false
+  xy: 1830, 218
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH
+  rotate: false
+  xy: 3245, 2466
+  size: 158, 162
+  orig: 158, 162
+  offset: 0, 0
+  index: -1
+KAMALA-SILK1
+  rotate: true
+  xy: 3430, 105
+  size: 435, 640
+  orig: 435, 640
+  offset: 0, 0
+  index: -1
+KAMALA-SILK2
+  rotate: true
+  xy: 3430, 1380
+  size: 1248, 570
+  orig: 1248, 570
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY
+  rotate: true
+  xy: 2004, 105
+  size: 2259, 1418
+  orig: 2259, 1418
+  offset: 0, 0
+  index: -1
+
+CGKamalaBeerOnChest2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-CHAIR1SM
+  rotate: true
+  xy: 1481, 1004
+  size: 1545, 726
+  orig: 1545, 726
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 83
+  size: 1197, 693
+  orig: 1197, 693
+  offset: 0, 0
+  index: -1
+KAMALA-BEER1
+  rotate: false
+  xy: 3046, 299
+  size: 714, 613
+  orig: 714, 613
+  offset: 0, 0
+  index: -1
+KAMALA-BLUSH
+  rotate: false
+  xy: 2154, 50
+  size: 884, 862
+  orig: 884, 862
+  offset: 0, 0
+  index: -1
+KAMALA-BODY1
+  rotate: true
+  xy: 2257, 2381
+  size: 1703, 1580
+  orig: 1703, 1580
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS2
+  rotate: false
+  xy: 3543, 1201
+  size: 385, 705
+  orig: 385, 705
+  offset: 0, 0
+  index: -1
+KAMALA-EARRINGS
+  rotate: true
+  xy: 1213, 587
+  size: 189, 181
+  orig: 189, 181
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS
+  rotate: false
+  xy: 3543, 1914
+  size: 439, 459
+  orig: 439, 459
+  offset: 0, 0
+  index: -1
+KAMALA-EYELIGHTS
+  rotate: false
+  xy: 3768, 608
+  size: 141, 585
+  orig: 141, 585
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR1
+  rotate: false
+  xy: 2215, 920
+  size: 1320, 1453
+  orig: 1320, 1453
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: false
+  xy: 8, 784
+  size: 1465, 1765
+  orig: 1465, 1765
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 3046, 14
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-HAND
+  rotate: true
+  xy: 1481, 8
+  size: 988, 665
+  orig: 988, 665
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: false
+  xy: 8, 2557
+  size: 2241, 1527
+  orig: 2241, 1527
+  offset: 0, 0
+  index: -1
+
+CGKamalaBeerOnChest3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-CHAIR2SM
+  rotate: false
+  xy: 3170, 1512
+  size: 503, 380
+  orig: 503, 380
+  offset: 0, 0
+  index: -1
+KAMALA-BEER2
+  rotate: false
+  xy: 8, 8
+  size: 598, 638
+  orig: 598, 638
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS
+  rotate: false
+  xy: 8, 654
+  size: 1300, 1238
+  orig: 1300, 1238
+  offset: 0, 0
+  index: -1
+KAMALA-EYES1
+  rotate: false
+  xy: 2555, 1278
+  size: 607, 614
+  orig: 607, 614
+  offset: 0, 0
+  index: -1
+KAMALA-EYES2
+  rotate: false
+  xy: 614, 25
+  size: 561, 621
+  orig: 561, 621
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR2
+  rotate: false
+  xy: 1316, 657
+  size: 1231, 1235
+  orig: 1231, 1235
+  offset: 0, 0
+  index: -1
+KAMALA-SILK3
+  rotate: false
+  xy: 2555, 895
+  size: 532, 375
+  orig: 532, 375
+  offset: 0, 0
+  index: -1

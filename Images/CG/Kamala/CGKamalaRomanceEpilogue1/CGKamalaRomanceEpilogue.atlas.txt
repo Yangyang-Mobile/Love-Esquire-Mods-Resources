@@ -1,0 +1,452 @@
+
+CGKamalaRomanceEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CLOUDS21
+  rotate: true
+  xy: 8, 18
+  size: 1608, 1755
+  orig: 1608, 1755
+  offset: 0, 0
+  index: -1
+CLOUDS22
+  rotate: false
+  xy: 8, 2453
+  size: 3280, 1635
+  orig: 3280, 1635
+  offset: 0, 0
+  index: -1
+KAMALA-ARM-23
+  rotate: false
+  xy: 1596, 2047
+  size: 146, 179
+  orig: 146, 179
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12
+  rotate: true
+  xy: 3331, 18
+  size: 690, 306
+  orig: 690, 306
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22
+  rotate: true
+  xy: 1596, 1907
+  size: 132, 143
+  orig: 132, 143
+  offset: 0, 0
+  index: -1
+KAMALA-CORNEA1
+  rotate: false
+  xy: 3645, 52
+  size: 180, 122
+  orig: 180, 122
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROW
+  rotate: false
+  xy: 3062, 1569
+  size: 224, 108
+  orig: 224, 108
+  offset: 0, 0
+  index: -1
+KAMALA-EYELASH2
+  rotate: false
+  xy: 1596, 1797
+  size: 143, 102
+  orig: 143, 102
+  offset: 0, 0
+  index: -1
+KAMALA-EYEWHITE
+  rotate: false
+  xy: 3833, 55
+  size: 215, 119
+  orig: 215, 119
+  offset: 0, 0
+  index: -1
+KAMALA-GEM1
+  rotate: true
+  xy: 2159, 12
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR1
+  rotate: false
+  xy: 275, 1643
+  size: 603, 802
+  orig: 603, 802
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR10
+  rotate: false
+  xy: 8, 1637
+  size: 259, 808
+  orig: 259, 808
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR2
+  rotate: false
+  xy: 1596, 2340
+  size: 155, 105
+  orig: 155, 105
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR3
+  rotate: true
+  xy: 3296, 3837
+  size: 251, 783
+  orig: 251, 783
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR4
+  rotate: false
+  xy: 1596, 2234
+  size: 152, 98
+  orig: 152, 98
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR5
+  rotate: false
+  xy: 3062, 8
+  size: 261, 700
+  orig: 261, 700
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR7
+  rotate: false
+  xy: 3296, 2624
+  size: 781, 1205
+  orig: 781, 1205
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTING
+  rotate: false
+  xy: 2221, 14
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH2
+  rotate: true
+  xy: 2276, 20
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+KAMALA-NOSE
+  rotate: true
+  xy: 2039, 9
+  size: 32, 112
+  orig: 32, 112
+  offset: 0, 0
+  index: -1
+KAMALA-TORSO
+  rotate: true
+  xy: 3062, 716
+  size: 845, 997
+  orig: 845, 997
+  offset: 0, 0
+  index: -1
+ROPE2
+  rotate: false
+  xy: 1771, 33
+  size: 260, 2412
+  orig: 260, 2412
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM21
+  rotate: false
+  xy: 3062, 2052
+  size: 224, 393
+  orig: 224, 393
+  offset: 0, 0
+  index: -1
+SQUIRE-BOTTOM
+  rotate: true
+  xy: 886, 1644
+  size: 801, 702
+  orig: 801, 702
+  offset: 0, 0
+  index: -1
+SQUIRE-FACE2
+  rotate: false
+  xy: 3062, 1685
+  size: 224, 359
+  orig: 224, 359
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH1
+  rotate: false
+  xy: 1596, 1676
+  size: 86, 113
+  orig: 86, 113
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK
+  rotate: false
+  xy: 3645, 182
+  size: 422, 526
+  orig: 422, 526
+  offset: 0, 0
+  index: -1
+SQUIRE-TORSO
+  rotate: false
+  xy: 3296, 1634
+  size: 773, 982
+  orig: 773, 982
+  offset: 0, 0
+  index: -1
+SUN
+  rotate: true
+  xy: 2039, 49
+  size: 2396, 1015
+  orig: 2396, 1015
+  offset: 0, 0
+  index: -1
+
+CGKamalaRomanceEpilogue2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ARM11
+  rotate: false
+  xy: 3375, 3088
+  size: 668, 604
+  orig: 668, 604
+  offset: 0, 0
+  index: -1
+KAMALA-ARM13
+  rotate: false
+  xy: 439, 3726
+  size: 189, 360
+  orig: 189, 360
+  offset: 0, 0
+  index: -1
+KAMALA-BELT
+  rotate: true
+  xy: 648, 3423
+  size: 663, 312
+  orig: 663, 312
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS1
+  rotate: true
+  xy: 3013, 750
+  size: 544, 975
+  orig: 544, 975
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS2
+  rotate: false
+  xy: 439, 1681
+  size: 419, 886
+  orig: 419, 886
+  offset: 0, 0
+  index: -1
+KAMALA-BOTTOM
+  rotate: false
+  xy: 3013, 175
+  size: 932, 567
+  orig: 932, 567
+  offset: 0, 0
+  index: -1
+KAMALA-EYELASH1
+  rotate: true
+  xy: 439, 3346
+  size: 275, 168
+  orig: 275, 168
+  offset: 0, 0
+  index: -1
+KAMALA-EYESHINE
+  rotate: false
+  xy: 439, 3629
+  size: 182, 89
+  orig: 182, 89
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR11
+  rotate: true
+  xy: 1359, 873
+  size: 421, 1050
+  orig: 421, 1050
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR8
+  rotate: true
+  xy: 1257, 8
+  size: 833, 1038
+  orig: 833, 1038
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR9
+  rotate: false
+  xy: 2417, 38
+  size: 588, 1256
+  orig: 588, 1256
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: false
+  xy: 648, 110
+  size: 601, 718
+  orig: 601, 718
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH1
+  rotate: false
+  xy: 2303, 755
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH1B
+  rotate: false
+  xy: 2303, 637
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+KAMALA-NECK
+  rotate: true
+  xy: 439, 1343
+  size: 330, 377
+  orig: 330, 377
+  offset: 0, 0
+  index: -1
+ROPE1
+  rotate: true
+  xy: 8, 18
+  size: 62, 955
+  orig: 62, 955
+  offset: 0, 0
+  index: -1
+ROPE3
+  rotate: false
+  xy: 8, 826
+  size: 423, 3260
+  orig: 423, 3260
+  offset: 0, 0
+  index: -1
+SHIP
+  rotate: false
+  xy: 971, 2698
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+SKY
+  rotate: false
+  xy: 971, 1302
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: false
+  xy: 8, 88
+  size: 632, 730
+  orig: 632, 730
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: false
+  xy: 648, 3002
+  size: 290, 413
+  orig: 290, 413
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM13
+  rotate: false
+  xy: 983, 849
+  size: 368, 445
+  orig: 368, 445
+  offset: 0, 0
+  index: -1
+SQUIRE-BELT
+  rotate: false
+  xy: 3375, 1788
+  size: 639, 907
+  orig: 639, 907
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR1
+  rotate: true
+  xy: 439, 836
+  size: 458, 536
+  orig: 458, 536
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR2
+  rotate: true
+  xy: 3375, 2703
+  size: 377, 667
+  orig: 377, 667
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD1
+  rotate: true
+  xy: 3375, 1382
+  size: 398, 528
+  orig: 398, 528
+  offset: 0, 0
+  index: -1
+SQUIRE-HOODIE1
+  rotate: false
+  xy: 3375, 3700
+  size: 674, 386
+  orig: 674, 386
+  offset: 0, 0
+  index: -1
+SQUIRE-HOODIE2
+  rotate: true
+  xy: 648, 2575
+  size: 419, 281
+  orig: 419, 281
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH3
+  rotate: true
+  xy: 971, 16
+  size: 86, 113
+  orig: 86, 113
+  offset: 0, 0
+  index: -1
+
+CGKamalaRomanceEpilogue3.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CLOUDS1
+  rotate: false
+  xy: 8, 8
+  size: 2396, 931
+  orig: 2396, 931
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR6
+  rotate: false
+  xy: 2412, 750
+  size: 885, 1167
+  orig: 885, 1167
+  offset: 0, 0
+  index: -1
+KAMALA-SHOULDER
+  rotate: false
+  xy: 2412, 345
+  size: 244, 397
+  orig: 244, 397
+  offset: 0, 0
+  index: -1
+SEA
+  rotate: false
+  xy: 8, 947
+  size: 2396, 970
+  orig: 2396, 970
+  offset: 0, 0
+  index: -1

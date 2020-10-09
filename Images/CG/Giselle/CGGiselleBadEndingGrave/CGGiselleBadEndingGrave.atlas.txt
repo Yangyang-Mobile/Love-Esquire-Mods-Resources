@@ -1,0 +1,234 @@
+
+CGGiselleBadEndingGrave.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-ARM22
+  rotate: true
+  xy: 387, 1858
+  size: 1531, 3635
+  orig: 1531, 3635
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR21
+  rotate: false
+  xy: 346, 130
+  size: 1354, 1720
+  orig: 1354, 1720
+  offset: 0, 0
+  index: -1
+GRASS1
+  rotate: false
+  xy: 8, 3397
+  size: 3992, 684
+  orig: 3992, 684
+  offset: 0, 0
+  index: -1
+GRASS2
+  rotate: true
+  xy: 8, 126
+  size: 3263, 330
+  orig: 3263, 330
+  offset: 0, 0
+  index: -1
+GRASS33
+  rotate: false
+  xy: 387, 26
+  size: 277, 96
+  orig: 277, 96
+  offset: 0, 0
+  index: -1
+GRASS35
+  rotate: true
+  xy: 167, 10
+  size: 108, 212
+  orig: 108, 212
+  offset: 0, 0
+  index: -1
+GRASS36
+  rotate: true
+  xy: 8, 8
+  size: 110, 151
+  orig: 110, 151
+  offset: 0, 0
+  index: -1
+GRASS37
+  rotate: false
+  xy: 4008, 3894
+  size: 62, 187
+  orig: 62, 187
+  offset: 0, 0
+  index: -1
+TOMBSTONE
+  rotate: true
+  xy: 1708, 105
+  size: 1745, 2312
+  orig: 1745, 2312
+  offset: 0, 0
+  index: -1
+
+CGGiselleBadEndingGrave2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CLOUDS
+  rotate: false
+  xy: 8, 241
+  size: 2796, 2055
+  orig: 2796, 2055
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: false
+  xy: 3030, 1934
+  size: 951, 2070
+  orig: 951, 2070
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR22
+  rotate: true
+  xy: 2812, 253
+  size: 682, 1178
+  orig: 682, 1178
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD2
+  rotate: false
+  xy: 2812, 943
+  size: 949, 983
+  orig: 949, 983
+  offset: 0, 0
+  index: -1
+GISELLE-LEGS2
+  rotate: false
+  xy: 8, 2304
+  size: 3014, 1700
+  orig: 3014, 1700
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH2
+  rotate: true
+  xy: 2812, 2067
+  size: 229, 189
+  orig: 229, 189
+  offset: 0, 0
+  index: -1
+GRASS31
+  rotate: true
+  xy: 487, 106
+  size: 127, 145
+  orig: 127, 145
+  offset: 0, 0
+  index: -1
+GRASS32
+  rotate: false
+  xy: 8, 8
+  size: 246, 225
+  orig: 246, 225
+  offset: 0, 0
+  index: -1
+GRASS34
+  rotate: true
+  xy: 262, 51
+  size: 182, 217
+  orig: 182, 217
+  offset: 0, 0
+  index: -1
+GRASS41
+  rotate: false
+  xy: 2812, 8
+  size: 920, 237
+  orig: 920, 237
+  offset: 0, 0
+  index: -1
+GRASS42
+  rotate: true
+  xy: 3769, 988
+  size: 287, 229
+  orig: 287, 229
+  offset: 0, 0
+  index: -1
+GRASS431
+  rotate: true
+  xy: 3769, 1283
+  size: 643, 261
+  orig: 643, 261
+  offset: 0, 0
+  index: -1
+GRASS432
+  rotate: false
+  xy: 3740, 10
+  size: 259, 235
+  orig: 259, 235
+  offset: 0, 0
+  index: -1
+
+CGGiselleBadEndingGrave3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GISELLE-HAIR23
+  rotate: true
+  xy: 2411, 1584
+  size: 743, 1367
+  orig: 743, 1367
+  offset: 0, 0
+  index: -1
+GISELLE-TEARS
+  rotate: false
+  xy: 2970, 1198
+  size: 466, 378
+  orig: 466, 378
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO2
+  rotate: true
+  xy: 2411, 2335
+  size: 1370, 1608
+  orig: 1370, 1608
+  offset: 0, 0
+  index: -1
+GRASS5
+  rotate: false
+  xy: 8, 8
+  size: 2737, 908
+  orig: 2737, 908
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 2410, 1114
+  size: 552, 462
+  orig: 552, 462
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 8, 924
+  size: 2394, 1386
+  orig: 2394, 1386
+  offset: 0, 0
+  index: -1
+SKY
+  rotate: false
+  xy: 8, 2318
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+
+CGGiselleBadEndingGrave4.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GRASS433
+  rotate: false
+  xy: 8, 8
+  size: 2270, 469
+  orig: 2270, 469
+  offset: 0, 0
+  index: -1

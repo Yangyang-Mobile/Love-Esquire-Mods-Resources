@@ -1,0 +1,181 @@
+
+CGAmyWinLadiesofLake.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ACCESSORY1
+  rotate: false
+  xy: 8, 8
+  size: 268, 242
+  orig: 268, 242
+  offset: 0, 0
+  index: -1
+AMY-ACCESSORY2
+  rotate: false
+  xy: 1670, 1244
+  size: 143, 223
+  orig: 143, 223
+  offset: 0, 0
+  index: -1
+AMY-ACCESSORY3
+  rotate: true
+  xy: 3979, 3825
+  size: 249, 80
+  orig: 249, 80
+  offset: 0, 0
+  index: -1
+AMY-ARM11
+  rotate: false
+  xy: 926, 1823
+  size: 821, 894
+  orig: 821, 894
+  offset: 0, 0
+  index: -1
+AMY-ARM12
+  rotate: true
+  xy: 8, 258
+  size: 312, 827
+  orig: 312, 827
+  offset: 0, 0
+  index: -1
+AMY-ARM13
+  rotate: false
+  xy: 1872, 2814
+  size: 1095, 552
+  orig: 1095, 552
+  offset: 0, 0
+  index: -1
+AMY-ARM21
+  rotate: false
+  xy: 843, 34
+  size: 698, 647
+  orig: 698, 647
+  offset: 0, 0
+  index: -1
+AMY-ARM22
+  rotate: true
+  xy: 1755, 2164
+  size: 553, 422
+  orig: 553, 422
+  offset: 0, 0
+  index: -1
+AMY-ARM23
+  rotate: false
+  xy: 3091, 3302
+  size: 880, 772
+  orig: 880, 772
+  offset: 0, 0
+  index: -1
+AMY-BLUSH
+  rotate: false
+  xy: 799, 689
+  size: 554, 490
+  orig: 554, 490
+  offset: 0, 0
+  index: -1
+AMY-BODY
+  rotate: false
+  xy: 8, 2725
+  size: 1856, 1349
+  orig: 1856, 1349
+  offset: 0, 0
+  index: -1
+AMY-EYEBROWS
+  rotate: false
+  xy: 1670, 1475
+  size: 375, 325
+  orig: 375, 325
+  offset: 0, 0
+  index: -1
+AMY-EYES
+  rotate: false
+  xy: 1755, 1808
+  size: 415, 348
+  orig: 415, 348
+  offset: 0, 0
+  index: -1
+AMY-FRILLS
+  rotate: false
+  xy: 1872, 3374
+  size: 1211, 700
+  orig: 1211, 700
+  offset: 0, 0
+  index: -1
+AMY-FRILLS2
+  rotate: false
+  xy: 799, 1524
+  size: 110, 112
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: false
+  xy: 2975, 2558
+  size: 797, 736
+  orig: 797, 736
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: true
+  xy: 2737, 2532
+  size: 274, 226
+  orig: 274, 226
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: false
+  xy: 2185, 2106
+  size: 530, 327
+  orig: 530, 327
+  offset: 0, 0
+  index: -1
+AMY-HAIR4
+  rotate: true
+  xy: 926, 1187
+  size: 628, 736
+  orig: 628, 736
+  offset: 0, 0
+  index: -1
+AMY-HAIR5
+  rotate: true
+  xy: 3780, 3097
+  size: 197, 184
+  orig: 197, 184
+  offset: 0, 0
+  index: -1
+AMY-HAIR6
+  rotate: false
+  xy: 2185, 2441
+  size: 544, 365
+  orig: 544, 365
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: false
+  xy: 8, 1644
+  size: 910, 1073
+  orig: 910, 1073
+  offset: 0, 0
+  index: -1
+AMY-MOUTH
+  rotate: false
+  xy: 2178, 1736
+  size: 425, 362
+  orig: 425, 362
+  offset: 0, 0
+  index: -1
+AMY-TORSO2
+  rotate: true
+  xy: 8, 578
+  size: 1058, 783
+  orig: 1058, 783
+  offset: 0, 0
+  index: -1
+AMY-TORSO3
+  rotate: true
+  xy: 1361, 714
+  size: 465, 305
+  orig: 465, 305
+  offset: 0, 0
+  index: -1

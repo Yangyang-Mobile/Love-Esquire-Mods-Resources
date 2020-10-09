@@ -1,0 +1,648 @@
+
+CGBeatriceBadEndEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ABEATRICE-FUR1
+  rotate: false
+  xy: 2786, 81
+  size: 482, 964
+  orig: 482, 964
+  offset: 0, 0
+  index: -1
+ABEATRICE-MOUTH
+  rotate: false
+  xy: 3166, 19
+  size: 101, 54
+  orig: 101, 54
+  offset: 0, 0
+  index: -1
+ASPARKLE1
+  rotate: true
+  xy: 3996, 328
+  size: 121, 72
+  orig: 121, 72
+  offset: 0, 0
+  index: -1
+B-BEATRICE-ARM11
+  rotate: true
+  xy: 4049, 3980
+  size: 111, 43
+  orig: 111, 43
+  offset: 0, 0
+  index: -1
+B-BEATRICE-ARM12
+  rotate: false
+  xy: 3061, 11
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+B-BEATRICE-ARM13
+  rotate: false
+  xy: 2786, 4
+  size: 163, 69
+  orig: 163, 69
+  offset: 0, 0
+  index: -1
+B-BEATRICE-ARM14
+  rotate: false
+  xy: 3996, 733
+  size: 96, 298
+  orig: 96, 298
+  offset: 0, 0
+  index: -1
+B-BEATRICE-ARM21
+  rotate: true
+  xy: 4049, 3906
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+B-BEATRICE-ARM22
+  rotate: false
+  xy: 2957, 9
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+B-BEATRICE-HAIR11
+  rotate: false
+  xy: 3996, 600
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+B-BEATRICE-HAIR12
+  rotate: false
+  xy: 3996, 457
+  size: 84, 135
+  orig: 84, 135
+  offset: 0, 0
+  index: -1
+B-BEATRICE-MOUTH
+  rotate: true
+  xy: 4049, 3862
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+B-BG-STAGE
+  rotate: false
+  xy: 4, 3835
+  size: 4037, 256
+  orig: 4037, 256
+  offset: 0, 0
+  index: -1
+B-BGTHRONE2
+  rotate: false
+  xy: 3333, 2482
+  size: 748, 1345
+  orig: 748, 1345
+  offset: 0, 0
+  index: -1
+B-KNIGHT12
+  rotate: false
+  xy: 3333, 1039
+  size: 728, 1435
+  orig: 728, 1435
+  offset: 0, 0
+  index: -1
+B-KNIGHT13
+  rotate: false
+  xy: 3276, 31
+  size: 712, 1000
+  orig: 712, 1000
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY6
+  rotate: false
+  xy: 3996, 240
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+GUARD-SEAT
+  rotate: false
+  xy: 4, 1053
+  size: 3321, 2774
+  orig: 3321, 2774
+  offset: 0, 0
+  index: -1
+GUARD1-BODY
+  rotate: true
+  xy: 4, 21
+  size: 1024, 2774
+  orig: 1024, 2774
+  offset: 0, 0
+  index: -1
+
+CGBeatriceBadEndEpilogue2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ABEATRICE-BODY1
+  rotate: true
+  xy: 1583, 1493
+  size: 195, 539
+  orig: 195, 539
+  offset: 0, 0
+  index: -1
+ABEATRICE-BODY2
+  rotate: true
+  xy: 2965, 13
+  size: 861, 568
+  orig: 861, 568
+  offset: 0, 0
+  index: -1
+ABEATRICE-DRESS2
+  rotate: false
+  xy: 2965, 3398
+  size: 1122, 693
+  orig: 1122, 693
+  offset: 0, 0
+  index: -1
+ABEATRICE-EYEBROWSA
+  rotate: true
+  xy: 3938, 16
+  size: 379, 99
+  orig: 379, 99
+  offset: 0, 0
+  index: -1
+ABEATRICE-EYEBROWSB
+  rotate: true
+  xy: 3941, 1295
+  size: 393, 136
+  orig: 393, 136
+  offset: 0, 0
+  index: -1
+ABEATRICE-EYELASHES
+  rotate: true
+  xy: 3938, 403
+  size: 471, 152
+  orig: 471, 152
+  offset: 0, 0
+  index: -1
+ABEATRICE-HAIR2
+  rotate: false
+  xy: 3541, 151
+  size: 389, 836
+  orig: 389, 836
+  offset: 0, 0
+  index: -1
+ABEATRICE-NECKLACE1
+  rotate: false
+  xy: 3301, 885
+  size: 115, 102
+  orig: 115, 102
+  offset: 0, 0
+  index: -1
+ABEATRICE-NECKLACE2
+  rotate: true
+  xy: 875, 1481
+  size: 207, 328
+  orig: 207, 328
+  offset: 0, 0
+  index: -1
+B-BEATRICE-ARM23
+  rotate: false
+  xy: 3941, 1125
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+B-BEATRICE-ARM24
+  rotate: true
+  xy: 2965, 882
+  size: 105, 328
+  orig: 105, 328
+  offset: 0, 0
+  index: -1
+B-BEATRICE-BODY1
+  rotate: false
+  xy: 2640, 1638
+  size: 300, 481
+  orig: 300, 481
+  offset: 0, 0
+  index: -1
+B-BEATRICE-BODY2
+  rotate: false
+  xy: 1211, 1485
+  size: 101, 203
+  orig: 101, 203
+  offset: 0, 0
+  index: -1
+B-BEATRICE-DRESS15
+  rotate: true
+  xy: 3941, 3004
+  size: 386, 150
+  orig: 386, 150
+  offset: 0, 0
+  index: -1
+B-BEATRICE-DRESS16
+  rotate: false
+  xy: 3941, 2338
+  size: 139, 323
+  orig: 139, 323
+  offset: 0, 0
+  index: -1
+B-BEATRICE-FOOT1
+  rotate: false
+  xy: 2640, 2323
+  size: 312, 365
+  orig: 312, 365
+  offset: 0, 0
+  index: -1
+B-BEATRICE-FOOT2
+  rotate: false
+  xy: 2130, 1519
+  size: 108, 169
+  orig: 108, 169
+  offset: 0, 0
+  index: -1
+B-BEATRICE-FUR1
+  rotate: true
+  xy: 3941, 2855
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+B-BEATRICE-FUR2
+  rotate: false
+  xy: 2640, 2127
+  size: 312, 188
+  orig: 312, 188
+  offset: 0, 0
+  index: -1
+B-BEATRICE-HAIR1
+  rotate: true
+  xy: 3941, 2669
+  size: 178, 143
+  orig: 178, 143
+  offset: 0, 0
+  index: -1
+B-BEATRICE-HEAD
+  rotate: true
+  xy: 1320, 1488
+  size: 200, 255
+  orig: 200, 255
+  offset: 0, 0
+  index: -1
+B-BEATRICE-SASH
+  rotate: true
+  xy: 2640, 1451
+  size: 179, 209
+  orig: 179, 209
+  offset: 0, 0
+  index: -1
+B-BGFLOWER
+  rotate: true
+  xy: 2965, 995
+  size: 2395, 968
+  orig: 2395, 968
+  offset: 0, 0
+  index: -1
+B-CROWNLIGHTS
+  rotate: true
+  xy: 3941, 2163
+  size: 167, 138
+  orig: 167, 138
+  offset: 0, 0
+  index: -1
+B-GLOW
+  rotate: false
+  xy: 580, 15
+  size: 2377, 1420
+  orig: 2377, 1420
+  offset: 0, 0
+  index: -1
+B-KNIGHT11
+  rotate: true
+  xy: 3541, 18
+  size: 125, 235
+  orig: 125, 235
+  offset: 0, 0
+  index: -1
+B-KNIGHT21
+  rotate: false
+  xy: 3941, 882
+  size: 129, 235
+  orig: 129, 235
+  offset: 0, 0
+  index: -1
+B-KNIGHT22
+  rotate: false
+  xy: 2270, 2696
+  size: 672, 1395
+  orig: 672, 1395
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM23
+  rotate: false
+  xy: 2270, 1456
+  size: 362, 1232
+  orig: 362, 1232
+  offset: 0, 0
+  index: -1
+BG-WALL
+  rotate: true
+  xy: 875, 1696
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+GUARD1-ARM1
+  rotate: false
+  xy: 4, 4
+  size: 568, 1431
+  orig: 568, 1431
+  offset: 0, 0
+  index: -1
+GUARD2-ARM1
+  rotate: false
+  xy: 4, 1443
+  size: 863, 2648
+  orig: 863, 2648
+  offset: 0, 0
+  index: -1
+GUARDLIGHTS
+  rotate: true
+  xy: 3941, 1696
+  size: 459, 137
+  orig: 459, 137
+  offset: 0, 0
+  index: -1
+
+CGBeatriceBadEndEpilogue3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ABEATRICE-BLUSH
+  rotate: true
+  xy: 2606, 1375
+  size: 625, 323
+  orig: 625, 323
+  offset: 0, 0
+  index: -1
+ABEATRICE-BODY3
+  rotate: false
+  xy: 668, 588
+  size: 331, 928
+  orig: 331, 928
+  offset: 0, 0
+  index: -1
+ABEATRICE-BODY4
+  rotate: false
+  xy: 2273, 1817
+  size: 306, 904
+  orig: 306, 904
+  offset: 0, 0
+  index: -1
+ABEATRICE-CORNEA
+  rotate: false
+  xy: 1118, 58
+  size: 336, 110
+  orig: 336, 110
+  offset: 0, 0
+  index: -1
+ABEATRICE-DRESS1
+  rotate: true
+  xy: 1572, 1822
+  size: 899, 693
+  orig: 899, 693
+  offset: 0, 0
+  index: -1
+ABEATRICE-DRESS3
+  rotate: true
+  xy: 4, 367
+  size: 1149, 656
+  orig: 1149, 656
+  offset: 0, 0
+  index: -1
+ABEATRICE-EYELIGHTS
+  rotate: true
+  xy: 1465, 143
+  size: 376, 157
+  orig: 376, 157
+  offset: 0, 0
+  index: -1
+ABEATRICE-FUR2
+  rotate: true
+  xy: 2372, 2740
+  size: 441, 907
+  orig: 441, 907
+  offset: 0, 0
+  index: -1
+ABEATRICE-HAIR1
+  rotate: false
+  xy: 1635, 1242
+  size: 628, 572
+  orig: 628, 572
+  offset: 0, 0
+  index: -1
+ABEATRICE-HAIR3
+  rotate: true
+  xy: 1007, 527
+  size: 388, 705
+  orig: 388, 705
+  offset: 0, 0
+  index: -1
+ABEATRICE-HAIR4
+  rotate: false
+  xy: 3045, 2098
+  size: 338, 634
+  orig: 338, 634
+  offset: 0, 0
+  index: -1
+ABEATRICE-HAIR5
+  rotate: true
+  xy: 1635, 969
+  size: 265, 654
+  orig: 265, 654
+  offset: 0, 0
+  index: -1
+ABEATRICE-HEAD
+  rotate: false
+  xy: 3308, 3248
+  size: 728, 830
+  orig: 728, 830
+  offset: 0, 0
+  index: -1
+ABEATRICE-NECK
+  rotate: false
+  xy: 1990, 130
+  size: 295, 281
+  orig: 295, 281
+  offset: 0, 0
+  index: -1
+ABEATRICE-SCLERA
+  rotate: true
+  xy: 3175, 609
+  size: 389, 191
+  orig: 389, 191
+  offset: 0, 0
+  index: -1
+ALIGHTING
+  rotate: true
+  xy: 2623, 469
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+B-BEATRICE-DRESS11
+  rotate: false
+  xy: 3053, 1006
+  size: 266, 395
+  orig: 266, 395
+  offset: 0, 0
+  index: -1
+B-BEATRICE-DRESS12
+  rotate: false
+  xy: 3227, 1554
+  size: 263, 536
+  orig: 263, 536
+  offset: 0, 0
+  index: -1
+B-BEATRICE-DRESS13
+  rotate: false
+  xy: 2297, 992
+  size: 325, 300
+  orig: 325, 300
+  offset: 0, 0
+  index: -1
+B-BEATRICE-DRESS14
+  rotate: false
+  xy: 668, 417
+  size: 265, 163
+  orig: 265, 163
+  offset: 0, 0
+  index: -1
+B-BEATRICE-DRESS2
+  rotate: false
+  xy: 1630, 120
+  size: 352, 291
+  orig: 352, 291
+  offset: 0, 0
+  index: -1
+B-BEATRICE-HAIR2
+  rotate: false
+  xy: 2612, 289
+  size: 193, 172
+  orig: 193, 172
+  offset: 0, 0
+  index: -1
+B-BEATRICE-HAIR4
+  rotate: false
+  xy: 2338, 236
+  size: 266, 261
+  orig: 266, 261
+  offset: 0, 0
+  index: -1
+B-BGTHRONE1
+  rotate: false
+  xy: 4, 4
+  size: 748, 355
+  orig: 748, 355
+  offset: 0, 0
+  index: -1
+B-BGWALL
+  rotate: false
+  xy: 4, 2729
+  size: 2360, 1349
+  orig: 2360, 1349
+  offset: 0, 0
+  index: -1
+B-KNIGHT23
+  rotate: false
+  xy: 1007, 923
+  size: 620, 848
+  orig: 620, 848
+  offset: 0, 0
+  index: -1
+B-LIGHTING
+  rotate: true
+  xy: 2338, 505
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+B-LIGHTRAY
+  rotate: true
+  xy: 2908, 506
+  size: 442, 259
+  orig: 442, 259
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM11
+  rotate: false
+  xy: 760, 41
+  size: 350, 368
+  orig: 350, 368
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM12
+  rotate: false
+  xy: 2630, 956
+  size: 415, 411
+  orig: 415, 411
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM13
+  rotate: false
+  xy: 838, 1779
+  size: 726, 942
+  orig: 726, 942
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM21
+  rotate: false
+  xy: 1118, 176
+  size: 339, 343
+  orig: 339, 343
+  offset: 0, 0
+  index: -1
+BEATRICE-ARMN22
+  rotate: false
+  xy: 2937, 1409
+  size: 282, 591
+  orig: 282, 591
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY5
+  rotate: false
+  xy: 2372, 3189
+  size: 928, 889
+  orig: 928, 889
+  offset: 0, 0
+  index: -1
+BEATRICE-CROWN
+  rotate: true
+  xy: 2271, 1300
+  size: 509, 327
+  orig: 509, 327
+  offset: 0, 0
+  index: -1
+GUARD1-ARM2
+  rotate: false
+  xy: 4, 1524
+  size: 826, 1197
+  orig: 826, 1197
+  offset: 0, 0
+  index: -1
+GUARD2-ARM2
+  rotate: true
+  xy: 1720, 419
+  size: 542, 610
+  orig: 542, 610
+  offset: 0, 0
+  index: -1
+GUARD2-ARM3
+  rotate: false
+  xy: 2587, 2008
+  size: 450, 724
+  orig: 450, 724
+  offset: 0, 0
+  index: -1

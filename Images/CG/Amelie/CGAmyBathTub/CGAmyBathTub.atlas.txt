@@ -1,0 +1,277 @@
+
+CGAmyBathTub.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMELIE-ARM12
+  rotate: true
+  xy: 1314, 122
+  size: 1913, 644
+  orig: 1913, 644
+  offset: 0, 0
+  index: -1
+AMELIE-ARM21
+  rotate: false
+  xy: 1966, 31
+  size: 865, 892
+  orig: 865, 892
+  offset: 0, 0
+  index: -1
+AMELIE-ARM23
+  rotate: true
+  xy: 3763, 3133
+  size: 354, 313
+  orig: 354, 313
+  offset: 0, 0
+  index: -1
+AMELIE-CORNEA
+  rotate: true
+  xy: 3763, 2043
+  size: 490, 301
+  orig: 490, 301
+  offset: 0, 0
+  index: -1
+AMELIE-EYEBROWS1
+  rotate: true
+  xy: 3763, 3495
+  size: 592, 313
+  orig: 592, 313
+  offset: 0, 0
+  index: -1
+AMELIE-EYEBROWS2
+  rotate: true
+  xy: 3763, 2541
+  size: 584, 309
+  orig: 584, 309
+  offset: 0, 0
+  index: -1
+AMELIE-EYES1
+  rotate: false
+  xy: 1314, 2067
+  size: 670, 340
+  orig: 670, 340
+  offset: 0, 0
+  index: -1
+AMELIE-EYESHINE
+  rotate: true
+  xy: 3739, 1527
+  size: 508, 293
+  orig: 508, 293
+  offset: 0, 0
+  index: -1
+AMELIE-HAIR2
+  rotate: false
+  xy: 1992, 931
+  size: 1739, 1476
+  orig: 1739, 1476
+  offset: 0, 0
+  index: -1
+AMELIE-MOUTH1
+  rotate: false
+  xy: 1314, 9
+  size: 179, 105
+  orig: 179, 105
+  offset: 0, 0
+  index: -1
+AMELIE-MOUTH2
+  rotate: true
+  xy: 3758, 43
+  size: 225, 164
+  orig: 225, 164
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: true
+  xy: 8, 101
+  size: 2306, 1298
+  orig: 2306, 1298
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 3289, 9
+  size: 461, 259
+  orig: 461, 259
+  offset: 0, 0
+  index: -1
+SOAP2
+  rotate: true
+  xy: 2839, 8
+  size: 260, 442
+  orig: 260, 442
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM
+  rotate: true
+  xy: 2839, 276
+  size: 647, 1220
+  orig: 647, 1220
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM2
+  rotate: false
+  xy: 3739, 1003
+  size: 292, 516
+  orig: 292, 516
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH
+  rotate: true
+  xy: 3930, 89
+  size: 179, 141
+  orig: 179, 141
+  offset: 0, 0
+  index: -1
+TUB
+  rotate: false
+  xy: 8, 2415
+  size: 3747, 1672
+  orig: 3747, 1672
+  offset: 0, 0
+  index: -1
+
+CGAmyBathTub2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMELIE-ARM11
+  rotate: false
+  xy: 2976, 2033
+  size: 1091, 832
+  orig: 1091, 832
+  offset: 0, 0
+  index: -1
+AMELIE-ARM22
+  rotate: false
+  xy: 2976, 1560
+  size: 874, 465
+  orig: 874, 465
+  offset: 0, 0
+  index: -1
+AMELIE-HAIR1
+  rotate: true
+  xy: 3009, 579
+  size: 973, 981
+  orig: 973, 981
+  offset: 0, 0
+  index: -1
+AMELIE-LEG2
+  rotate: true
+  xy: 3034, 2873
+  size: 1213, 1023
+  orig: 1213, 1023
+  offset: 0, 0
+  index: -1
+AMELIE-TORSO
+  rotate: false
+  xy: 8, 8
+  size: 1803, 1540
+  orig: 1803, 1540
+  offset: 0, 0
+  index: -1
+FOG
+  rotate: false
+  xy: 3009, 52
+  size: 922, 519
+  orig: 922, 519
+  offset: 0, 0
+  index: -1
+SOAP3
+  rotate: false
+  xy: 8, 1556
+  size: 2960, 1328
+  orig: 2960, 1328
+  offset: 0, 0
+  index: -1
+WATER1
+  rotate: false
+  xy: 8, 2892
+  size: 3018, 1194
+  orig: 3018, 1194
+  offset: 0, 0
+  index: -1
+WATERDROPS
+  rotate: true
+  xy: 1819, 121
+  size: 1427, 1182
+  orig: 1427, 1182
+  offset: 0, 0
+  index: -1
+
+CGAmyBathTub3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMELIE-BLUSH
+  rotate: false
+  xy: 2574, 1790
+  size: 650, 426
+  orig: 650, 426
+  offset: 0, 0
+  index: -1
+AMELIE-EYE2
+  rotate: false
+  xy: 2574, 2224
+  size: 691, 740
+  orig: 691, 740
+  offset: 0, 0
+  index: -1
+AMELIE-HEAD
+  rotate: false
+  xy: 1195, 1640
+  size: 1371, 1324
+  orig: 1371, 1324
+  offset: 0, 0
+  index: -1
+AMELIE-LEG1
+  rotate: false
+  xy: 2911, 3074
+  size: 1151, 706
+  orig: 1151, 706
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM1
+  rotate: false
+  xy: 3273, 2386
+  size: 713, 680
+  orig: 713, 680
+  offset: 0, 0
+  index: -1
+SQUIRE-BLUSH
+  rotate: true
+  xy: 963, 236
+  size: 584, 461
+  orig: 584, 461
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY
+  rotate: false
+  xy: 8, 828
+  size: 1179, 2136
+  orig: 1179, 2136
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR
+  rotate: false
+  xy: 1195, 888
+  size: 1319, 744
+  orig: 1319, 744
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: false
+  xy: 8, 8
+  size: 947, 812
+  orig: 947, 812
+  offset: 0, 0
+  index: -1
+WATER2
+  rotate: false
+  xy: 8, 2972
+  size: 2895, 808
+  orig: 2895, 808
+  offset: 0, 0
+  index: -1

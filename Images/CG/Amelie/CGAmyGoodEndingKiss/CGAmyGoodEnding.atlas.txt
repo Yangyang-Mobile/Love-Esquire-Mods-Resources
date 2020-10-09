@@ -1,0 +1,285 @@
+
+CGAmyGoodEnding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM11
+  rotate: true
+  xy: 2355, 1260
+  size: 1085, 1077
+  orig: 1085, 1077
+  offset: 0, 0
+  index: -1
+AMY-ARM12
+  rotate: false
+  xy: 2262, 8
+  size: 353, 349
+  orig: 353, 349
+  offset: 0, 0
+  index: -1
+AMY-ARM13
+  rotate: false
+  xy: 1096, 288
+  size: 453, 1329
+  orig: 453, 1329
+  offset: 0, 0
+  index: -1
+AMY-ARM22
+  rotate: true
+  xy: 3440, 1302
+  size: 457, 556
+  orig: 457, 556
+  offset: 0, 0
+  index: -1
+AMY-ARM23
+  rotate: true
+  xy: 1455, 17
+  size: 263, 312
+  orig: 263, 312
+  offset: 0, 0
+  index: -1
+AMY-EYEBROW
+  rotate: true
+  xy: 2623, 136
+  size: 221, 186
+  orig: 221, 186
+  offset: 0, 0
+  index: -1
+AMY-FLOWER
+  rotate: false
+  xy: 3586, 69
+  size: 371, 375
+  orig: 371, 375
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: false
+  xy: 3440, 1767
+  size: 638, 578
+  orig: 638, 578
+  offset: 0, 0
+  index: -1
+AMY-HAIR4
+  rotate: false
+  xy: 3126, 9
+  size: 452, 435
+  orig: 452, 435
+  offset: 0, 0
+  index: -1
+AMY-HAIR5
+  rotate: false
+  xy: 2986, 127
+  size: 132, 230
+  orig: 132, 230
+  offset: 0, 0
+  index: -1
+AMY-HAT
+  rotate: true
+  xy: 1557, 365
+  size: 754, 1468
+  orig: 754, 1468
+  offset: 0, 0
+  index: -1
+AMY-RIBBON
+  rotate: true
+  xy: 1096, 32
+  size: 248, 351
+  orig: 248, 351
+  offset: 0, 0
+  index: -1
+AMY-TORSO
+  rotate: true
+  xy: 8, 132
+  size: 1485, 1080
+  orig: 1485, 1080
+  offset: 0, 0
+  index: -1
+BG-PETAL1
+  rotate: true
+  xy: 8, 25
+  size: 99, 159
+  orig: 99, 159
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 2698
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 1775, 80
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM13
+  rotate: true
+  xy: 8, 1625
+  size: 1065, 1776
+  orig: 1065, 1776
+  offset: 0, 0
+  index: -1
+SQUIRE-BELT1
+  rotate: false
+  xy: 1792, 1214
+  size: 555, 1476
+  orig: 555, 1476
+  offset: 0, 0
+  index: -1
+SQUIRE-BELT2
+  rotate: true
+  xy: 1557, 1127
+  size: 490, 187
+  orig: 490, 187
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR1
+  rotate: false
+  xy: 2817, 111
+  size: 161, 246
+  orig: 161, 246
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR3
+  rotate: true
+  xy: 3033, 452
+  size: 800, 1006
+  orig: 800, 1006
+  offset: 0, 0
+  index: -1
+SQUIRE-LIPS
+  rotate: true
+  xy: 2355, 1128
+  size: 124, 148
+  orig: 124, 148
+  offset: 0, 0
+  index: -1
+SQUIRE-LIPS2
+  rotate: true
+  xy: 2355, 2637
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+SQUIRE-TORSO
+  rotate: true
+  xy: 2411, 2353
+  size: 1732, 1667
+  orig: 1732, 1667
+  offset: 0, 0
+  index: -1
+
+CGAmyGoodEnding2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM21
+  rotate: true
+  xy: 8, 909
+  size: 910, 737
+  orig: 910, 737
+  offset: 0, 0
+  index: -1
+AMY-ARM24
+  rotate: false
+  xy: 1643, 1735
+  size: 457, 556
+  orig: 457, 556
+  offset: 0, 0
+  index: -1
+AMY-ARM25
+  rotate: false
+  xy: 2108, 1735
+  size: 457, 556
+  orig: 457, 556
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: true
+  xy: 796, 1626
+  size: 672, 839
+  orig: 672, 839
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: false
+  xy: 891, 3000
+  size: 1003, 944
+  orig: 1003, 944
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: false
+  xy: 8, 2823
+  size: 875, 1121
+  orig: 875, 1121
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: false
+  xy: 2266, 2367
+  size: 497, 675
+  orig: 497, 675
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: false
+  xy: 753, 915
+  size: 729, 703
+  orig: 729, 703
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM14
+  rotate: false
+  xy: 1490, 915
+  size: 729, 703
+  orig: 729, 703
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR2
+  rotate: true
+  xy: 8, 1827
+  size: 988, 780
+  orig: 988, 780
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: false
+  xy: 1902, 3050
+  size: 945, 894
+  orig: 945, 894
+  offset: 0, 0
+  index: -1
+SQUIRE-PANTS
+  rotate: false
+  xy: 1774, 2299
+  size: 484, 693
+  orig: 484, 693
+  offset: 0, 0
+  index: -1
+SQUIRE-SHIRT
+  rotate: false
+  xy: 8, 8
+  size: 699, 893
+  orig: 699, 893
+  offset: 0, 0
+  index: -1
+SQUIRE-SHIRT2
+  rotate: true
+  xy: 891, 2306
+  size: 686, 875
+  orig: 686, 875
+  offset: 0, 0
+  index: -1
+SQUIRE-WAIST
+  rotate: false
+  xy: 2855, 3058
+  size: 812, 886
+  orig: 812, 886
+  offset: 0, 0
+  index: -1

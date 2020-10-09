@@ -1,0 +1,250 @@
+
+CGAmyFriendshipEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM12
+  rotate: false
+  xy: 3609, 72
+  size: 316, 529
+  orig: 316, 529
+  offset: 0, 0
+  index: -1
+AMY-CORNEA
+  rotate: false
+  xy: 3933, 463
+  size: 102, 138
+  orig: 102, 138
+  offset: 0, 0
+  index: -1
+AMY-EYESHINE
+  rotate: false
+  xy: 204, 75
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+AMY-LIPS
+  rotate: false
+  xy: 8, 15
+  size: 188, 121
+  orig: 188, 121
+  offset: 0, 0
+  index: -1
+AMY-PIE
+  rotate: false
+  xy: 8, 1357
+  size: 2344, 1330
+  orig: 2344, 1330
+  offset: 0, 0
+  index: -1
+AMY-TORSO
+  rotate: true
+  xy: 2411, 2660
+  size: 1422, 1635
+  orig: 1422, 1635
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 8, 144
+  size: 2395, 1205
+  orig: 2395, 1205
+  offset: 0, 0
+  index: -1
+EXTRA1
+  rotate: true
+  xy: 2411, 609
+  size: 1095, 1628
+  orig: 1095, 1628
+  offset: 0, 0
+  index: -1
+EXTRA3
+  rotate: true
+  xy: 2360, 1712
+  size: 940, 1728
+  orig: 940, 1728
+  offset: 0, 0
+  index: -1
+KID
+  rotate: true
+  xy: 2411, 8
+  size: 593, 1190
+  orig: 593, 1190
+  offset: 0, 0
+  index: -1
+STALL
+  rotate: false
+  xy: 8, 2695
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+
+CGAmyFriendshipEpilogue2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM11
+  rotate: true
+  xy: 2986, 877
+  size: 903, 449
+  orig: 903, 449
+  offset: 0, 0
+  index: -1
+AMY-ARM13
+  rotate: true
+  xy: 1250, 59
+  size: 686, 475
+  orig: 686, 475
+  offset: 0, 0
+  index: -1
+AMY-EYEBROWS
+  rotate: false
+  xy: 2970, 374
+  size: 489, 210
+  orig: 489, 210
+  offset: 0, 0
+  index: -1
+AMY-EYELASH
+  rotate: true
+  xy: 3293, 2226
+  size: 561, 234
+  orig: 561, 234
+  offset: 0, 0
+  index: -1
+AMY-EYEWHITE
+  rotate: false
+  xy: 3161, 197
+  size: 157, 169
+  orig: 157, 169
+  offset: 0, 0
+  index: -1
+AMY-FLOWER
+  rotate: false
+  xy: 3293, 1867
+  size: 283, 351
+  orig: 283, 351
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: false
+  xy: 8, 8
+  size: 876, 720
+  orig: 876, 720
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: true
+  xy: 2450, 937
+  size: 843, 528
+  orig: 843, 528
+  offset: 0, 0
+  index: -1
+AMY-HAIR4
+  rotate: false
+  xy: 3528, 3165
+  size: 556, 864
+  orig: 556, 864
+  offset: 0, 0
+  index: -1
+AMY-HAIR5
+  rotate: false
+  xy: 1733, 104
+  size: 593, 558
+  orig: 593, 558
+  offset: 0, 0
+  index: -1
+AMY-HAT
+  rotate: false
+  xy: 2325, 3132
+  size: 1195, 897
+  orig: 1195, 897
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: false
+  xy: 2450, 1788
+  size: 835, 999
+  orig: 835, 999
+  offset: 0, 0
+  index: -1
+AMY-LIGHTING1
+  rotate: false
+  xy: 2970, 592
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+AMY-RIBBON
+  rotate: false
+  xy: 2334, 90
+  size: 327, 319
+  orig: 327, 319
+  offset: 0, 0
+  index: -1
+AMY-SKIRT
+  rotate: false
+  xy: 2325, 2795
+  size: 1088, 329
+  orig: 1088, 329
+  offset: 0, 0
+  index: -1
+BG-EXTRA GUYS2
+  rotate: false
+  xy: 8, 2667
+  size: 2309, 1362
+  orig: 2309, 1362
+  offset: 0, 0
+  index: -1
+BOARD
+  rotate: false
+  xy: 1934, 670
+  size: 508, 1989
+  orig: 508, 1989
+  offset: 0, 0
+  index: -1
+EXTRA1ARM
+  rotate: false
+  xy: 892, 17
+  size: 350, 711
+  orig: 350, 711
+  offset: 0, 0
+  index: -1
+EXTRA2
+  rotate: false
+  xy: 8, 736
+  size: 1021, 1923
+  orig: 1021, 1923
+  offset: 0, 0
+  index: -1
+EXTRA4
+  rotate: false
+  xy: 1037, 753
+  size: 889, 1906
+  orig: 889, 1906
+  offset: 0, 0
+  index: -1
+KID2
+  rotate: false
+  xy: 2938, 173
+  size: 215, 193
+  orig: 215, 193
+  offset: 0, 0
+  index: -1
+STEAM
+  rotate: false
+  xy: 2450, 417
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Sparkle 1
+  rotate: true
+  xy: 2669, 83
+  size: 326, 261
+  orig: 326, 261
+  offset: 0, 0
+  index: -1

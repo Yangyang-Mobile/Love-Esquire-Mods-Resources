@@ -1,0 +1,424 @@
+
+CGVelIndividualEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-DUST-SM
+  rotate: true
+  xy: 3816, 1060
+  size: 478, 263
+  orig: 478, 263
+  offset: 0, 0
+  index: -1
+BG-FLAG
+  rotate: true
+  xy: 2410, 1505
+  size: 710, 310
+  orig: 710, 310
+  offset: 0, 0
+  index: -1
+BG-KNIGHT1
+  rotate: false
+  xy: 2730, 1169
+  size: 1078, 1267
+  orig: 1078, 1267
+  offset: 0, 0
+  index: -1
+BG-ROCK
+  rotate: true
+  xy: 2400, 25
+  size: 88, 145
+  orig: 88, 145
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 829
+  size: 2394, 1386
+  orig: 2394, 1386
+  offset: 0, 0
+  index: -1
+BG0KNIGHT2
+  rotate: false
+  xy: 2730, 2444
+  size: 1300, 1640
+  orig: 1300, 1640
+  offset: 0, 0
+  index: -1
+GOON-HAND
+  rotate: true
+  xy: 913, 31
+  size: 790, 1043
+  orig: 790, 1043
+  offset: 0, 0
+  index: -1
+ROCKS
+  rotate: true
+  xy: 3733, 163
+  size: 889, 354
+  orig: 889, 354
+  offset: 0, 0
+  index: -1
+VEL-ARM12
+  rotate: true
+  xy: 2410, 1178
+  size: 319, 254
+  orig: 319, 254
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: true
+  xy: 3816, 1546
+  size: 477, 265
+  orig: 477, 265
+  offset: 0, 0
+  index: -1
+VEL-ARM22
+  rotate: false
+  xy: 2268, 79
+  size: 124, 233
+  orig: 124, 233
+  offset: 0, 0
+  index: -1
+VEL-ARM24
+  rotate: true
+  xy: 3733, 1084
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+VEL-CAPE1
+  rotate: false
+  xy: 1964, 49
+  size: 296, 263
+  orig: 296, 263
+  offset: 0, 0
+  index: -1
+VEL-CAPE3
+  rotate: false
+  xy: 8, 15
+  size: 897, 806
+  orig: 897, 806
+  offset: 0, 0
+  index: -1
+VEL-CAPE4
+  rotate: false
+  xy: 3816, 2031
+  size: 269, 405
+  orig: 269, 405
+  offset: 0, 0
+  index: -1
+VEL-CAPE5
+  rotate: false
+  xy: 8, 2223
+  size: 2714, 1861
+  orig: 2714, 1861
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS
+  rotate: false
+  xy: 3733, 8
+  size: 328, 147
+  orig: 328, 147
+  offset: 0, 0
+  index: -1
+VEL-EYESHINE
+  rotate: false
+  xy: 2553, 39
+  size: 180, 74
+  orig: 180, 74
+  offset: 0, 0
+  index: -1
+VEL-SHOULDERPAD
+  rotate: false
+  xy: 1964, 320
+  size: 423, 501
+  orig: 423, 501
+  offset: 0, 0
+  index: -1
+VEL-SKIRT1
+  rotate: true
+  xy: 2410, 121
+  size: 1040, 1315
+  orig: 1040, 1315
+  offset: 0, 0
+  index: -1
+
+CGVelIndividualEpilogue2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-FILTER1-SM
+  rotate: false
+  xy: 8, 2690
+  size: 2315, 1386
+  orig: 2315, 1386
+  offset: 0, 0
+  index: -1
+BG-FILTER2-SM
+  rotate: false
+  xy: 3454, 895
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+BG-FLAG2
+  rotate: false
+  xy: 1881, 729
+  size: 291, 578
+  orig: 291, 578
+  offset: 0, 0
+  index: -1
+BG-SHADOW
+  rotate: true
+  xy: 1361, 1672
+  size: 478, 201
+  orig: 478, 201
+  offset: 0, 0
+  index: -1
+DUST-SM
+  rotate: false
+  xy: 3454, 610
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+GOON-BANDANA
+  rotate: true
+  xy: 1604, 1671
+  size: 479, 705
+  orig: 479, 705
+  offset: 0, 0
+  index: -1
+GOON-HEAD
+  rotate: true
+  xy: 2331, 3020
+  size: 1056, 1582
+  orig: 1056, 1582
+  offset: 0, 0
+  index: -1
+GOON-SHOULDER
+  rotate: false
+  xy: 2180, 8
+  size: 1074, 1121
+  orig: 1074, 1121
+  offset: 0, 0
+  index: -1
+GOON-TORSO
+  rotate: false
+  xy: 8, 45
+  size: 354, 1880
+  orig: 354, 1880
+  offset: 0, 0
+  index: -1
+LIGHTING1
+  rotate: false
+  xy: 3491, 1180
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING2
+  rotate: true
+  xy: 3262, 124
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: false
+  xy: 3516, 1933
+  size: 546, 678
+  orig: 546, 678
+  offset: 0, 0
+  index: -1
+VEL-ARM23
+  rotate: false
+  xy: 3921, 3125
+  size: 121, 214
+  orig: 121, 214
+  offset: 0, 0
+  index: -1
+VEL-BELT
+  rotate: true
+  xy: 2051, 1320
+  size: 343, 377
+  orig: 343, 377
+  offset: 0, 0
+  index: -1
+VEL-CORNEA
+  rotate: true
+  xy: 3921, 3347
+  size: 197, 124
+  orig: 197, 124
+  offset: 0, 0
+  index: -1
+VEL-EYELASH
+  rotate: true
+  xy: 1361, 1308
+  size: 356, 196
+  orig: 356, 196
+  offset: 0, 0
+  index: -1
+VEL-EYEWHITE
+  rotate: true
+  xy: 3262, 877
+  size: 296, 184
+  orig: 296, 184
+  offset: 0, 0
+  index: -1
+VEL-HAIR1
+  rotate: true
+  xy: 2436, 1137
+  size: 527, 408
+  orig: 527, 408
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: false
+  xy: 3307, 1215
+  size: 176, 275
+  orig: 176, 275
+  offset: 0, 0
+  index: -1
+VEL-HAIR3
+  rotate: false
+  xy: 3921, 3702
+  size: 153, 374
+  orig: 153, 374
+  offset: 0, 0
+  index: -1
+VEL-HAIR4
+  rotate: true
+  xy: 3516, 2619
+  size: 393, 548
+  orig: 393, 548
+  offset: 0, 0
+  index: -1
+VEL-HAIR5
+  rotate: false
+  xy: 1565, 1315
+  size: 478, 348
+  orig: 478, 348
+  offset: 0, 0
+  index: -1
+VEL-HAIR6
+  rotate: false
+  xy: 2317, 1672
+  size: 544, 253
+  orig: 544, 253
+  offset: 0, 0
+  index: -1
+VEL-HAIR7
+  rotate: false
+  xy: 2852, 1181
+  size: 447, 309
+  orig: 447, 309
+  offset: 0, 0
+  index: -1
+VEL-HAMMER1
+  rotate: false
+  xy: 462, 692
+  size: 891, 1990
+  orig: 891, 1990
+  offset: 0, 0
+  index: -1
+VEL-HAMMER2
+  rotate: false
+  xy: 2331, 1947
+  size: 1177, 1065
+  orig: 1177, 1065
+  offset: 0, 0
+  index: -1
+VEL-HEAD
+  rotate: false
+  xy: 1361, 707
+  size: 512, 593
+  orig: 512, 593
+  offset: 0, 0
+  index: -1
+VEL-LEG1
+  rotate: true
+  xy: 3493, 1465
+  size: 460, 480
+  orig: 460, 480
+  offset: 0, 0
+  index: -1
+VEL-MOUTH
+  rotate: false
+  xy: 3921, 3552
+  size: 152, 142
+  orig: 152, 142
+  offset: 0, 0
+  index: -1
+VEL-NECK
+  rotate: false
+  xy: 3547, 229
+  size: 471, 373
+  orig: 471, 373
+  offset: 0, 0
+  index: -1
+VEL-SKIRT2
+  rotate: false
+  xy: 1361, 2158
+  size: 954, 524
+  orig: 954, 524
+  offset: 0, 0
+  index: -1
+VEL-SKIRT3
+  rotate: false
+  xy: 1604, 9
+  size: 443, 690
+  orig: 443, 690
+  offset: 0, 0
+  index: -1
+VEL-SKIRT4
+  rotate: true
+  xy: 370, 16
+  size: 668, 339
+  orig: 668, 339
+  offset: 0, 0
+  index: -1
+VEL-SKIRT5
+  rotate: false
+  xy: 8, 1946
+  size: 446, 736
+  orig: 446, 736
+  offset: 0, 0
+  index: -1
+VEL-SKIRT6
+  rotate: true
+  xy: 717, 60
+  size: 624, 879
+  orig: 624, 879
+  offset: 0, 0
+  index: -1
+VEL-TORSO
+  rotate: true
+  xy: 2869, 1498
+  size: 441, 616
+  orig: 441, 616
+  offset: 0, 0
+  index: -1
+
+CGVelIndividualEpilogue3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-ROCK2
+  rotate: false
+  xy: 273, 36
+  size: 260, 262
+  orig: 260, 262
+  offset: 0, 0
+  index: -1
+VEL-LEG2
+  rotate: false
+  xy: 8, 8
+  size: 257, 290
+  orig: 257, 290
+  offset: 0, 0
+  index: -1

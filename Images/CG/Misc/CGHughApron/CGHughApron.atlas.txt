@@ -1,0 +1,223 @@
+
+CGHughApron.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SMLL
+  rotate: false
+  xy: 1503, 3340
+  size: 1199, 695
+  orig: 1199, 695
+  offset: 0, 0
+  index: -1
+FX1
+  rotate: false
+  xy: 2710, 3341
+  size: 1199, 694
+  orig: 1199, 694
+  offset: 0, 0
+  index: -1
+FX2
+  rotate: true
+  xy: 1093, 2068
+  size: 1199, 678
+  orig: 1199, 678
+  offset: 0, 0
+  index: -1
+FX3
+  rotate: true
+  xy: 1779, 2133
+  size: 1199, 503
+  orig: 1199, 503
+  offset: 0, 0
+  index: -1
+HUGH-APRON1
+  rotate: false
+  xy: 8, 2268
+  size: 1077, 999
+  orig: 1077, 999
+  offset: 0, 0
+  index: -1
+HUGH-APRON2
+  rotate: false
+  xy: 2672, 1468
+  size: 708, 633
+  orig: 708, 633
+  offset: 0, 0
+  index: -1
+HUGH-APRON3
+  rotate: false
+  xy: 3388, 1414
+  size: 608, 687
+  orig: 608, 687
+  offset: 0, 0
+  index: -1
+HUGH-ARM1
+  rotate: true
+  xy: 1514, 1155
+  size: 905, 487
+  orig: 905, 487
+  offset: 0, 0
+  index: -1
+HUGH-ARM2
+  rotate: false
+  xy: 867, 75
+  size: 528, 1015
+  orig: 528, 1015
+  offset: 0, 0
+  index: -1
+HUGH-BLUSH
+  rotate: false
+  xy: 2297, 1388
+  size: 258, 127
+  orig: 258, 127
+  offset: 0, 0
+  index: -1
+HUGH-CORNEA
+  rotate: false
+  xy: 2009, 1146
+  size: 302, 214
+  orig: 302, 214
+  offset: 0, 0
+  index: -1
+HUGH-EYEBROWS
+  rotate: true
+  xy: 1403, 213
+  size: 337, 238
+  orig: 337, 238
+  offset: 0, 0
+  index: -1
+HUGH-EYELASH
+  rotate: true
+  xy: 3917, 3661
+  size: 374, 99
+  orig: 374, 99
+  offset: 0, 0
+  index: -1
+HUGH-EYESHINE
+  rotate: false
+  xy: 1732, 646
+  size: 229, 211
+  orig: 229, 211
+  offset: 0, 0
+  index: -1
+HUGH-EYEWHITE
+  rotate: true
+  xy: 1732, 865
+  size: 282, 257
+  orig: 282, 257
+  offset: 0, 0
+  index: -1
+HUGH-HAIR1
+  rotate: false
+  xy: 2009, 1368
+  size: 280, 757
+  orig: 280, 757
+  offset: 0, 0
+  index: -1
+HUGH-HAIR2
+  rotate: false
+  xy: 3643, 2134
+  size: 394, 403
+  orig: 394, 403
+  offset: 0, 0
+  index: -1
+HUGH-HAIR3
+  rotate: true
+  xy: 2860, 2109
+  size: 356, 775
+  orig: 356, 775
+  offset: 0, 0
+  index: -1
+HUGH-HAIR4
+  rotate: true
+  xy: 1403, 558
+  size: 532, 321
+  orig: 532, 321
+  offset: 0, 0
+  index: -1
+HUGH-HEAD
+  rotate: false
+  xy: 2860, 2473
+  size: 766, 860
+  orig: 766, 860
+  offset: 0, 0
+  index: -1
+HUGH-HEARTPUPILS
+  rotate: false
+  xy: 1997, 954
+  size: 225, 184
+  orig: 225, 184
+  offset: 0, 0
+  index: -1
+HUGH-LEG11
+  rotate: true
+  xy: 8, 139
+  size: 1002, 851
+  orig: 1002, 851
+  offset: 0, 0
+  index: -1
+HUGH-LEG12
+  rotate: false
+  xy: 2297, 1523
+  size: 367, 667
+  orig: 367, 667
+  offset: 0, 0
+  index: -1
+HUGH-LEG21
+  rotate: true
+  xy: 3634, 2545
+  size: 788, 356
+  orig: 788, 356
+  offset: 0, 0
+  index: -1
+HUGH-LIGHTING
+  rotate: false
+  xy: 1403, 66
+  size: 239, 139
+  orig: 239, 139
+  offset: 0, 0
+  index: -1
+HUGH-MOUTH
+  rotate: false
+  xy: 2319, 1169
+  size: 188, 211
+  orig: 188, 211
+  offset: 0, 0
+  index: -1
+HUGH-TORSO
+  rotate: false
+  xy: 8, 1149
+  size: 928, 1111
+  orig: 928, 1111
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM
+  rotate: false
+  xy: 8, 3275
+  size: 1487, 760
+  orig: 1487, 760
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR
+  rotate: true
+  xy: 944, 1098
+  size: 962, 562
+  orig: 962, 562
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: true
+  xy: 2290, 2198
+  size: 1134, 562
+  orig: 1134, 562
+  offset: 0, 0
+  index: -1
+SQUIRE-PANTS
+  rotate: false
+  xy: 8, 8
+  size: 356, 123
+  orig: 356, 123
+  offset: 0, 0
+  index: -1

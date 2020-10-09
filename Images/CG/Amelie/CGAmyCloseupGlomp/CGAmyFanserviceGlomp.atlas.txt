@@ -1,0 +1,172 @@
+
+CGAmyFanserviceGlomp.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY -TORSO1
+  rotate: false
+  xy: 8, 1281
+  size: 2574, 2774
+  orig: 2574, 2774
+  offset: 0, 0
+  index: -1
+AMY-ARM12
+  rotate: false
+  xy: 2590, 1315
+  size: 636, 337
+  orig: 636, 337
+  offset: 0, 0
+  index: -1
+AMY-ARM14
+  rotate: false
+  xy: 8, 8
+  size: 3004, 1265
+  orig: 3004, 1265
+  offset: 0, 0
+  index: -1
+AMY-ARM15
+  rotate: false
+  xy: 3721, 1404
+  size: 246, 248
+  orig: 246, 248
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: true
+  xy: 2590, 1660
+  size: 2395, 1387
+  orig: 2395, 1387
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 3234, 1375
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: false
+  xy: 3020, 59
+  size: 1042, 1248
+  orig: 1042, 1248
+  offset: 0, 0
+  index: -1
+
+CGAmyFanserviceGlomp2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY -TORSO2
+  rotate: false
+  xy: 8, 1587
+  size: 2601, 2493
+  orig: 2601, 2493
+  offset: 0, 0
+  index: -1
+AMY-ARM11
+  rotate: true
+  xy: 3496, 210
+  size: 653, 385
+  orig: 653, 385
+  offset: 0, 0
+  index: -1
+AMY-BOSOM
+  rotate: true
+  xy: 2617, 1354
+  size: 1211, 1413
+  orig: 1211, 1413
+  offset: 0, 0
+  index: -1
+AMY-SKIRT2
+  rotate: false
+  xy: 3496, 871
+  size: 565, 475
+  orig: 565, 475
+  offset: 0, 0
+  index: -1
+AMY-SKIRT4
+  rotate: true
+  xy: 2614, 60
+  size: 1286, 874
+  orig: 1286, 874
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: false
+  xy: 8, 8
+  size: 1316, 1571
+  orig: 1316, 1571
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM13
+  rotate: true
+  xy: 2617, 2573
+  size: 1507, 1455
+  orig: 1507, 1455
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK
+  rotate: true
+  xy: 1332, 232
+  size: 1347, 1274
+  orig: 1347, 1274
+  offset: 0, 0
+  index: -1
+
+CGAmyFanserviceGlomp3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM13
+  rotate: false
+  xy: 1704, 266
+  size: 1063, 1013
+  orig: 1063, 1013
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: true
+  xy: 3186, 1228
+  size: 1058, 826
+  orig: 1058, 826
+  offset: 0, 0
+  index: -1
+AMY-SKIRT1
+  rotate: false
+  xy: 1801, 2294
+  size: 2210, 1784
+  orig: 2210, 1784
+  offset: 0, 0
+  index: -1
+AMY-SKIRT3
+  rotate: false
+  xy: 8, 8
+  size: 1688, 1628
+  orig: 1688, 1628
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM10
+  rotate: false
+  xy: 1801, 1287
+  size: 1377, 999
+  orig: 1377, 999
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12SLEEVE
+  rotate: false
+  xy: 2775, 534
+  size: 612, 686
+  orig: 612, 686
+  offset: 0, 0
+  index: -1
+SQUIRE-TORSO
+  rotate: false
+  xy: 8, 1644
+  size: 1785, 2434
+  orig: 1785, 2434
+  offset: 0, 0
+  index: -1

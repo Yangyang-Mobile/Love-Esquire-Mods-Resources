@@ -1,0 +1,362 @@
+
+CGVelGoodEnding.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: false
+  xy: 8, 2702
+  size: 2394, 1386
+  orig: 2394, 1386
+  offset: 0, 0
+  index: -1
+BOKEH
+  rotate: false
+  xy: 2098, 296
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+Group 2 copy
+  rotate: true
+  xy: 3802, 1400
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM11
+  rotate: false
+  xy: 1317, 472
+  size: 971, 1181
+  orig: 971, 1181
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM14
+  rotate: false
+  xy: 3802, 948
+  size: 206, 444
+  orig: 206, 444
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM22
+  rotate: true
+  xy: 1274, 9
+  size: 455, 615
+  orig: 455, 615
+  offset: 0, 0
+  index: -1
+SQUIRE-BELT2
+  rotate: true
+  xy: 3478, 121
+  size: 189, 598
+  orig: 189, 598
+  offset: 0, 0
+  index: -1
+SQUIRE-BODY
+  rotate: true
+  xy: 2410, 2465
+  size: 1623, 1578
+  orig: 1623, 1578
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR1
+  rotate: false
+  xy: 2296, 100
+  size: 1174, 833
+  orig: 1174, 833
+  offset: 0, 0
+  index: -1
+SQUIRE-HOOD1
+  rotate: false
+  xy: 1317, 1661
+  size: 1022, 1033
+  orig: 1022, 1033
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH
+  rotate: true
+  xy: 2098, 73
+  size: 215, 147
+  orig: 215, 147
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK1
+  rotate: true
+  xy: 3478, 318
+  size: 615, 582
+  orig: 615, 582
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK3
+  rotate: true
+  xy: 941, 42
+  size: 181, 201
+  orig: 181, 201
+  offset: 0, 0
+  index: -1
+VEL-BODY1
+  rotate: false
+  xy: 2347, 941
+  size: 1447, 1516
+  orig: 1447, 1516
+  offset: 0, 0
+  index: -1
+VEL-EYELASHES2
+  rotate: true
+  xy: 3802, 1886
+  size: 571, 281
+  orig: 571, 281
+  offset: 0, 0
+  index: -1
+VEL-EYELIGHTS2
+  rotate: true
+  xy: 1897, 36
+  size: 428, 193
+  orig: 428, 193
+  offset: 0, 0
+  index: -1
+VEL-EYES2
+  rotate: true
+  xy: 941, 231
+  size: 640, 325
+  orig: 640, 325
+  offset: 0, 0
+  index: -1
+VEL-HAIR1
+  rotate: true
+  xy: 8, 17
+  size: 854, 925
+  orig: 854, 925
+  offset: 0, 0
+  index: -1
+VEL-HAIR4
+  rotate: false
+  xy: 8, 879
+  size: 1301, 1815
+  orig: 1301, 1815
+  offset: 0, 0
+  index: -1
+VEL-MOUTH1
+  rotate: false
+  xy: 3478, 8
+  size: 216, 105
+  orig: 216, 105
+  offset: 0, 0
+  index: -1
+VEL-MOUTH2
+  rotate: false
+  xy: 3702, 8
+  size: 216, 105
+  orig: 216, 105
+  offset: 0, 0
+  index: -1
+
+CGVelGoodEnding2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LIGHTING2
+  rotate: true
+  xy: 1986, 322
+  size: 478, 277
+  orig: 478, 277
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: false
+  xy: 8, 2726
+  size: 1241, 1355
+  orig: 1241, 1355
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM13
+  rotate: false
+  xy: 2788, 2487
+  size: 151, 125
+  orig: 151, 125
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM21
+  rotate: false
+  xy: 1483, 757
+  size: 476, 859
+  orig: 476, 859
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM23
+  rotate: false
+  xy: 2992, 3221
+  size: 780, 860
+  orig: 780, 860
+  offset: 0, 0
+  index: -1
+SQUIRE-BELT1
+  rotate: false
+  xy: 2218, 3116
+  size: 766, 965
+  orig: 766, 965
+  offset: 0, 0
+  index: -1
+SQUIRE-BLUSH
+  rotate: false
+  xy: 2152, 2210
+  size: 628, 402
+  orig: 628, 402
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR2
+  rotate: false
+  xy: 2677, 1818
+  size: 309, 384
+  orig: 309, 384
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: true
+  xy: 8, 1396
+  size: 1322, 1183
+  orig: 1322, 1183
+  offset: 0, 0
+  index: -1
+SQUIRE-HOOD2
+  rotate: false
+  xy: 3780, 3149
+  size: 291, 932
+  orig: 291, 932
+  offset: 0, 0
+  index: -1
+SQUIRE-HOOD3
+  rotate: true
+  xy: 1257, 2406
+  size: 498, 887
+  orig: 498, 887
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH2
+  rotate: false
+  xy: 561, 64
+  size: 341, 212
+  orig: 341, 212
+  offset: 0, 0
+  index: -1
+SQUIRE-NECK2
+  rotate: false
+  xy: 3007, 2594
+  size: 718, 619
+  orig: 718, 619
+  offset: 0, 0
+  index: -1
+VEL-ANTENNAE
+  rotate: false
+  xy: 1199, 1624
+  size: 840, 774
+  orig: 840, 774
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: false
+  xy: 2047, 1441
+  size: 523, 377
+  orig: 523, 377
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: true
+  xy: 977, 277
+  size: 1111, 498
+  orig: 1111, 498
+  offset: 0, 0
+  index: -1
+VEL-ARM22
+  rotate: false
+  xy: 8, 284
+  size: 961, 1104
+  orig: 961, 1104
+  offset: 0, 0
+  index: -1
+VEL-BLUSH1
+  rotate: false
+  xy: 2218, 2620
+  size: 781, 488
+  orig: 781, 488
+  offset: 0, 0
+  index: -1
+VEL-CORNEA2
+  rotate: true
+  xy: 2435, 1016
+  size: 417, 228
+  orig: 417, 228
+  offset: 0, 0
+  index: -1
+VEL-DRESS1
+  rotate: false
+  xy: 1483, 209
+  size: 495, 540
+  orig: 495, 540
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS1
+  rotate: false
+  xy: 8, 8
+  size: 545, 268
+  orig: 545, 268
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS2
+  rotate: true
+  xy: 3733, 2505
+  size: 636, 289
+  orig: 636, 289
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS3
+  rotate: false
+  xy: 1967, 808
+  size: 469, 176
+  orig: 469, 176
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: true
+  xy: 910, 138
+  size: 131, 548
+  orig: 131, 548
+  offset: 0, 0
+  index: -1
+VEL-HAIR3
+  rotate: true
+  xy: 2047, 1826
+  size: 376, 622
+  orig: 376, 622
+  offset: 0, 0
+  index: -1
+VEL-HEAD
+  rotate: false
+  xy: 1257, 2912
+  size: 953, 1169
+  orig: 953, 1169
+  offset: 0, 0
+  index: -1
+VEL-MOUTH3
+  rotate: false
+  xy: 1199, 1511
+  size: 216, 105
+  orig: 216, 105
+  offset: 0, 0
+  index: -1
+VEL-NECK
+  rotate: false
+  xy: 1967, 992
+  size: 460, 441
+  orig: 460, 441
+  offset: 0, 0
+  index: -1
+VEL-SCLERA2
+  rotate: true
+  xy: 2271, 307
+  size: 493, 243
+  orig: 493, 243
+  offset: 0, 0
+  index: -1

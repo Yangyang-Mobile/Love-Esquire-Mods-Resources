@@ -1,0 +1,153 @@
+
+CGKamalaWinLadiesofLake.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KAMALA-ACCESSORY1
+  rotate: false
+  xy: 3951, 3975
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+KAMALA-ACCESSORY2
+  rotate: false
+  xy: 3423, 2806
+  size: 525, 392
+  orig: 525, 392
+  offset: 0, 0
+  index: -1
+KAMALA-ACCESSORY3
+  rotate: false
+  xy: 3338, 2402
+  size: 554, 396
+  orig: 554, 396
+  offset: 0, 0
+  index: -1
+KAMALA-ARM11
+  rotate: true
+  xy: 1977, 1135
+  size: 677, 490
+  orig: 677, 490
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12
+  rotate: false
+  xy: 8, 1249
+  size: 1034, 1277
+  orig: 1034, 1277
+  offset: 0, 0
+  index: -1
+KAMALA-ARM21
+  rotate: true
+  xy: 2270, 2564
+  size: 375, 1060
+  orig: 375, 1060
+  offset: 0, 0
+  index: -1
+KAMALA-ARM22
+  rotate: false
+  xy: 8, 8
+  size: 841, 1233
+  orig: 841, 1233
+  offset: 0, 0
+  index: -1
+KAMALA-BLUSH
+  rotate: true
+  xy: 1671, 246
+  size: 576, 508
+  orig: 576, 508
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS
+  rotate: false
+  xy: 1671, 23
+  size: 323, 215
+  orig: 323, 215
+  offset: 0, 0
+  index: -1
+KAMALA-EYES
+  rotate: false
+  xy: 3277, 2092
+  size: 399, 302
+  orig: 399, 302
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR1
+  rotate: true
+  xy: 1050, 830
+  size: 813, 919
+  orig: 813, 919
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR2
+  rotate: false
+  xy: 1977, 848
+  size: 232, 279
+  orig: 232, 279
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR3
+  rotate: true
+  xy: 3423, 3206
+  size: 826, 520
+  orig: 826, 520
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR4
+  rotate: false
+  xy: 2270, 2947
+  size: 1145, 1085
+  orig: 1145, 1085
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR5
+  rotate: false
+  xy: 857, 23
+  size: 806, 799
+  orig: 806, 799
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: false
+  xy: 1050, 1651
+  size: 874, 875
+  orig: 874, 875
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH
+  rotate: false
+  xy: 857, 1129
+  size: 144, 112
+  orig: 144, 112
+  offset: 0, 0
+  index: -1
+KAMALA-TORSO
+  rotate: false
+  xy: 8, 2534
+  size: 2254, 1498
+  orig: 2254, 1498
+  offset: 0, 0
+  index: -1
+KAMALA-TORSO2
+  rotate: true
+  xy: 1932, 1820
+  size: 706, 625
+  orig: 706, 625
+  offset: 0, 0
+  index: -1
+KAMALA-TORSO3
+  rotate: false
+  xy: 2565, 1915
+  size: 704, 641
+  orig: 704, 641
+  offset: 0, 0
+  index: -1
+KAMALA-TORSOACCESSORY
+  rotate: false
+  xy: 3277, 1736
+  size: 348, 348
+  orig: 348, 348
+  offset: 0, 0
+  index: -1

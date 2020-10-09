@@ -1,0 +1,125 @@
+
+CGBeatriceWinLadiesofLake.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM11
+  rotate: false
+  xy: 8, 2165
+  size: 1713, 1894
+  orig: 1713, 1894
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM21
+  rotate: false
+  xy: 1497, 1118
+  size: 332, 1039
+  orig: 332, 1039
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM22
+  rotate: false
+  xy: 2911, 2865
+  size: 515, 1194
+  orig: 515, 1194
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM23
+  rotate: false
+  xy: 2578, 1402
+  size: 143, 127
+  orig: 143, 127
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY
+  rotate: true
+  xy: 8, 217
+  size: 1940, 1481
+  orig: 1940, 1481
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROWS
+  rotate: false
+  xy: 8, 8
+  size: 475, 201
+  orig: 475, 201
+  offset: 0, 0
+  index: -1
+BEATRICE-EYES
+  rotate: false
+  xy: 2911, 2600
+  size: 457, 257
+  orig: 457, 257
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: true
+  xy: 2273, 634
+  size: 753, 594
+  orig: 753, 594
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: false
+  xy: 1837, 1395
+  size: 733, 937
+  orig: 733, 937
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR3
+  rotate: true
+  xy: 3434, 2753
+  size: 541, 619
+  orig: 541, 619
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR4
+  rotate: false
+  xy: 2578, 1537
+  size: 427, 795
+  orig: 427, 795
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR5
+  rotate: false
+  xy: 2273, 306
+  size: 174, 320
+  orig: 174, 320
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR6
+  rotate: true
+  xy: 1837, 1165
+  size: 222, 286
+  orig: 222, 286
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR7
+  rotate: false
+  xy: 1729, 2340
+  size: 1174, 1719
+  orig: 1174, 1719
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: false
+  xy: 3434, 3302
+  size: 650, 757
+  orig: 650, 757
+  offset: 0, 0
+  index: -1
+BEATRICE-MOUTH
+  rotate: true
+  xy: 1729, 2200
+  size: 132, 92
+  orig: 132, 92
+  offset: 0, 0
+  index: -1
+BEATRICE-TORSO
+  rotate: true
+  xy: 1497, 297
+  size: 813, 768
+  orig: 813, 768
+  offset: 0, 0
+  index: -1

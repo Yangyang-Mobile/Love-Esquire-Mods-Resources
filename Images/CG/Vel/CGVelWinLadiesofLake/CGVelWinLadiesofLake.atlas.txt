@@ -1,0 +1,153 @@
+
+CGVelWinLadiesofLake.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VEL--ARM11
+  rotate: false
+  xy: 8, 2877
+  size: 1915, 1110
+  orig: 1915, 1110
+  offset: 0, 0
+  index: -1
+VEL-ACCESSORY1
+  rotate: false
+  xy: 8, 8
+  size: 210, 161
+  orig: 210, 161
+  offset: 0, 0
+  index: -1
+VEL-ACCESSORY2
+  rotate: false
+  xy: 1707, 1949
+  size: 165, 236
+  orig: 165, 236
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: false
+  xy: 1931, 2946
+  size: 1289, 1041
+  orig: 1289, 1041
+  offset: 0, 0
+  index: -1
+VEL-BLUSH
+  rotate: true
+  xy: 3829, 3688
+  size: 299, 194
+  orig: 299, 194
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS
+  rotate: true
+  xy: 1507, 1562
+  size: 332, 87
+  orig: 332, 87
+  offset: 0, 0
+  index: -1
+VEL-EYECORNEA
+  rotate: true
+  xy: 1404, 1109
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+VEL-EYES
+  rotate: false
+  xy: 3228, 2964
+  size: 352, 146
+  orig: 352, 146
+  offset: 0, 0
+  index: -1
+VEL-EYESCLERA
+  rotate: false
+  xy: 3588, 2994
+  size: 142, 116
+  orig: 142, 116
+  offset: 0, 0
+  index: -1
+VEL-HAIR1
+  rotate: false
+  xy: 503, 449
+  size: 321, 503
+  orig: 321, 503
+  offset: 0, 0
+  index: -1
+VEL-HAIR10
+  rotate: true
+  xy: 936, 919
+  size: 287, 460
+  orig: 287, 460
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: true
+  xy: 3228, 3118
+  size: 869, 593
+  orig: 869, 593
+  offset: 0, 0
+  index: -1
+VEL-HAIR3
+  rotate: false
+  xy: 832, 517
+  size: 363, 394
+  orig: 363, 394
+  offset: 0, 0
+  index: -1
+VEL-HAIR4
+  rotate: false
+  xy: 936, 1214
+  size: 563, 680
+  orig: 563, 680
+  offset: 0, 0
+  index: -1
+VEL-HAIR5
+  rotate: false
+  xy: 1707, 2193
+  size: 182, 676
+  orig: 182, 676
+  offset: 0, 0
+  index: -1
+VEL-HAIR6
+  rotate: false
+  xy: 8, 177
+  size: 487, 775
+  orig: 487, 775
+  offset: 0, 0
+  index: -1
+VEL-HAIR7
+  rotate: false
+  xy: 8, 960
+  size: 920, 934
+  orig: 920, 934
+  offset: 0, 0
+  index: -1
+VEL-HAIR8
+  rotate: true
+  xy: 503, 134
+  size: 307, 369
+  orig: 307, 369
+  offset: 0, 0
+  index: -1
+VEL-HAIR9
+  rotate: true
+  xy: 880, 135
+  size: 374, 340
+  orig: 374, 340
+  offset: 0, 0
+  index: -1
+VEL-MOUTH
+  rotate: false
+  xy: 1203, 742
+  size: 171, 169
+  orig: 171, 169
+  offset: 0, 0
+  index: -1
+VEL-TORSO
+  rotate: false
+  xy: 8, 1902
+  size: 1691, 967
+  orig: 1691, 967
+  offset: 0, 0
+  index: -1

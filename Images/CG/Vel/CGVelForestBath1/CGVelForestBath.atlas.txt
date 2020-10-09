@@ -1,0 +1,180 @@
+
+CGVelForestBath.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SM
+  rotate: true
+  xy: 1696, 1203
+  size: 2882, 1622
+  orig: 2882, 1622
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 861, 133
+  size: 580, 328
+  orig: 580, 328
+  offset: 0, 0
+  index: -1
+SQUIRE
+  rotate: false
+  xy: 8, 934
+  size: 1680, 3151
+  orig: 1680, 3151
+  offset: 0, 0
+  index: -1
+VEL MOUTH2
+  rotate: false
+  xy: 1608, 11
+  size: 302, 245
+  orig: 302, 245
+  offset: 0, 0
+  index: -1
+VEL WATERS
+  rotate: false
+  xy: 3890, 3658
+  size: 193, 427
+  orig: 193, 427
+  offset: 0, 0
+  index: -1
+VEL-ANTENNA
+  rotate: true
+  xy: 3326, 1077
+  size: 800, 653
+  orig: 800, 653
+  offset: 0, 0
+  index: -1
+VEL-ANTENNA2
+  rotate: true
+  xy: 8, 199
+  size: 262, 845
+  orig: 262, 845
+  offset: 0, 0
+  index: -1
+VEL-ARM
+  rotate: true
+  xy: 3326, 1885
+  size: 2200, 556
+  orig: 2200, 556
+  offset: 0, 0
+  index: -1
+VEL-BACKTOWEL
+  rotate: true
+  xy: 3120, 45
+  size: 1024, 625
+  orig: 1024, 625
+  offset: 0, 0
+  index: -1
+VEL-BLUSH
+  rotate: true
+  xy: 3753, 489
+  size: 580, 324
+  orig: 580, 324
+  offset: 0, 0
+  index: -1
+VEL-CORNEA
+  rotate: true
+  xy: 1449, 154
+  size: 307, 151
+  orig: 307, 151
+  offset: 0, 0
+  index: -1
+VEL-DRIP1
+  rotate: true
+  xy: 8, 64
+  size: 127, 484
+  orig: 127, 484
+  offset: 0, 0
+  index: -1
+VEL-DRIPS
+  rotate: true
+  xy: 1696, 264
+  size: 931, 1416
+  orig: 931, 1416
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS
+  rotate: true
+  xy: 3890, 3257
+  size: 393, 134
+  orig: 393, 134
+  offset: 0, 0
+  index: -1
+VEL-EYELIGHT
+  rotate: false
+  xy: 500, 72
+  size: 308, 119
+  orig: 308, 119
+  offset: 0, 0
+  index: -1
+VEL-EYESSCLERA
+  rotate: true
+  xy: 3753, 8
+  size: 473, 283
+  orig: 473, 283
+  offset: 0, 0
+  index: -1
+VEL-HAIRBACK
+  rotate: true
+  xy: 8, 469
+  size: 457, 1637
+  orig: 457, 1637
+  offset: 0, 0
+  index: -1
+VEL-MOUTH1
+  rotate: false
+  xy: 3120, 1096
+  size: 94, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1
+
+CGVelForestBath2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VEL-BODY
+  rotate: false
+  xy: 8, 1762
+  size: 1202, 2219
+  orig: 1202, 2219
+  offset: 0, 0
+  index: -1
+VEL-EYEBROWS2
+  rotate: false
+  xy: 2212, 3612
+  size: 448, 369
+  orig: 448, 369
+  offset: 0, 0
+  index: -1
+VEL-HAIR1
+  rotate: false
+  xy: 8, 8
+  size: 503, 690
+  orig: 503, 690
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: false
+  xy: 1218, 2480
+  size: 338, 485
+  orig: 338, 485
+  offset: 0, 0
+  index: -1
+VEL-HEAD
+  rotate: false
+  xy: 1218, 2973
+  size: 986, 1008
+  orig: 986, 1008
+  offset: 0, 0
+  index: -1
+VEL-TOWELHAND
+  rotate: false
+  xy: 8, 706
+  size: 1055, 1048
+  orig: 1055, 1048
+  offset: 0, 0
+  index: -1

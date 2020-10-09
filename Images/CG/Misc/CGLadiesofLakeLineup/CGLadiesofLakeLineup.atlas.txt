@@ -1,0 +1,1020 @@
+
+CGLadiesofLakeLineup.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM14
+  rotate: false
+  xy: 3808, 2917
+  size: 257, 360
+  orig: 257, 360
+  offset: 0, 0
+  index: -1
+AMY-CORNEA
+  rotate: false
+  xy: 3346, 8
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+AMY-EYESHINE
+  rotate: true
+  xy: 2357, 2608
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+AMY-FRILL2
+  rotate: false
+  xy: 3808, 2209
+  size: 252, 253
+  orig: 252, 253
+  offset: 0, 0
+  index: -1
+AMY-FRILL4
+  rotate: true
+  xy: 3808, 2470
+  size: 439, 254
+  orig: 439, 254
+  offset: 0, 0
+  index: -1
+AMY-RIBBON1
+  rotate: true
+  xy: 8, 8
+  size: 106, 242
+  orig: 106, 242
+  offset: 0, 0
+  index: -1
+AMY-RIBBON4
+  rotate: true
+  xy: 3808, 1716
+  size: 204, 279
+  orig: 204, 279
+  offset: 0, 0
+  index: -1
+AMY-TORSO2
+  rotate: false
+  xy: 628, 1757
+  size: 848, 935
+  orig: 848, 935
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM12
+  rotate: false
+  xy: 2472, 255
+  size: 549, 223
+  orig: 549, 223
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM21
+  rotate: false
+  xy: 3808, 1928
+  size: 247, 273
+  orig: 247, 273
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEBROW
+  rotate: true
+  xy: 2357, 2112
+  size: 98, 34
+  orig: 98, 34
+  offset: 0, 0
+  index: -1
+BEATRICE-EYEWHITE
+  rotate: false
+  xy: 3153, 11
+  size: 185, 90
+  orig: 185, 90
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: false
+  xy: 2472, 11
+  size: 320, 236
+  orig: 320, 236
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: false
+  xy: 3807, 10
+  size: 269, 476
+  orig: 269, 476
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR4
+  rotate: true
+  xy: 1956, 486
+  size: 665, 1069
+  orig: 665, 1069
+  offset: 0, 0
+  index: -1
+BEATRICE-LEG1
+  rotate: false
+  xy: 1484, 1774
+  size: 475, 918
+  orig: 475, 918
+  offset: 0, 0
+  index: -1
+BEATRICE-LIPS
+  rotate: true
+  xy: 2357, 2352
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+BEATRICE-TORSO2
+  rotate: true
+  xy: 588, 384
+  size: 613, 1057
+  orig: 613, 1057
+  offset: 0, 0
+  index: -1
+BG-SKY-SM
+  rotate: false
+  xy: 8, 2700
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+BG-STAGE-SM
+  rotate: true
+  xy: 2412, 1692
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+GISELLE-ARM12
+  rotate: true
+  xy: 1653, 8
+  size: 470, 811
+  orig: 470, 811
+  offset: 0, 0
+  index: -1
+GISELLE-BLUSH
+  rotate: false
+  xy: 2913, 10
+  size: 232, 91
+  orig: 232, 91
+  offset: 0, 0
+  index: -1
+GISELLE-CORNEA
+  rotate: false
+  xy: 258, 8
+  size: 202, 106
+  orig: 202, 106
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS1
+  rotate: true
+  xy: 1956, 1159
+  size: 173, 1502
+  orig: 173, 1502
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS2
+  rotate: false
+  xy: 8, 1176
+  size: 612, 1516
+  orig: 612, 1516
+  offset: 0, 0
+  index: -1
+GISELLE-DRESS3
+  rotate: true
+  xy: 628, 1005
+  size: 744, 1320
+  orig: 744, 1320
+  offset: 0, 0
+  index: -1
+GISELLE-EYEWHITE
+  rotate: true
+  xy: 2800, 11
+  size: 236, 105
+  orig: 236, 105
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: true
+  xy: 2382, 1343
+  size: 341, 834
+  orig: 341, 834
+  offset: 0, 0
+  index: -1
+GISELLE-LEG1
+  rotate: false
+  xy: 1967, 1780
+  size: 382, 912
+  orig: 382, 912
+  offset: 0, 0
+  index: -1
+GISELLE-LEG2
+  rotate: true
+  xy: 588, 8
+  size: 368, 892
+  orig: 368, 892
+  offset: 0, 0
+  index: -1
+GISELLE-LIPS
+  rotate: true
+  xy: 2357, 2218
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+GISELLE-NECK
+  rotate: false
+  xy: 3808, 3285
+  size: 273, 316
+  orig: 273, 316
+  offset: 0, 0
+  index: -1
+KAMALA-ARM12
+  rotate: false
+  xy: 1956, 1340
+  size: 418, 426
+  orig: 418, 426
+  offset: 0, 0
+  index: -1
+KAMALA-ARM2
+  rotate: false
+  xy: 8, 122
+  size: 572, 1046
+  orig: 572, 1046
+  offset: 0, 0
+  index: -1
+KAMALA-CORNEA
+  rotate: true
+  xy: 2913, 118
+  size: 129, 111
+  orig: 129, 111
+  offset: 0, 0
+  index: -1
+KAMALA-EARRING1
+  rotate: false
+  xy: 2357, 2437
+  size: 46, 163
+  orig: 46, 163
+  offset: 0, 0
+  index: -1
+KAMALA-EARRING2
+  rotate: false
+  xy: 2357, 2279
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR1
+  rotate: true
+  xy: 3224, 1348
+  size: 336, 233
+  orig: 336, 233
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR6
+  rotate: false
+  xy: 3444, 37
+  size: 355, 936
+  orig: 355, 936
+  offset: 0, 0
+  index: -1
+KAMALA-LEG2
+  rotate: false
+  xy: 3033, 109
+  size: 403, 1042
+  orig: 403, 1042
+  offset: 0, 0
+  index: -1
+KAMALA-LIPS
+  rotate: true
+  xy: 1891, 934
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+KAMALA-NECKLACE
+  rotate: true
+  xy: 1488, 58
+  size: 318, 157
+  orig: 318, 157
+  offset: 0, 0
+  index: -1
+KAMALA-NOSE
+  rotate: true
+  xy: 468, 62
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+KAMALA-TORSO2
+  rotate: false
+  xy: 3466, 981
+  size: 614, 703
+  orig: 614, 703
+  offset: 0, 0
+  index: -1
+LIGHTING-FLARE1
+  rotate: true
+  xy: 3807, 494
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+LIGHTING-FLARE2
+  rotate: true
+  xy: 3808, 3609
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+VEL-SKIRT
+  rotate: true
+  xy: 1653, 488
+  size: 509, 230
+  orig: 509, 230
+  offset: 0, 0
+  index: -1
+
+CGLadiesofLakeLineup2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AMY-ARM11
+  rotate: false
+  xy: 1127, 606
+  size: 359, 302
+  orig: 359, 302
+  offset: 0, 0
+  index: -1
+AMY-ARM12
+  rotate: false
+  xy: 663, 1352
+  size: 346, 228
+  orig: 346, 228
+  offset: 0, 0
+  index: -1
+AMY-ARM13
+  rotate: false
+  xy: 400, 18
+  size: 379, 527
+  orig: 379, 527
+  offset: 0, 0
+  index: -1
+AMY-ARM21
+  rotate: false
+  xy: 2635, 1872
+  size: 460, 325
+  orig: 460, 325
+  offset: 0, 0
+  index: -1
+AMY-ARM22
+  rotate: true
+  xy: 3103, 1880
+  size: 342, 283
+  orig: 342, 283
+  offset: 0, 0
+  index: -1
+AMY-ARM23
+  rotate: false
+  xy: 1675, 2625
+  size: 457, 670
+  orig: 457, 670
+  offset: 0, 0
+  index: -1
+AMY-ARM24
+  rotate: false
+  xy: 1123, 916
+  size: 303, 220
+  orig: 303, 220
+  offset: 0, 0
+  index: -1
+AMY-EYEBROW
+  rotate: true
+  xy: 4012, 2836
+  size: 345, 76
+  orig: 345, 76
+  offset: 0, 0
+  index: -1
+AMY-EYELASH
+  rotate: true
+  xy: 3009, 1493
+  size: 371, 161
+  orig: 371, 161
+  offset: 0, 0
+  index: -1
+AMY-EYEWHITE
+  rotate: false
+  xy: 2435, 1334
+  size: 126, 114
+  orig: 126, 114
+  offset: 0, 0
+  index: -1
+AMY-FLOWER
+  rotate: false
+  xy: 2447, 1456
+  size: 143, 184
+  orig: 143, 184
+  offset: 0, 0
+  index: -1
+AMY-FRILL1
+  rotate: false
+  xy: 2708, 3714
+  size: 858, 374
+  orig: 858, 374
+  offset: 0, 0
+  index: -1
+AMY-FRILL3
+  rotate: true
+  xy: 663, 1588
+  size: 493, 363
+  orig: 493, 363
+  offset: 0, 0
+  index: -1
+AMY-HAIR1
+  rotate: true
+  xy: 1124, 2134
+  size: 484, 533
+  orig: 484, 533
+  offset: 0, 0
+  index: -1
+AMY-HAIR2
+  rotate: true
+  xy: 2246, 2047
+  size: 587, 381
+  orig: 587, 381
+  offset: 0, 0
+  index: -1
+AMY-HAIR3
+  rotate: false
+  xy: 356, 1284
+  size: 299, 763
+  orig: 299, 763
+  offset: 0, 0
+  index: -1
+AMY-HAIR4
+  rotate: false
+  xy: 2354, 2679
+  size: 243, 649
+  orig: 243, 649
+  offset: 0, 0
+  index: -1
+AMY-HAIR5
+  rotate: false
+  xy: 2333, 965
+  size: 181, 171
+  orig: 181, 171
+  offset: 0, 0
+  index: -1
+AMY-HEAD
+  rotate: true
+  xy: 3513, 3189
+  size: 488, 556
+  orig: 488, 556
+  offset: 0, 0
+  index: -1
+AMY-LEG1
+  rotate: false
+  xy: 640, 3115
+  size: 451, 973
+  orig: 451, 973
+  offset: 0, 0
+  index: -1
+AMY-LEG2
+  rotate: false
+  xy: 1099, 3273
+  size: 557, 815
+  orig: 557, 815
+  offset: 0, 0
+  index: -1
+AMY-LIGHTING
+  rotate: true
+  xy: 2162, 1475
+  size: 165, 277
+  orig: 165, 277
+  offset: 0, 0
+  index: -1
+AMY-MOUTH
+  rotate: false
+  xy: 2126, 718
+  size: 125, 110
+  orig: 125, 110
+  offset: 0, 0
+  index: -1
+AMY-PANTY
+  rotate: false
+  xy: 3405, 2335
+  size: 616, 378
+  orig: 616, 378
+  offset: 0, 0
+  index: -1
+AMY-RIBBON2
+  rotate: false
+  xy: 2079, 1144
+  size: 243, 177
+  orig: 243, 177
+  offset: 0, 0
+  index: -1
+AMY-RIBBON3
+  rotate: false
+  xy: 1528, 8
+  size: 162, 284
+  orig: 162, 284
+  offset: 0, 0
+  index: -1
+AMY-TORSO1
+  rotate: false
+  xy: 1124, 2626
+  size: 543, 639
+  orig: 543, 639
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM11
+  rotate: false
+  xy: 1180, 206
+  size: 340, 392
+  orig: 340, 392
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM22
+  rotate: false
+  xy: 1034, 1554
+  size: 414, 152
+  orig: 414, 152
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM23
+  rotate: false
+  xy: 1180, 31
+  size: 282, 167
+  orig: 282, 167
+  offset: 0, 0
+  index: -1
+BEATRICE-CORNEA
+  rotate: false
+  xy: 857, 2098
+  size: 159, 76
+  orig: 159, 76
+  offset: 0, 0
+  index: -1
+BEATRICE-EYELASH
+  rotate: true
+  xy: 1982, 818
+  size: 230, 88
+  orig: 230, 88
+  offset: 0, 0
+  index: -1
+BEATRICE-EYESHINE
+  rotate: false
+  xy: 1933, 8
+  size: 152, 60
+  orig: 152, 60
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR3
+  rotate: true
+  xy: 776, 587
+  size: 304, 343
+  orig: 304, 343
+  offset: 0, 0
+  index: -1
+BEATRICE-HEAD
+  rotate: false
+  xy: 1034, 1714
+  size: 437, 412
+  orig: 437, 412
+  offset: 0, 0
+  index: -1
+BEATRICE-LEG2
+  rotate: false
+  xy: 8, 1073
+  size: 340, 974
+  orig: 340, 974
+  offset: 0, 0
+  index: -1
+BEATRICE-LIGHTING
+  rotate: true
+  xy: 1728, 303
+  size: 104, 222
+  orig: 104, 222
+  offset: 0, 0
+  index: -1
+BEATRICE-SKIRT1
+  rotate: true
+  xy: 520, 2326
+  size: 745, 294
+  orig: 745, 294
+  offset: 0, 0
+  index: -1
+BEATRICE-SKIRT2
+  rotate: true
+  xy: 822, 2362
+  size: 745, 294
+  orig: 745, 294
+  offset: 0, 0
+  index: -1
+GISELLE-ARM11
+  rotate: false
+  xy: 3164, 2681
+  size: 233, 634
+  orig: 233, 634
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: true
+  xy: 1786, 604
+  size: 157, 192
+  orig: 157, 192
+  offset: 0, 0
+  index: -1
+GISELLE-ARM22
+  rotate: true
+  xy: 520, 2089
+  size: 229, 329
+  orig: 229, 329
+  offset: 0, 0
+  index: -1
+GISELLE-ARM23
+  rotate: true
+  xy: 3404, 1980
+  size: 347, 585
+  orig: 347, 585
+  offset: 0, 0
+  index: -1
+GISELLE-ARM24
+  rotate: false
+  xy: 1910, 1444
+  size: 244, 215
+  orig: 244, 215
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS
+  rotate: true
+  xy: 1933, 76
+  size: 219, 68
+  orig: 219, 68
+  offset: 0, 0
+  index: -1
+GISELLE-EYELASH
+  rotate: true
+  xy: 1698, 8
+  size: 284, 89
+  orig: 284, 89
+  offset: 0, 0
+  index: -1
+GISELLE-EYESHINE
+  rotate: true
+  xy: 2522, 944
+  size: 207, 66
+  orig: 207, 66
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: true
+  xy: 3574, 3685
+  size: 403, 494
+  orig: 403, 494
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR3
+  rotate: false
+  xy: 2140, 2642
+  size: 206, 653
+  orig: 206, 653
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR4
+  rotate: false
+  xy: 400, 553
+  size: 368, 723
+  orig: 368, 723
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR5
+  rotate: false
+  xy: 3925, 1661
+  size: 154, 311
+  orig: 154, 311
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR6
+  rotate: false
+  xy: 8, 2055
+  size: 504, 1016
+  orig: 504, 1016
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD
+  rotate: true
+  xy: 3394, 1577
+  size: 395, 523
+  orig: 395, 523
+  offset: 0, 0
+  index: -1
+GISELLE-LIGHTING
+  rotate: true
+  xy: 1910, 1337
+  size: 99, 244
+  orig: 99, 244
+  offset: 0, 0
+  index: -1
+GISELLE-RIBBON
+  rotate: false
+  xy: 1494, 755
+  size: 272, 231
+  orig: 272, 231
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO1
+  rotate: false
+  xy: 3405, 2721
+  size: 599, 460
+  orig: 599, 460
+  offset: 0, 0
+  index: -1
+GISELLE-TORSO2
+  rotate: false
+  xy: 2185, 3336
+  size: 515, 752
+  orig: 515, 752
+  offset: 0, 0
+  index: -1
+KAMALA-ARM11
+  rotate: true
+  xy: 2635, 2205
+  size: 522, 457
+  orig: 522, 457
+  offset: 0, 0
+  index: -1
+KAMALA-ARM13
+  rotate: true
+  xy: 1906, 1056
+  size: 273, 165
+  orig: 273, 165
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS1
+  rotate: false
+  xy: 3100, 2230
+  size: 296, 443
+  orig: 296, 443
+  offset: 0, 0
+  index: -1
+KAMALA-BOOBS2
+  rotate: true
+  xy: 1479, 1753
+  size: 372, 467
+  orig: 372, 467
+  offset: 0, 0
+  index: -1
+KAMALA-CROWN
+  rotate: true
+  xy: 2457, 1159
+  size: 167, 131
+  orig: 167, 131
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS
+  rotate: true
+  xy: 1017, 1397
+  size: 149, 90
+  orig: 149, 90
+  offset: 0, 0
+  index: -1
+KAMALA-EYELASH
+  rotate: false
+  xy: 2078, 836
+  size: 210, 124
+  orig: 210, 124
+  offset: 0, 0
+  index: -1
+KAMALA-EYESHINE
+  rotate: false
+  xy: 2259, 754
+  size: 128, 74
+  orig: 128, 74
+  offset: 0, 0
+  index: -1
+KAMALA-EYEWHITE
+  rotate: false
+  xy: 3925, 1531
+  size: 154, 122
+  orig: 154, 122
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR2
+  rotate: true
+  xy: 2162, 1329
+  size: 138, 265
+  orig: 138, 265
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR3
+  rotate: true
+  xy: 857, 2182
+  size: 172, 259
+  orig: 172, 259
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR4
+  rotate: true
+  xy: 8, 29
+  size: 234, 372
+  orig: 234, 372
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR5
+  rotate: false
+  xy: 3178, 1525
+  size: 154, 347
+  orig: 154, 347
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: true
+  xy: 2169, 1648
+  size: 391, 421
+  orig: 391, 421
+  offset: 0, 0
+  index: -1
+KAMALA-LEG1
+  rotate: false
+  xy: 8, 3079
+  size: 624, 1009
+  orig: 624, 1009
+  offset: 0, 0
+  index: -1
+KAMALA-LIGHTING
+  rotate: false
+  xy: 1795, 63
+  size: 130, 232
+  orig: 130, 232
+  offset: 0, 0
+  index: -1
+KAMALA-NECK
+  rotate: false
+  xy: 1500, 994
+  size: 398, 349
+  orig: 398, 349
+  offset: 0, 0
+  index: -1
+KAMALA-TORSO1
+  rotate: false
+  xy: 1665, 2133
+  size: 573, 484
+  orig: 573, 484
+  offset: 0, 0
+  index: -1
+VEL-ARM11
+  rotate: false
+  xy: 2598, 1476
+  size: 403, 388
+  orig: 403, 388
+  offset: 0, 0
+  index: -1
+VEL-ARM12
+  rotate: true
+  xy: 787, 143
+  size: 436, 385
+  orig: 436, 385
+  offset: 0, 0
+  index: -1
+VEL-ARM13
+  rotate: true
+  xy: 1774, 769
+  size: 217, 200
+  orig: 217, 200
+  offset: 0, 0
+  index: -1
+VEL-ARM21
+  rotate: true
+  xy: 1123, 1144
+  size: 402, 369
+  orig: 402, 369
+  offset: 0, 0
+  index: -1
+VEL-ARM22
+  rotate: false
+  xy: 1954, 1779
+  size: 207, 346
+  orig: 207, 346
+  offset: 0, 0
+  index: -1
+VEL-ARM23
+  rotate: false
+  xy: 2330, 1144
+  size: 119, 177
+  orig: 119, 177
+  offset: 0, 0
+  index: -1
+VEL-HAIR1
+  rotate: false
+  xy: 1528, 300
+  size: 192, 306
+  orig: 192, 306
+  offset: 0, 0
+  index: -1
+VEL-HAIR2
+  rotate: true
+  xy: 2079, 968
+  size: 168, 246
+  orig: 168, 246
+  offset: 0, 0
+  index: -1
+VEL-HAIR3
+  rotate: true
+  xy: 2296, 836
+  size: 121, 196
+  orig: 121, 196
+  offset: 0, 0
+  index: -1
+VEL-HAIR4
+  rotate: true
+  xy: 787, 61
+  size: 74, 330
+  orig: 74, 330
+  offset: 0, 0
+  index: -1
+VEL-HAIR5
+  rotate: false
+  xy: 776, 899
+  size: 339, 445
+  orig: 339, 445
+  offset: 0, 0
+  index: -1
+VEL-HAIR6
+  rotate: false
+  xy: 1728, 415
+  size: 216, 181
+  orig: 216, 181
+  offset: 0, 0
+  index: -1
+VEL-HAIR7
+  rotate: false
+  xy: 3997, 2077
+  size: 66, 250
+  orig: 66, 250
+  offset: 0, 0
+  index: -1
+VEL-HEAD
+  rotate: false
+  xy: 1500, 1351
+  size: 402, 394
+  orig: 402, 394
+  offset: 0, 0
+  index: -1
+VEL-LEG1
+  rotate: false
+  xy: 8, 271
+  size: 384, 794
+  orig: 384, 794
+  offset: 0, 0
+  index: -1
+VEL-LEG2
+  rotate: true
+  xy: 2708, 3323
+  size: 383, 797
+  orig: 383, 797
+  offset: 0, 0
+  index: -1
+VEL-LIGHTING
+  rotate: true
+  xy: 1954, 1667
+  size: 104, 207
+  orig: 104, 207
+  offset: 0, 0
+  index: -1
+VEL-RIBBON1
+  rotate: false
+  xy: 1986, 671
+  size: 132, 139
+  orig: 132, 139
+  offset: 0, 0
+  index: -1
+VEL-RIBBON2
+  rotate: true
+  xy: 1494, 614
+  size: 133, 284
+  orig: 133, 284
+  offset: 0, 0
+  index: -1
+VEL-RIBBON3
+  rotate: false
+  xy: 1952, 446
+  size: 71, 150
+  orig: 71, 150
+  offset: 0, 0
+  index: -1
+VEL-TORSO1
+  rotate: false
+  xy: 2605, 2735
+  size: 551, 580
+  orig: 551, 580
+  offset: 0, 0
+  index: -1
+VEL-TORSO2
+  rotate: false
+  xy: 1664, 3303
+  size: 513, 785
+  orig: 513, 785
+  offset: 0, 0
+  index: -1

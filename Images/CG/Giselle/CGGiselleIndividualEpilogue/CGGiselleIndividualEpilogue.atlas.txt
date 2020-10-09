@@ -1,0 +1,208 @@
+
+CGGiselleIndividualEpilogue.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-BACKSM
+  rotate: true
+  xy: 881, 967
+  size: 1996, 693
+  orig: 1996, 693
+  offset: 0, 0
+  index: -1
+BG-CROWD
+  rotate: false
+  xy: 8, 2971
+  size: 3992, 1097
+  orig: 3992, 1097
+  offset: 0, 0
+  index: -1
+BG-FRONTSM
+  rotate: true
+  xy: 8, 967
+  size: 1996, 865
+  orig: 1996, 865
+  offset: 0, 0
+  index: -1
+DUDE-ARM11
+  rotate: true
+  xy: 1582, 1276
+  size: 1687, 1402
+  orig: 1687, 1402
+  offset: 0, 0
+  index: -1
+DUDE-ARM12
+  rotate: true
+  xy: 8, 32
+  size: 927, 811
+  orig: 927, 811
+  offset: 0, 0
+  index: -1
+DUDE-ARM21
+  rotate: true
+  xy: 2992, 2579
+  size: 384, 1054
+  orig: 384, 1054
+  offset: 0, 0
+  index: -1
+DUDE-LANYARD
+  rotate: false
+  xy: 3005, 44
+  size: 372, 197
+  orig: 372, 197
+  offset: 0, 0
+  index: -1
+GISELLE-ARM11
+  rotate: false
+  xy: 1309, 74
+  size: 461, 885
+  orig: 461, 885
+  offset: 0, 0
+  index: -1
+GISELLE-ARM12
+  rotate: false
+  xy: 2992, 1297
+  size: 409, 597
+  orig: 409, 597
+  offset: 0, 0
+  index: -1
+GISELLE-ARM21
+  rotate: true
+  xy: 1582, 988
+  size: 280, 1049
+  orig: 280, 1049
+  offset: 0, 0
+  index: -1
+GISELLE-BLUSH
+  rotate: true
+  xy: 2316, 297
+  size: 518, 280
+  orig: 518, 280
+  offset: 0, 0
+  index: -1
+GISELLE-BODY1
+  rotate: true
+  xy: 2639, 249
+  size: 1019, 1440
+  orig: 1019, 1440
+  offset: 0, 0
+  index: -1
+GISELLE-BODY2
+  rotate: false
+  xy: 827, 54
+  size: 474, 905
+  orig: 474, 905
+  offset: 0, 0
+  index: -1
+GISELLE-EYEBROWS
+  rotate: false
+  xy: 3703, 78
+  size: 308, 163
+  orig: 308, 163
+  offset: 0, 0
+  index: -1
+GISELLE-EYES
+  rotate: false
+  xy: 3385, 46
+  size: 310, 195
+  orig: 310, 195
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR1
+  rotate: true
+  xy: 2992, 1902
+  size: 669, 1040
+  orig: 669, 1040
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR3
+  rotate: true
+  xy: 3409, 1414
+  size: 480, 638
+  orig: 480, 638
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR4
+  rotate: true
+  xy: 2316, 823
+  size: 157, 302
+  orig: 157, 302
+  offset: 0, 0
+  index: -1
+GISELLE-HEAD
+  rotate: false
+  xy: 1778, 408
+  size: 530, 572
+  orig: 530, 572
+  offset: 0, 0
+  index: -1
+GISELLE-MOUTH
+  rotate: true
+  xy: 4008, 3950
+  size: 118, 74
+  orig: 118, 74
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 1778, 8
+  size: 401, 233
+  orig: 401, 233
+  offset: 0, 0
+  index: -1
+LIGHTING-MEDALSPARKLE1
+  rotate: false
+  xy: 3409, 1287
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY1
+  rotate: false
+  xy: 2187, 8
+  size: 401, 233
+  orig: 401, 233
+  offset: 0, 0
+  index: -1
+LIGHTING-RAY2
+  rotate: false
+  xy: 2596, 8
+  size: 401, 233
+  orig: 401, 233
+  offset: 0, 0
+  index: -1
+
+CGGiselleIndividualEpilogue2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DUDE-ARM13
+  rotate: true
+  xy: 1356, 536
+  size: 410, 561
+  orig: 410, 561
+  offset: 0, 0
+  index: -1
+DUDE-BODY
+  rotate: false
+  xy: 8, 513
+  size: 1340, 1297
+  orig: 1340, 1297
+  offset: 0, 0
+  index: -1
+DUDE-HEAD
+  rotate: false
+  xy: 1356, 954
+  size: 978, 856
+  orig: 978, 856
+  offset: 0, 0
+  index: -1
+GISELLE-HAIR2
+  rotate: true
+  xy: 8, 8
+  size: 497, 855
+  orig: 497, 855
+  offset: 0, 0
+  index: -1

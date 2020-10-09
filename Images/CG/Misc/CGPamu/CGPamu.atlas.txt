@@ -1,0 +1,201 @@
+
+CGPamu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-SMLL
+  rotate: false
+  xy: 8, 2694
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+FILTER
+  rotate: false
+  xy: 8, 1298
+  size: 2396, 1388
+  orig: 2396, 1388
+  offset: 0, 0
+  index: -1
+FIREFLY1
+  rotate: false
+  xy: 2393, 280
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+FIREFLY2
+  rotate: false
+  xy: 2852, 480
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+HAIR3
+  rotate: false
+  xy: 8, 91
+  size: 773, 666
+  orig: 773, 666
+  offset: 0, 0
+  index: -1
+PAMU-ARM1
+  rotate: true
+  xy: 2412, 723
+  size: 953, 1169
+  orig: 953, 1169
+  offset: 0, 0
+  index: -1
+PAMU-BLUSHA
+  rotate: false
+  xy: 1516, 102
+  size: 412, 93
+  orig: 412, 93
+  offset: 0, 0
+  index: -1
+PAMU-BLUSHB
+  rotate: true
+  xy: 3589, 716
+  size: 425, 146
+  orig: 425, 146
+  offset: 0, 0
+  index: -1
+PAMU-CORNEA
+  rotate: true
+  xy: 3743, 771
+  size: 370, 168
+  orig: 370, 168
+  offset: 0, 0
+  index: -1
+PAMU-EYEBROWSA
+  rotate: true
+  xy: 3970, 2094
+  size: 522, 50
+  orig: 522, 50
+  offset: 0, 0
+  index: -1
+PAMU-EYELASHC
+  rotate: false
+  xy: 2393, 526
+  size: 548, 189
+  orig: 548, 189
+  offset: 0, 0
+  index: -1
+PAMU-EYESHINEC
+  rotate: false
+  xy: 2949, 576
+  size: 453, 139
+  orig: 453, 139
+  offset: 0, 0
+  index: -1
+PAMU-EYEWHITE
+  rotate: false
+  xy: 2393, 314
+  size: 451, 204
+  orig: 451, 204
+  offset: 0, 0
+  index: -1
+PAMU-HAIR1
+  rotate: false
+  xy: 2945, 1684
+  size: 1017, 932
+  orig: 1017, 932
+  offset: 0, 0
+  index: -1
+PAMU-HAIR2
+  rotate: false
+  xy: 3589, 1149
+  size: 271, 527
+  orig: 271, 527
+  offset: 0, 0
+  index: -1
+PAMU-HAIR4
+  rotate: false
+  xy: 1516, 203
+  size: 584, 554
+  orig: 584, 554
+  offset: 0, 0
+  index: -1
+PAMU-LIGHTING
+  rotate: true
+  xy: 2108, 278
+  size: 479, 277
+  orig: 479, 277
+  offset: 0, 0
+  index: -1
+PAMU-MOUTHA
+  rotate: false
+  xy: 8, 8
+  size: 193, 75
+  orig: 193, 75
+  offset: 0, 0
+  index: -1
+PAMU-MOUTHB
+  rotate: true
+  xy: 2108, 208
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+PAMU-MOUTHC
+  rotate: true
+  xy: 3868, 1476
+  size: 200, 145
+  orig: 200, 145
+  offset: 0, 0
+  index: -1
+PAMU-TORSO
+  rotate: false
+  xy: 2945, 2624
+  size: 1141, 1458
+  orig: 1141, 1458
+  offset: 0, 0
+  index: -1
+PHONE LIGHT
+  rotate: false
+  xy: 789, 89
+  size: 719, 668
+  orig: 719, 668
+  offset: 0, 0
+  index: -1
+WATER1
+  rotate: true
+  xy: 2412, 1686
+  size: 2396, 525
+  orig: 2396, 525
+  offset: 0, 0
+  index: -1
+WATER2
+  rotate: false
+  xy: 8, 765
+  size: 2396, 525
+  orig: 2396, 525
+  offset: 0, 0
+  index: -1
+
+CGPamu2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PAMU-ARM2
+  rotate: false
+  xy: 8, 1049
+  size: 1693, 899
+  orig: 1693, 899
+  offset: 0, 0
+  index: -1
+PAMU-BOOBS
+  rotate: true
+  xy: 1170, 8
+  size: 1033, 832
+  orig: 1033, 832
+  offset: 0, 0
+  index: -1
+PAMU-HEAD
+  rotate: true
+  xy: 8, 25
+  size: 1016, 1154
+  orig: 1016, 1154
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+CGKamalaSquirePiggyback.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-LIGHTING
+  rotate: false
+  xy: 1732, 1643
+  size: 424, 240
+  orig: 424, 240
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: false
+  xy: 8, 2864
+  size: 2113, 1189
+  orig: 2113, 1189
+  offset: 0, 0
+  index: -1
+CHEST
+  rotate: false
+  xy: 2129, 3075
+  size: 992, 978
+  orig: 992, 978
+  offset: 0, 0
+  index: -1
+KAMALA-ARM1-2
+  rotate: false
+  xy: 2258, 305
+  size: 383, 293
+  orig: 383, 293
+  offset: 0, 0
+  index: -1
+KAMALA-ARM1-3
+  rotate: false
+  xy: 1304, 136
+  size: 150, 182
+  orig: 150, 182
+  offset: 0, 0
+  index: -1
+KAMALA-ARM2-1
+  rotate: false
+  xy: 3300, 2141
+  size: 674, 927
+  orig: 674, 927
+  offset: 0, 0
+  index: -1
+KAMALA-ARM2-2
+  rotate: false
+  xy: 8, 39
+  size: 811, 279
+  orig: 811, 279
+  offset: 0, 0
+  index: -1
+KAMALA-ARM2-3
+  rotate: false
+  xy: 2129, 2915
+  size: 209, 152
+  orig: 209, 152
+  offset: 0, 0
+  index: -1
+KAMALA-BLUSH
+  rotate: false
+  xy: 827, 24
+  size: 469, 294
+  orig: 469, 294
+  offset: 0, 0
+  index: -1
+KAMALA-DRESS
+  rotate: false
+  xy: 1589, 158
+  size: 661, 627
+  orig: 661, 627
+  offset: 0, 0
+  index: -1
+KAMALA-EYEBROWS
+  rotate: true
+  xy: 3982, 2171
+  size: 423, 73
+  orig: 423, 73
+  offset: 0, 0
+  index: -1
+KAMALA-EYES
+  rotate: true
+  xy: 3982, 2602
+  size: 466, 91
+  orig: 466, 91
+  offset: 0, 0
+  index: -1
+KAMALA-HAIR
+  rotate: false
+  xy: 2258, 217
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+KAMALA-HEAD
+  rotate: true
+  xy: 3129, 3076
+  size: 977, 930
+  orig: 977, 930
+  offset: 0, 0
+  index: -1
+KAMALA-MOUTH
+  rotate: false
+  xy: 2164, 1800
+  size: 184, 83
+  orig: 184, 83
+  offset: 0, 0
+  index: -1
+KAMALA-NOSE
+  rotate: false
+  xy: 8, 8
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+KAMALA-THIGH1
+  rotate: false
+  xy: 2274, 606
+  size: 681, 349
+  orig: 681, 349
+  offset: 0, 0
+  index: -1
+KAMALA-THIGH2
+  rotate: false
+  xy: 2274, 963
+  size: 726, 586
+  orig: 726, 586
+  offset: 0, 0
+  index: -1
+KAMALA-TORSOBOTTOM
+  rotate: false
+  xy: 8, 326
+  size: 1573, 1270
+  orig: 1573, 1270
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3008, 1125
+  size: 424, 240
+  orig: 424, 240
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM1-1
+  rotate: true
+  xy: 2375, 1557
+  size: 547, 861
+  orig: 547, 861
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM2-1
+  rotate: true
+  xy: 1732, 1891
+  size: 965, 635
+  orig: 965, 635
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM2-2
+  rotate: false
+  xy: 1589, 793
+  size: 677, 803
+  orig: 677, 803
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: true
+  xy: 2375, 2112
+  size: 955, 917
+  orig: 955, 917
+  offset: 0, 0
+  index: -1
+SQUIRE-MOUTH
+  rotate: true
+  xy: 2963, 876
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+SQUIRE-TORSO
+  rotate: false
+  xy: 8, 1604
+  size: 1716, 1252
+  orig: 1716, 1252
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,158 @@
+
+CGBeatriceCloseupSideBoob.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM2 1
+  rotate: false
+  xy: 2814, 1852
+  size: 1211, 2209
+  orig: 1211, 2209
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY1
+  rotate: true
+  xy: 2078, 66
+  size: 1195, 540
+  orig: 1195, 540
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY3
+  rotate: false
+  xy: 8, 159
+  size: 2062, 1102
+  orig: 2062, 1102
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY5
+  rotate: false
+  xy: 8, 1269
+  size: 2798, 2792
+  orig: 2798, 2792
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR1
+  rotate: false
+  xy: 2814, 540
+  size: 1229, 1304
+  orig: 1229, 1304
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR2
+  rotate: false
+  xy: 2626, 8
+  size: 942, 524
+  orig: 942, 524
+  offset: 0, 0
+  index: -1
+BOKEH
+  rotate: false
+  xy: 2626, 1093
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+LIGHTING-GOLD
+  rotate: false
+  xy: 3576, 66
+  size: 469, 466
+  orig: 469, 466
+  offset: 0, 0
+  index: -1
+
+CGBeatriceCloseupSideBoob2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM11
+  rotate: false
+  xy: 2339, 1891
+  size: 1651, 2181
+  orig: 1651, 2181
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY2
+  rotate: true
+  xy: 8, 273
+  size: 999, 2228
+  orig: 999, 2228
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY6
+  rotate: true
+  xy: 2244, 8
+  size: 435, 1002
+  orig: 435, 1002
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY7
+  rotate: true
+  xy: 2339, 451
+  size: 1432, 1313
+  orig: 1432, 1313
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR3
+  rotate: true
+  xy: 3254, 42
+  size: 401, 693
+  orig: 401, 693
+  offset: 0, 0
+  index: -1
+BEATRICE-HAIR4
+  rotate: false
+  xy: 8, 1280
+  size: 2323, 2792
+  orig: 2323, 2792
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: true
+  xy: 3660, 1065
+  size: 498, 298
+  orig: 498, 298
+  offset: 0, 0
+  index: -1
+SPARKLE
+  rotate: false
+  xy: 3660, 1571
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+
+CGBeatriceCloseupSideBoob3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEATRICE-ARM1-2
+  rotate: false
+  xy: 8, 8
+  size: 1447, 2048
+  orig: 1447, 2048
+  offset: 0, 0
+  index: -1
+BEATRICE-ARM13
+  rotate: true
+  xy: 3389, 3202
+  size: 883, 473
+  orig: 883, 473
+  offset: 0, 0
+  index: -1
+BEATRICE-BODY4
+  rotate: false
+  xy: 8, 2064
+  size: 1969, 2021
+  orig: 1969, 2021
+  offset: 0, 0
+  index: -1
+BG-SM
+  rotate: true
+  xy: 1985, 1681
+  size: 2404, 1396
+  orig: 2404, 1396
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+CGOngoingWarSquire.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SQUIRE-ARM11
+  rotate: false
+  xy: 470, 54
+  size: 160, 135
+  orig: 160, 135
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM12
+  rotate: true
+  xy: 1935, 678
+  size: 312, 450
+  orig: 312, 450
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM13
+  rotate: false
+  xy: 2853, 669
+  size: 394, 321
+  orig: 394, 321
+  offset: 0, 0
+  index: -1
+SQUIRE-ARM2
+  rotate: true
+  xy: 3255, 714
+  size: 276, 400
+  orig: 276, 400
+  offset: 0, 0
+  index: -1
+SQUIRE-BUTT
+  rotate: false
+  xy: 3663, 714
+  size: 365, 276
+  orig: 365, 276
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR1
+  rotate: false
+  xy: 4, 4
+  size: 232, 185
+  orig: 232, 185
+  offset: 0, 0
+  index: -1
+SQUIRE-HAIR2
+  rotate: false
+  xy: 2393, 692
+  size: 452, 298
+  orig: 452, 298
+  offset: 0, 0
+  index: -1
+SQUIRE-HEAD
+  rotate: true
+  xy: 1041, 194
+  size: 265, 335
+  orig: 265, 335
+  offset: 0, 0
+  index: -1
+SQUIRE-PANTS1
+  rotate: false
+  xy: 1352, 589
+  size: 575, 401
+  orig: 575, 401
+  offset: 0, 0
+  index: -1
+SQUIRE-PANTS2
+  rotate: true
+  xy: 244, 20
+  size: 169, 218
+  orig: 169, 218
+  offset: 0, 0
+  index: -1
+SQUIRE-PANTS3
+  rotate: false
+  xy: 696, 467
+  size: 648, 523
+  orig: 648, 523
+  offset: 0, 0
+  index: -1
+SQUIRE-PANTS4
+  rotate: true
+  xy: 696, 190
+  size: 269, 337
+  orig: 269, 337
+  offset: 0, 0
+  index: -1
+SQUIRE-TORSO
+  rotate: false
+  xy: 4, 197
+  size: 684, 793
+  orig: 684, 793
+  offset: 0, 0
+  index: -1

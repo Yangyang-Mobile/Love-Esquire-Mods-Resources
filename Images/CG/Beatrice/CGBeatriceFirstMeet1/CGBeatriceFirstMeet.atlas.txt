@@ -1,0 +1,165 @@
+
+CGBeatriceFirstMeet.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM11
+  rotate: false
+  xy: 2332, 706
+  size: 1495, 1717
+  orig: 1495, 1717
+  offset: 0, 0
+  index: -1
+ARM21
+  rotate: true
+  xy: 3419, 8
+  size: 690, 647
+  orig: 690, 647
+  offset: 0, 0
+  index: -1
+ARM22
+  rotate: false
+  xy: 3015, 2431
+  size: 965, 1619
+  orig: 965, 1619
+  offset: 0, 0
+  index: -1
+EYE-SHINE
+  rotate: false
+  xy: 8, 11
+  size: 520, 376
+  orig: 520, 376
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 8, 395
+  size: 2067, 2316
+  orig: 2067, 2316
+  offset: 0, 0
+  index: -1
+LIGHTING
+  rotate: false
+  xy: 536, 61
+  size: 578, 326
+  orig: 578, 326
+  offset: 0, 0
+  index: -1
+LIGHTING2
+  rotate: false
+  xy: 1122, 61
+  size: 578, 326
+  orig: 578, 326
+  offset: 0, 0
+  index: -1
+MOUTH
+  rotate: true
+  xy: 3835, 2143
+  size: 280, 237
+  orig: 280, 237
+  offset: 0, 0
+  index: -1
+NECKLACE
+  rotate: true
+  xy: 2332, 50
+  size: 648, 1079
+  orig: 648, 1079
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 1708, 297
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+TORSO-BOTTOM
+  rotate: false
+  xy: 8, 2470
+  size: 2999, 1580
+  orig: 2999, 1580
+  offset: 0, 0
+  index: -1
+
+CGBeatriceFirstMeet2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM23
+  rotate: true
+  xy: 3532, 868
+  size: 698, 541
+  orig: 698, 541
+  offset: 0, 0
+  index: -1
+BACKGROUND-SM
+  rotate: true
+  xy: 2714, 126
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+EYEBROWS
+  rotate: true
+  xy: 3532, 174
+  size: 686, 496
+  orig: 686, 496
+  offset: 0, 0
+  index: -1
+HAIR1
+  rotate: true
+  xy: 2701, 3076
+  size: 960, 1340
+  orig: 960, 1340
+  offset: 0, 0
+  index: -1
+HAIR2
+  rotate: true
+  xy: 1293, 381
+  size: 927, 1413
+  orig: 927, 1413
+  offset: 0, 0
+  index: -1
+HAIRBANGS
+  rotate: true
+  xy: 8, 8
+  size: 1300, 1277
+  orig: 1300, 1277
+  offset: 0, 0
+  index: -1
+TABLE
+  rotate: true
+  xy: 2701, 1574
+  size: 1494, 846
+  orig: 1494, 846
+  offset: 0, 0
+  index: -1
+TORSO-TOP
+  rotate: false
+  xy: 8, 1316
+  size: 2685, 2720
+  orig: 2685, 2720
+  offset: 0, 0
+  index: -1
+
+CGBeatriceFirstMeet3.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYES
+  rotate: false
+  xy: 1443, 67
+  size: 926, 730
+  orig: 926, 730
+  offset: 0, 0
+  index: -1
+HAIR3
+  rotate: false
+  xy: 8, 8
+  size: 1427, 789
+  orig: 1427, 789
+  offset: 0, 0
+  index: -1
