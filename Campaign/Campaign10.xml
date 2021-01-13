@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<CampaignStage name="Stage 10" description="This is a sample description for Stage10" victoryGold="36000" defeatGold="21000">
+<EnemyWave>
+<Units>
+<Unit mobID="9"></Unit>
+<Unit mobID="9"></Unit>
+<Unit mobID="13"></Unit>
+</Units>
+</EnemyWave>
+<EnemyWave>
+<Units>
+<Unit mobID="8"></Unit>
+<Unit mobID="8"></Unit>
+<Unit mobID="8"></Unit>
+</Units>
+</EnemyWave>
+<EnemyWave>
+<Units>
+<Unit mobID="13"></Unit>
+<Unit mobID="13"></Unit>
+<Unit mobID="11"></Unit>
+</Units>
+</EnemyWave>
+<EnemyWave>
+<Units>
+<Unit mobID="13"></Unit>
+<Unit mobID="6"></Unit>
+<Unit mobID="11"></Unit>
+</Units>
+</EnemyWave>
+<ItemRewards>
+</ItemRewards>
+</CampaignStage>
